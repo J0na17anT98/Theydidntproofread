@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="15.08125114440918" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="10.079838752746582" ty="8.7689723968505859" tz="9.0476598739624023"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Mouse">
+      <Group refID="0" name="Mouse" angle="0" ax="0" ay="1" az="0" tx="-4" ty="0" tz="0">
+        <Part refID="0" name="m4085_plate_1x1_w__holder_19" designID="4085" materialID="194" angle="119.99996185302734" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4.4721932411193848" ty="0.4007473886013031" tz="0.83842825889587402"/>
+        <Part refID="1" name="m4085_plate_1x1_w__holder_17" designID="4085" materialID="194" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735031843185425" tx="3.5278065204620361" ty="0.4007473886013031" tz="0.83842825889587402"/>
+        <Part refID="2" name="m2540_plate_1x2_w__stick_9" designID="2540" materialID="194" angle="180" ax="0" ay="0.9952273964881897" az="0.097582899034023285" tx="4.4000000953674316" ty="0.80173927545547485" tz="-0.055976316332817078"/>
+        <Part refID="3" name="m4085_plate_1x1_w__holder_18" designID="4085" materialID="194" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735031843185425" tx="3.5278065204620361" ty="0.39915275573730469" tz="-0.79176539182662964"/>
+        <Part refID="4" name="m4085_plate_1x1_w__holder_20" designID="4085" materialID="194" angle="119.99996185302734" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4.4721932411193848" ty="0.39915275573730469" tz="-0.79176539182662964"/>
+        <Part refID="5" name="m2540_plate_1x2_w__stick_8" designID="2540" materialID="194" angle="11.199991226196289" ax="1" ay="0" az="0" tx="3.5999999046325684" ty="1.1156449317932129" tz="0.0061786770820617676"/>
+        <Part refID="6" name="m30165_brick_2x2_w__bow_and_knobs_0" designID="30165" materialID="199" angle="90.545600891113281" ax="0.09712151437997818" ay="-0.99052256345748901" az="-0.09712151437997818" tx="3.5999999046325684" ty="1.5822296142578125" tz="-0.71428221464157104"/>
+      </Group>
+      <Group refID="1" name="group3" angle="172.08673095703125" ax="-0.70541328191757202" ay="0.069166332483291626" az="-0.7054133415222168" tx="0" ty="1.2100000381469727" tz="0.8399999737739563">
+        <Part refID="7" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="199" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.56999999284744263" tz="0"/>
+        <Part refID="8" name="m6019_plate_1x1_w_holder_vertical_0" designID="6019" materialID="199" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.88999998569488525" tz="0"/>
+      </Group>
+      <Group refID="2" name="group2" angle="180" ax="0" ay="0.63473051786422729" az="0.77273362874984741" tx="0.39999997615814209" ty="1.6922334432601929" tz="1.7510164976119995">
+        <Part refID="9" name="m3004_brick_1x2_0" designID="3004" materialID="199" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.40000000596046448" tz="0"/>
+        <Part refID="10" name="m6141_plate_1x1_round_2" designID="6141" materialID="26" angle="120" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="1.0499999523162842" ty="0.95999997854232788" tz="0.80000001192092896"/>
+        <Part refID="11" name="m6141_plate_1x1_round_1" designID="6141" materialID="26" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="0.57735025882720947" tx="-0.25" ty="0.95999997854232788" tz="0.80000001192092896"/>
+        <Part refID="12" name="m4070_angular_brick_1x1_1" designID="4070" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.40000000596046448" tz="0.80000001192092896"/>
+        <Part refID="13" name="m4070_angular_brick_1x1_0" designID="4070" materialID="199" angle="90" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.40000000596046448" tz="0.80000001192092896"/>
+        <Part refID="14" name="m6141_plate_1x1_round_0" designID="6141" materialID="26" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.3199999332427979" tz="0.40000000596046448"/>
+        <Part refID="15" name="m30367_final_brick_2x2_0" designID="30367" materialID="199" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="1.3600000143051147" tz="0"/>
+        <Part refID="16" name="m2540_plate_1x2_w__stick_0" designID="2540" materialID="26" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="-0.23999999463558197" tz="0.80000001192092896"/>
+        <Part refID="17" name="m49668_plate_1x1_w_tooth_2" designID="49668" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.079999998211860657" tz="0.80000001192092896"/>
+        <Part refID="18" name="m49668_plate_1x1_w_tooth_0" designID="49668" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.079999998211860657" tz="0.80000001192092896"/>
+      </Group>
+      <Group refID="3" name="group4" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="-0.57735031843185425" tx="0" ty="1.2000000476837158" tz="-0.79176539182662964">
+        <Part refID="19" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.46000000834465027" tz="0"/>
+        <Part refID="20" name="m48729_stick__3_2_w__holder_0" designID="48729" materialID="26" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.2000000476837158" tz="0"/>
+        <Part refID="21" name="m40379_tip_of_the_tail_6_47_0" designID="40379" materialID="26" angle="107.97838592529297" ax="0.72683066129684448" ay="-0.48565274477005005" az="0.48565274477005005" tx="0" ty="1.6000000238418579" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="4" ty="1.2100000381469727" tz="0.8399999737739563"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.80000001192092896" ty="-0.64999997615814209" tz="0.40000000596046448"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="4" ty="1.2000000476837158" tz="-0.79176539182662964"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

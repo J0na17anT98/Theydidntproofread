@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+      <Part refID="0" designID="3820" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.00" tz="0"/>
+      <Part refID="1" designID="3818" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.25" tz="0"/>
+      <Part refID="2" designID="3819" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.50" tz="0"/>
+      <Part refID="3" designID="3820" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.75" tz="0"/>
+      <Part refID="4" designID="3816" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.00" tz="0"/>
+      <Part refID="5" designID="3815" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.25" tz="0"/>
+      <Part refID="6" designID="3814" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.50" tz="0"/>
+      <Part refID="7" designID="3817" materialID="109" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.75" tz="0"/>
+      <Part refID="8" designID="3626" materialID="104" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.00" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Universe" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="48"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="4032">
+      <Part refID="0" designID="4032" materials="26">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0,0.40000009536743164">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6141">
+      <Part refID="1" designID="6141" materials="40">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0.31999999284744263,0.40000009536743164">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="4740">
+      <Part refID="2" designID="4740" materials="1">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0.63999998569488525,0.40000009536743164">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="41769">
+      <Part refID="3" designID="41769" materials="23">
+        <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.40000000596046448,0.319996178150177,-0.39999985694885254">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="1,0,0,0,1,0,0,0,1,-0.80000001192092896,0,2.4000000953674316" boneRefs="0,1,2"/>
+      <Rigid refID="1" transformation="1,0,0,0,1,0,0,0,1,0,0.319996178150177,1.6000001430511475" boneRefs="3"/>
+      <Joint type="hinge">
+        <RigidRef rigidRef="1" a="0,1,0" z="0,0,1" t="0,0,0"/>
+        <RigidRef rigidRef="0" a="0,1,0" z="0,0,1" t="0.80000007152557373,0.31999999284744263,-0.80000007152557373"/>
+      </Joint>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="CCOP" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="228"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="6141">
+      <Part refID="0" designID="6141" materials="1">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000128746032715,4.4800004959106445,-0.39999830722808838">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="44375">
+      <Part refID="1" designID="44375" materials="21">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.39999890327453613,4.1600003242492676,0.4000018835067749">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="6141">
+      <Part refID="2" designID="6141" materials="1">
+        <Bone refID="2" transformation="1,0,0,0,1,0,0,0,1,-0.39999890327453613,4.4800004959106445,0.4000018835067749">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3942">
+      <Part refID="3" designID="3942" materials="192">
+        <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.39999866485595703,1.9199999570846558,0.4000018835067749">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="6233">
+      <Part refID="4" designID="6233" materials="192">
+        <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,-0.39999866485595703,0,0.4000016450881958">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="1,0,0,0,1,0,0,0,1,0.40000128746032715,4.8000040054321289,1.2000017166137695" boneRefs="0,1,2"/>
+    </RigidSystem>
+    <RigidSystem>
+      <Rigid refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.39999866485595703,2.2400035858154297,2.0000019073486328" boneRefs="3,4"/>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

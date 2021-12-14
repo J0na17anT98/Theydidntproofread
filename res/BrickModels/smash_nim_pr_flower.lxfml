@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Flowers">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="4.5030517578125" angle="81.321929931640625" ax="-0.3448188304901123" ay="-0.90002220869064331" az="-0.26657083630561829" tx="-3.0919198989868164" ty="3.220613956451416" tz="0.81392031908035278"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3741" materialID="28" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" designID="56750" materialID="221" angle="180" ax="0.98480784893035889" ay="-0.17364820837974548" az="0" tx="0.85565334558486938" ty="1.7202945947647095" tz="0"/>
+        <Part refID="2" designID="56750" materialID="221" angle="162.47441101074219" ax="-0.99606794118881226" ay="-0.084320656955242157" az="-0.027179619297385216" tx="-0.40511000156402588" ty="1.5954699516296387" tz="0.70167207717895508"/>
+        <Part refID="3" designID="56750" materialID="221" angle="163.28330993652344" ax="0.99389177560806274" ay="0.096010483801364899" az="0.054415728896856308" tx="-0.35501736402511597" ty="1.3202805519104004" tz="-0.61493664979934692"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

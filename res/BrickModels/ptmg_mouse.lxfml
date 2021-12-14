@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="31.812026977539063" angle="93.949394226074219" ax="-0.23375244438648224" ay="0.94316655397415161" az="0.23621319234371185" tx="22.439332962036133" ty="13.882315635681152" tz="4.0682048797607422"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Mouse">
+      <Group refID="0" name="Mouse" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4070_angular_brick_1x1_0" designID="4070" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0" tz="0.40000000596046448"/>
+        <Part refID="1" name="m4070_angular_brick_1x1_1" designID="4070" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0" tz="0.40000000596046448"/>
+        <Part refID="2" name="m4070_angular_brick_1x1_2" designID="4070" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="3" name="m4070_angular_brick_1x1_3" designID="4070" materialID="194" angle="180" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="4" name="m30367_final_brick_2x2_0" designID="30367" materialID="194" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="0.40000000596046448" ty="1.3574601411819458" tz="1.2902141809463501"/>
+        <Part refID="5" name="m3023_plate_1x2_0" designID="3023" materialID="194" angle="90" ax="1" ay="0" az="0" tx="-0.40000000596046448" ty="0.55613476037979126" tz="0.64992541074752808"/>
+        <Part refID="6" name="m3023_plate_1x2_1" designID="3023" materialID="194" angle="90" ax="1" ay="0" az="0" tx="-0.40000000596046448" ty="0.55613476037979126" tz="0.97006982564926147"/>
+        <Part refID="7" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="-0.40000000596046448" ty="0.55613476037979126" tz="-0.64950293302536011"/>
+        <Part refID="8" name="m49668_plate_1x1_w_tooth_0" designID="49668" materialID="26" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="0.40000000596046448" ty="1.3574601411819458" tz="0.97006982564926147"/>
+        <Part refID="9" name="m49668_plate_1x1_w_tooth_1" designID="49668" materialID="26" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="-0.40000000596046448" ty="1.3574601411819458" tz="0.97006982564926147"/>
+        <Part refID="10" name="m6141_plate_1x1_round_0" designID="6141" materialID="26" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="0" ty="0.95760452747344971" tz="2.2506475448608398"/>
+        <Part refID="11" name="m30165_brick_2x2_w__bow_and_knobs_0" designID="30165" materialID="194" angle="90" ax="0" ay="-1" az="0" tx="-0.40000000596046448" ty="0.95999997854232788" tz="-0.40000000596046448"/>
+        <Part refID="12" name="m30374_light_sword_blade_0" designID="30374" materialID="222" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.55546653270721436" tz="-1.4694185256958008"/>
+        <Part refID="13" name="m4589_1" designID="4589" materialID="222" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.55577588081359863" tz="-0.96883368492126465"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

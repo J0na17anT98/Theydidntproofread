@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="smash_nj_lantern_01">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="372.1"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="19.282005310058594" angle="61.599601745605469" ax="-0.20293800532817841" ay="0.97210419178009033" az="0.11759971082210541" tx="15.672336578369141" ty="6.1693921089172363" tz="7.8760418891906738"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3070" materialID="199" angle="45.000003814697266" ax="0" ay="-0.99999994039535522" az="0" tx="-0.39999884366989136" ty="3.5199999809265137" tz="-0.40000009536743164">
+        </Part>
+        <Part refID="1" designID="87580" materialID="199" angle="90.000007629394531" ax="0" ay="-1" az="0" tx="-0.79999852180480957" ty="3.1999998092651367" tz="-0.79999995231628418"/>
+        <Part refID="2" designID="4733" materialID="24" angle="45.000003814697266" ax="0" ay="-0.99999994039535522" az="0" tx="-0.39999794960021973" ty="2.2399997711181641" tz="-0.39999938011169434"/>
+        <Part refID="3" designID="87580" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-0.79999858140945435" ty="1.9199999570846558" tz="0"/>
+        <Part refID="4" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-0.39999890327453613" ty="0.96000003814697266" tz="-0.39999938011169434">
+        </Part>
+        <Part refID="5" designID="3005" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-0.39999890327453613" ty="0" tz="-0.39999938011169434">
+        </Part>
+        <Part refID="6" designID="6141" materialID="199" angle="98.421058654785156" ax="-0.86285626888275146" ay="0.35740673542022705" az="0.35740670561790466" tx="-0.68284070491790771" ty="2.7999997138977051" tz="-0.68284189701080322"/>
+        <Part refID="7" designID="6141" materialID="199" angle="98.421051025390625" ax="-0.86285626888275146" ay="-0.35740667581558228" az="-0.35740676522254944" tx="-0.11715526133775711" ty="2.7999999523162842" tz="-0.68284201622009277"/>
+        <Part refID="8" designID="6141" materialID="199" angle="148.60026550292969" ax="-0.28108474612236023" ay="0.67859828472137451" az="0.67859828472137451" tx="-0.68284070491790771" ty="2.7999999523162842" tz="-0.11715699732303619"/>
+        <Part refID="9" designID="6141" materialID="199" angle="148.60028076171875" ax="-0.281084805727005" ay="-0.67859822511672974" az="-0.67859828472137451" tx="-0.11715502291917801" ty="2.7999999523162842" tz="-0.11715675890445709"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

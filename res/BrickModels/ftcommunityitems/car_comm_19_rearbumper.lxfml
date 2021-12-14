@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="car_comm_19_RearBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="385"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="69.282180786132812" angle="71.515975952148438" ax="-0.28184178471565247" ay="0.94029039144515991" az="0.19083824753761292" tx="59.239654541015625" ty="27.009990692138672" tz="23.688484191894531"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="2431" materialID="23" angle="90" ax="1" ay="0" az="0" tx="-1.1970001459121704" ty="0.40000367164611816" tz="0.47999972105026245">
+        </Part>
+        <Part refID="1" designID="3710" materialID="23" angle="90" ax="1" ay="0" az="0" tx="-1.1970001459121704" ty="0.40000510215759277" tz="0.15999963879585266"/>
+        <Part refID="2" designID="44728" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-0.40000006556510925" ty="1.280004620552063" tz="-0.40000015497207642"/>
+        <Part refID="3" designID="88930" materialID="23" angle="180" ax="0" ay="0.7071068286895752" az="0.7071068286895752" tx="1.2030011415481567" ty="2.0000040531158447" tz="0.1600000262260437"/>
+        <Part refID="4" designID="3004" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-0.40000006556510925" ty="0.32000470161437988" tz="-0.40000015497207642">
+        </Part>
+        <Part refID="5" designID="3023" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-0.40000006556510925" ty="0" tz="-0.40000015497207642"/>
+        <Part refID="6" designID="3024" materialID="21" angle="90" ax="1" ay="0" az="0" tx="1.2030011415481567" ty="2.0000028610229492" tz="-0.1599997878074646"/>
+        <Part refID="7" designID="2420" materialID="23" angle="180" ax="0" ay="0.7071068286895752" az="0.7071068286895752" tx="2.0030004978179932" ty="0.40000367164611816" tz="-0.16000020503997803"/>
+        <Part refID="8" designID="3021" materialID="23" angle="120" ax="0.57735025882720947" ay="-0.5773501992225647" az="-0.57735025882720947" tx="1.2030001878738403" ty="2.0000038146972656" tz="-0.479999840259552"/>
+        <Part refID="9" designID="50950" materialID="23" angle="120" ax="0.57735025882720947" ay="0.5773501992225647" az="0.57735025882720947" tx="2.0030002593994141" ty="0.40000325441360474" tz="0.15999996662139893"/>
+        <Part refID="10" designID="3623" materialID="23" angle="120" ax="0.57735025882720947" ay="-0.5773501992225647" az="-0.57735025882720947" tx="1.2030004262924194" ty="2.0000038146972656" tz="-0.79999977350234985"/>
+        <Part refID="11" designID="3024" materialID="21" angle="90" ax="1" ay="0" az="0" tx="-1.1969984769821167" ty="2.0000050067901611" tz="-0.1599997878074646"/>
+        <Part refID="12" designID="2420" materialID="23" angle="120" ax="0.57735025882720947" ay="-0.5773501992225647" az="-0.57735025882720947" tx="-1.196999192237854" ty="1.200002908706665" tz="-0.1600000262260437"/>
+        <Part refID="13" designID="3021" materialID="23" angle="120" ax="0.57735025882720947" ay="-0.5773501992225647" az="-0.57735025882720947" tx="-1.9969992637634277" ty="2.0000050067901611" tz="-0.479999840259552"/>
+        <Part refID="14" designID="50950" materialID="23" angle="120" ax="0.57735025882720947" ay="0.5773501992225647" az="0.57735025882720947" tx="-1.9969992637634277" ty="0.40000498294830322" tz="0.16000011563301086"/>
+        <Part refID="15" designID="3623" materialID="23" angle="120" ax="0.57735025882720947" ay="-0.5773501992225647" az="-0.57735025882720947" tx="-1.196999192237854" ty="2.000004768371582" tz="-0.79999953508377075"/>
+        <Part refID="16" designID="59900" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0.40000048279762268" ty="1.6000038385391235" tz="-0.40000012516975403"/>
+        <Part refID="17" designID="59900" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-0.39999958872795105" ty="1.6000038385391235" tz="-0.40000012516975403"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="19.494112014770508" angle="52.804042816162109" ax="-0.37888318300247192" ay="0.90949535369873047" az="0.1710723340511322" tx="13.326539993286133" ty="8.7474498748779297" tz="11.148884773254395"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="LXFML">
+      <Group refID="0" name="LXFML" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+      </Group>
+      <Group refID="1" name="Top" angle="90" ax="0" ay="-1" az="0" tx="-0.0024719107896089554" ty="0.0065904231742024422" tz="-0.79293626546859741">
+        <Part refID="0" name="m30162_prismatic_binoculars_0" designID="30162" materialID="27" angle="180" ax="0" ay="1" az="0" tx="1.6000000238418579" ty="1.9199999570846558" tz="0"/>
+        <Part refID="1" name="m4349_megaphone_0" designID="4349" materialID="1" angle="92.18121337890625" ax="0.19148044288158417" ay="0.19148044288158417" az="0.96263718605041504" tx="1.6000000238418579" ty="1.4500000476837158" tz="-0.80000001192092896"/>
+        <Part refID="2" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="190" angle="180" ax="0" ay="1" az="0" tx="1.6000000238418579" ty="0.95999997854232788" tz="0"/>
+        <Part refID="3" name="m4085_plate_1x1_w__holder_0" designID="4085" materialID="26" angle="180" ax="0" ay="1" az="0" tx="1.6000000238418579" ty="0.63999998569488525" tz="0"/>
+        <Part refID="4" name="m3024_plate_1x1_0" designID="3024" materialID="26" angle="0" ax="0" ay="1" az="0" tx="1.6000000238418579" ty="0.31999999284744263" tz="0"/>
+        <Part refID="5" name="m3623_plate_1x3_0" designID="3623" materialID="27" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.0024719107896089554" ty="0.0065904231742024422" tz="-0.79293626546859741"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

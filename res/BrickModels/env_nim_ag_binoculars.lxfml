@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="10.106180191040039" angle="51.001251220703125" ax="-0.53673934936523438" ay="-0.81738525629043579" az="-0.20926593244075775" tx="-5.9990463256835938" ty="6.456425666809082" tz="6.5239138603210449"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="group1">
+      <Group refID="0" name="group1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3062_round_brick_1x1_0" designID="3062" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.2400000095367432" tz="0"/>
+        <Part refID="1" name="m30374_light_sword_blade_0" designID="30374" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="0" ty="3.2000000476837158" tz="0"/>
+        <Part refID="2" name="m30162_prismatic_binoculars_0" designID="30162" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0" ty="3.2000000476837158" tz="0"/>
+        <Part refID="3" name="m4740_satellite_dish_16_0" designID="4740" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

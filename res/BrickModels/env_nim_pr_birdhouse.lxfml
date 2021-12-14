@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="-0.53792023658752441" ty="0.013900764286518097" tz="0.3780253529548645">
+        <Part refID="0" name="m4488_0" designID="4488" materialID="192" angle="90" ax="0" ay="1" az="0" tx="0.93941539525985718" ty="4.2399959564208984" tz="0.081022962927818298"/>
+        <Part refID="1" name="m3003_0" designID="3003" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-0.66058403253555298" ty="4.8799958229064941" tz="0.081022009253501892"/>
+        <Part refID="2" name="m3023_0" designID="3023" materialID="192" angle="89.999992370605469" ax="0" ay="1" az="0" tx="-0.66058427095413208" ty="4.5599956512451172" tz="0.081023439764976501"/>
+        <Part refID="3" name="m3700_0" designID="3700" materialID="192" angle="90" ax="0" ay="1" az="0" tx="0.93941539525985718" ty="4.8799958229064941" tz="0.081022009253501892"/>
+        <Part refID="4" name="m3299_0" designID="3299" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.66058403253555298" ty="5.8399958610534668" tz="0.081022009253501892"/>
+        <Part refID="5" name="m4589_0" designID="4589" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0.1394151896238327" ty="3.5999958515167236" tz="-0.31897667050361633"/>
+        <Part refID="6" name="m43898_0" designID="43898" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0.1394151896238327" ty="0.31999605894088745" tz="-0.31897667050361633"/>
+        <Part refID="7" name="m3957_0" designID="3957" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0.1394151896238327" ty="0.6399957537651062" tz="-0.31897667050361633"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3003_0" designID="3003" materialID="199" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="1" name="m3023_0" designID="3023" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-0.3999992311000824" ty="0.95999908447265625" tz="-0.39999952912330627"/>
+        <Part refID="2" name="m3069_1" designID="3069" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-0.40022239089012146" ty="1.279998779296875" tz="-0.39999952912330627"/>
+        <Part refID="3" name="m3747_1" designID="3747" materialID="199" angle="90" ax="0" ay="1" az="0" tx="-2.8000006675720215" ty="0" tz="0.40000006556510925"/>
+        <Part refID="4" name="m50746_2" designID="50746" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="-2.7999987602233887" ty="0.95999908447265625" tz="0.40000030398368835"/>
+        <Part refID="5" name="m3069_2" designID="3069" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-2.000220775604248" ty="0.95999908447265625" tz="-0.39999952912330627"/>
+        <Part refID="6" name="m50746_3" designID="50746" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="-2.7999987602233887" ty="0.95999908447265625" tz="-0.39999952912330627"/>
+        <Part refID="7" name="m3666_0" designID="3666" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-1.9999996423721313" ty="0.95999908447265625" tz="0.40000042319297791"/>
+        <Part refID="8" name="m6636_0" designID="6636" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-1.9999996423721313" ty="1.279998779296875" tz="0.40000042319297791"/>
+        <Part refID="9" name="m3747_0" designID="3747" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="2.8000016212463379" ty="0" tz="-0.39999976754188538"/>
+        <Part refID="10" name="m50746_0" designID="50746" materialID="199" angle="90" ax="0" ay="1" az="0" tx="2.8000016212463379" ty="0.95999908447265625" tz="0.40000090003013611"/>
+        <Part refID="11" name="m50746_1" designID="50746" materialID="199" angle="90" ax="0" ay="1" az="0" tx="2.8000016212463379" ty="0.95999908447265625" tz="-0.39999905228614807"/>
+        <Part refID="12" name="m3069_0" designID="3069" materialID="24" angle="0" ax="0" ay="1" az="0" tx="1.1997779607772827" ty="0.95999908447265625" tz="-0.39999929070472717"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

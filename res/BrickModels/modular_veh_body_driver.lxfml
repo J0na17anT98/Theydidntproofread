@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="2" versionMinor="4"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="48"/>
+  </Meta>
+  <Scene>
+    <Model name="WORKING">
+      <Group refID="0" name="WORKING" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+      </Group>
+      <Group refID="1" name="BODY_LEFT" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.37376341223716736" tz="0">
+        <Part refID="0" name="m61678_16" designID="61678" materialID="21" angle="119.99996948242187" ax="-0.57735025882720947" ay="-0.57735031843185425" az="-0.57735025882720947" tx="2.5600011348724365" ty="1.7509803771972656" tz="-1.200000524520874"/>
+        <Part refID="1" name="m3020_15" designID="3020" materialID="21" angle="119.99998474121094" ax="0.57735008001327515" ay="0.57735049724578857" az="-0.57735013961791992" tx="1.6000006198883057" ty="0.95097982883453369" tz="1.2000008821487427"/>
+        <Part refID="2" name="m3022_10" designID="3022" materialID="21" angle="89.999992370605469" ax="0" ay="0" az="-1" tx="1.9200012683868408" ty="1.7509810924530029" tz="-0.39999961853027344"/>
+        <Part refID="3" name="m3023_24" designID="3023" materialID="21" angle="89.999992370605469" ax="0" ay="0" az="-1" tx="2.2400014400482178" ty="1.7509810924530029" tz="-1.2000004053115845"/>
+        <Part refID="4" name="m61678_17" designID="61678" materialID="21" angle="119.99998474121094" ax="-0.5773501992225647" ay="-0.57735025882720947" az="-0.5773501992225647" tx="2.5600011348724365" ty="0.95098042488098145" tz="-1.200000524520874"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0.37376341223716736" tz="0"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

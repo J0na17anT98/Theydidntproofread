@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="env_ng_ninjago_purple-button">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="40.212764739990234" angle="94.75238037109375" ax="-0.31617242097854614" ay="0.89723008871078491" az="0.30824184417724609" tx="31.970714569091797" ty="24.925731658935547" tz="1.0640469789505005"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3960" materialID="124" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.63999998569488525" tz="0"/>
+        <Part refID="1" designID="60474" materialID="124" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0.31999999284744263" tz="0.39999991655349731"/>
+        <Part refID="2" designID="3031" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="1.2000000476837158"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

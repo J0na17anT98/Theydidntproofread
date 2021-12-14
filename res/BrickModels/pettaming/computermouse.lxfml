@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="ComputerMouse">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="81.009819030761719" angle="155.510009765625" ax="-0.05555981770157814" ay="-0.967262864112854" az="-0.24761998653411865" tx="-28.864753723144531" ty="38.959461212158203" tz="-62.998527526855469"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="40378" materialID="26" angle="180" ax="0" ay="1" az="0" tx="3.2000017166137695" ty="0.39000082015991211" tz="-3.2000002861022949"/>
+        <Part refID="1" designID="47753" materialID="199" angle="90" ax="0" ay="1" az="0" tx="4.4000015258789062" ty="0.45000076293945313" tz="-2.7999987602233887"/>
+        <Part refID="2" designID="2444" materialID="21" angle="180" ax="0" ay="1" az="0" tx="3.6000015735626221" ty="0.45000076293945313" tz="-3.5999979972839355"/>
+        <Part refID="3" designID="43719" materialID="199" angle="90" ax="0" ay="1" az="0" tx="4.4000015258789062" ty="0.13000081479549408" tz="-2.7999987602233887"/>
+        <Part refID="4" designID="40379" materialID="26" angle="180" ax="0.92387974262237549" ay="0" az="0.38268318772315979" tx="1.7106989622116089" ty="0.39000093936920166" tz="2.3459634780883789"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

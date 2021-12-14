@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="16.300186157226562" angle="52.581882476806641" ax="-0.50352126359939575" ay="0.83843117952346802" az="0.20856533944606781" tx="12.036507606506348" ty="10.025727272033691" tz="7.4146299362182617"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Robotonist">
+      <Group refID="0" name="Robotonist" angle="180" ax="0" ay="0.99691736698150635" az="0.078459113836288452" tx="2.9000000953674316" ty="0.11000000685453415" tz="-4">
+        <Part refID="0" name="m3069_flat_tile_1x2_1" designID="3069" materialID="199" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="2.5" ty="2.690000057220459" tz="0.40000000596046448"/>
+        <Part refID="1" name="m3069_flat_tile_1x2_0" designID="3069" materialID="199" angle="120" ax="-0.57735025882720947" ay="0.57735025882720947" az="-0.57735025882720947" tx="2.5" ty="2.690000057220459" tz="-0.40000000596046448"/>
+        <Part refID="2" name="m4735_holder_16_mm_1" designID="4735" materialID="199" angle="98.421058654785156" ax="0.35740673542022705" ay="0.35740673542022705" az="-0.86285626888275146" tx="3.5399999618530273" ty="2.690000057220459" tz="0"/>
+        <Part refID="3" name="m4735_holder_16_mm_0" designID="4735" materialID="199" angle="148.60028076171875" ax="-0.67859834432601929" ay="0.67859834432601929" az="0.28108462691307068" tx="1.4600000381469727" ty="2.690000057220459" tz="0"/>
+        <Part refID="4" name="m4740_satellite_dish_16_2" designID="4740" materialID="199" angle="180" ax="1" ay="0" az="0" tx="2.5" ty="4.0399999618530273" tz="0"/>
+        <Part refID="5" name="m4740_satellite_dish_16_1" designID="4740" materialID="43" angle="180" ax="1" ay="0" az="0" tx="2.5" ty="4.3400001525878906" tz="0"/>
+        <Part refID="6" name="m4740_satellite_dish_16_0" designID="4740" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.5" ty="4.369999885559082" tz="0"/>
+        <Part refID="7" name="m30374_light_sword_blade_0" designID="30374" materialID="199" angle="180" ax="0" ay="0.70710676908493042" az="-0.7071068286895752" tx="2.5" ty="1.6699999570846558" tz="0"/>
+        <Part refID="8" name="m3623_plate_1x3_1" designID="3623" materialID="199" angle="90" ax="0" ay="0" az="-1" tx="2.9000000953674316" ty="2.690000057220459" tz="0"/>
+        <Part refID="9" name="m3623_plate_1x3_0" designID="3623" materialID="199" angle="180" ax="0.70710676908493042" ay="-0.7071068286895752" az="0" tx="2.0999999046325684" ty="2.690000057220459" tz="0"/>
+        <Part refID="10" name="m4733_brick_1x1_w__4_knobs_0" designID="4733" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.5" ty="2.130000114440918" tz="0"/>
+        <Part refID="11" name="m47905_brick_1x1_w__2_knobs_0" designID="47905" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.5" ty="0.52999997138977051" tz="0"/>
+        <Part refID="12" name="m3794_plate_1x2_w__1_knob_2" designID="3794" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="2.5" ty="0.20999999344348907" tz="-0.40000000596046448"/>
+        <Part refID="13" name="m3794_plate_1x2_w__1_knob_1" designID="3794" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.9000000953674316" ty="-0.10999999940395355" tz="0.40000000596046448"/>
+        <Part refID="14" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.9000000953674316" ty="-0.10999999940395355" tz="-0.40000000596046448"/>
+        <Part refID="15" name="m6157_bearing_element_2x2_2_3_0" designID="6157" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.9000000953674316" ty="-0.10999999940395355" tz="-0.40000000596046448"/>
+        <Part refID="16" name="m6141_plate_1x1_round_0" designID="6141" materialID="199" angle="148.60028076171875" ax="-0.67859834432601929" ay="0.67859834432601929" az="0.28108462691307068" tx="1.7799999713897705" ty="2.690000057220459" tz="0"/>
+        <Part refID="17" name="m6141_plate_1x1_round_4" designID="6141" materialID="199" angle="98.421058654785156" ax="0.35740673542022705" ay="0.35740673542022705" az="-0.86285626888275146" tx="3.2200000286102295" ty="2.690000057220459" tz="0"/>
+        <Part refID="18" name="m50746_roof_tile_1_x_1_x_2_3__pc_0" designID="50746" materialID="199" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="0.57735025882720947" tx="1.7799999713897705" ty="1.8899999856948853" tz="0"/>
+        <Part refID="19" name="m50746_roof_tile_1_x_1_x_2_3__pc_1" designID="50746" materialID="199" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="-0.57735025882720947" tx="3.2200000286102295" ty="1.8899999856948853" tz="0"/>
+      </Group>
+      <Group refID="1" name="Wheel1" angle="180" ax="0" ay="0.99691736698150635" az="0.078459113836288452" tx="0.5" ty="0.10999999195337296" tz="-3.9999997615814209">
+        <Part refID="20" name="m30028_tyre_normal_wide_14_6_x_9_0" designID="30028" materialID="26" angle="90" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="0"/>
+        <Part refID="21" name="m30027_rim_wide_w_hole_8_1_x_9_0" designID="30027" materialID="194" angle="90" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="0"/>
+      </Group>
+      <Group refID="2" name="Hat" angle="8.9999265670776367" ax="1" ay="0" az="0" tx="0" ty="-0.061219710856676102" tz="-3.6221323013305664">
+        <Part refID="22" name="m4485_mini_u_s__cap_0" designID="86035" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.119999885559082" tz="-0.40000000596046448"/>
+        <Part refID="23" name="m6141_plate_1x1_round_0" designID="6141" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="4.8000001907348633" tz="-0.40000000596046448"/>
+      </Group>
+      <Group refID="3" name="Wheel" angle="8.9999265670776367" ax="1" ay="0" az="0" tx="0.30000019073486328" ty="0.11000000685453415" tz="-3.9999997615814209">
+        <Part refID="24" name="m30028_tyre_normal_wide_14_6_x_9_0" designID="30028" materialID="26" angle="90" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="0"/>
+        <Part refID="25" name="m30027_rim_wide_w_hole_8_1_x_9_0" designID="30027" materialID="194" angle="90" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="0"/>
+      </Group>
+      <Group refID="4" name="Mower" angle="142.55079650878906" ax="-0.66524642705917358" ay="-0.3389599621295929" az="0.66524672508239746" tx="-1.2399996519088745" ty="1.4724550247192383" tz="-2.6387343406677246">
+        <Part refID="26" name="m30374_light_sword_blade_0" designID="30374" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="27" name="m4735_holder_16_mm_0" designID="4735" materialID="26" angle="90" ax="-1" ay="0" az="0" tx="-1.6000000238418579" ty="0" tz="-0.15000000596046448"/>
+        <Part refID="28" name="m4735_holder_16_mm_2" designID="4735" materialID="26" angle="90" ax="1" ay="0" az="0" tx="-1.6000000238418579" ty="0" tz="-3.0499999523162842"/>
+        <Part refID="29" name="m6141_plate_1x1_round_0" designID="6141" materialID="194" angle="90" ax="1" ay="0" az="0" tx="-1.6000000238418579" ty="0" tz="-3.369999885559082"/>
+        <Part refID="30" name="m6141_plate_1x1_round_5" designID="6141" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="-1.6000000238418579" ty="0" tz="0.17000000178813934"/>
+        <Part refID="31" name="m59895_tyre_d8__sebs_0" designID="59895" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.6000000238418579" ty="0" tz="0.030000006780028343"/>
+        <Part refID="32" name="m59895_tyre_d8__sebs_1" designID="59895" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.6000000238418579" ty="0" tz="-2.6299998760223389"/>
+      </Group>
+      <Group refID="5" name="a75535_0" angle="142.55079650878906" ax="-0.66524642705917358" ay="-0.3389599621295929" az="0.66524672508239746" tx="-0.43999958038330078" ty="0.17802740633487701" tz="-1.6982779502868652">
+        <Part refID="33" name="m6220_tube_2m_0" designID="6220" materialID="194" assemblyID="75535" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="34" name="m6221_bush__7_84_0" designID="6221" materialID="194" assemblyID="75535" assemblyRefID="0" angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="-1.6000000238418579"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.2000000476837158" ty="0" tz="0"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.2000000476837158" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5000002384185791" ty="4.690000057220459" tz="0"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="4.8000001907348633" tz="-0.40000000596046448"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="3.7999999523162842" ty="0" tz="0"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.2000000476837158" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="4.1399998664855957" ty="1.5586291551589966" tz="-1.1313709020614624"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.6000000238418579" ty="0" tz="-0.80000001192092896"/>
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

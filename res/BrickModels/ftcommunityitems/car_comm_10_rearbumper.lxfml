@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_Community_RacingSecond_RearBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="372.1"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="98.238410949707031" angle="63.710254669189453" ax="-0.46679151058197021" ay="0.84936195611953735" az="0.24635334312915802" tx="68.515983581542969" ty="53.454090118408203" tz="46.832244873046875"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="59900" materialID="208" angle="180" ax="0" ay="1" az="0" tx="0.40000119805335999" ty="0.63999068737030029" tz="-0.40000057220458984"/>
+        <Part refID="1" designID="47457" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0" tz="0.39999961853027344"/>
+        <Part refID="2" designID="59900" materialID="208" angle="180" ax="0" ay="1" az="0" tx="-0.39999809861183167" ty="0.63999068737030029" tz="-0.40000009536743164"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

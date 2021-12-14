@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="-1.6000000238418579" ty="0" tz="2.8000004291534424">
+        <Part refID="0" name="m3005_brick_1x1_0" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="1" name="m3009_brick_1x6_0" designID="3009" materialID="199" angle="90" ax="0" ay="1" az="0" tx="0.3999999463558197" ty="0" tz="-1.2000000476837158"/>
+        <Part refID="2" name="m3004_brick_1x2_0" designID="3004" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="3" name="m44237_brick_2x6_0" designID="44237" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.9999939203262329" ty="0" tz="-1.1999953985214233"/>
+        <Part refID="4" name="m4286_roof_tile_1x3_25__0" designID="4286" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="0.95999908447265625" tz="-0.39999240636825562"/>
+        <Part refID="5" name="m4286_roof_tile_1x3_25__1" designID="4286" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="0.95999908447265625" tz="-2.7999711036682129"/>
+        <Part refID="6" name="m4286_roof_tile_1x3_25__2" designID="4286" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="0.95999908447265625" tz="-5.1999955177307129"/>
+        <Part refID="7" name="m3005_brick_1x1_1" designID="3005" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="0.3999999463558197" ty="0.95999908447265625" tz="-5.1999831199645996"/>
+        <Part refID="8" name="m3009_brick_1x6_1" designID="3009" materialID="199" angle="90" ax="0" ay="1" az="0" tx="0.3999999463558197" ty="0.95999908447265625" tz="-0.40000003576278687"/>
+        <Part refID="9" name="m3009_brick_1x6_2" designID="3009" materialID="199" angle="90" ax="0" ay="1" az="0" tx="0.3999999463558197" ty="1.9199984073638916" tz="-0.40000003576278687"/>
+        <Part refID="10" name="m3004_brick_1x2_1" designID="3004" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="1.9199984073638916" tz="-5.1999955177307129"/>
+        <Part refID="11" name="m3298_roof_tile_2x3_25__0" designID="3298" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.1999878883361816" ty="0.95999914407730103" tz="-1.2000564336776733"/>
+        <Part refID="12" name="m3298_roof_tile_2x3_25__1" designID="3298" materialID="199" angle="90" ax="0" ay="1" az="0" tx="1.1999878883361816" ty="0.95999914407730103" tz="-3.6000046730041504"/>
+        <Part refID="13" name="m3005_brick_1x1_2" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-0.40000000596046448"/>
+        <Part refID="14" name="m3005_brick_1x1_3" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-1.2000259160995483"/>
+        <Part refID="15" name="m3005_brick_1x1_4" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-2.8000245094299316"/>
+        <Part refID="16" name="m3005_brick_1x1_5" designID="3005" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-4.4000000953674316"/>
+        <Part refID="17" name="m3024_plate_1x1_0" designID="3024" materialID="154" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-3.6000044345855713"/>
+        <Part refID="18" name="m3024_plate_1x1_1" designID="3024" materialID="154" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="1.9199984073638916" tz="-2.0000243186950684"/>
+        <Part refID="19" name="m3024_plate_1x1_2" designID="3024" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="2.5599977970123291" tz="-2.0000243186950684"/>
+        <Part refID="20" name="m3024_plate_1x1_3" designID="3024" materialID="199" angle="0" ax="0" ay="1" az="0" tx="1.1999877691268921" ty="2.5599977970123291" tz="-3.5999922752380371"/>
+        <Part refID="21" name="m3070_flat_tile_1x1_0" designID="3070" materialID="135" angle="0" ax="0" ay="1" az="0" tx="1.2000061273574829" ty="2.8800010681152344" tz="-0.39999237656593323"/>
+        <Part refID="22" name="m6636_flat_tile_1x6_0" designID="6636" materialID="135" angle="90" ax="0" ay="1" az="0" tx="1.2000061273574829" ty="2.8800010681152344" tz="-1.2003850936889648"/>
+        <Part refID="23" name="m6636_flat_tile_1x6_1" designID="6636" materialID="135" angle="90" ax="0" ay="1" az="0" tx="0.39999997615814209" ty="2.8804776668548584" tz="-0.40038520097732544"/>
+        <Part refID="24" name="m3070_flat_tile_1x1_1" designID="3070" materialID="135" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.8800010681152344" tz="-5.1999993324279785"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

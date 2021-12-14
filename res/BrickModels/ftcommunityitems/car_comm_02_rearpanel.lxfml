@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_Hovercar5_RearPanel">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="46.554714202880859" angle="56.600269317626953" ax="-0.59028452634811401" ay="0.76927369832992554" az="0.24450385570526123" tx="26.907909393310547" ty="27.045360565185547" tz="27.801364898681641"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3020" materialID="140" angle="0" ax="0" ay="1" az="0" tx="-1.1999975442886353" ty="0" tz="0.40000000596046448"/>
+        <Part refID="1" designID="3022" materialID="140" angle="180" ax="0" ay="1" az="0" tx="0.40000283718109131" ty="0.31999969482421875" tz="-0.40000304579734802"/>
+        <Part refID="2" designID="3022" materialID="140" angle="180" ax="0" ay="1" az="0" tx="0.40000283718109131" ty="0.6399998664855957" tz="-0.40000304579734802"/>
+        <Part refID="3" designID="2432" materialID="131" angle="180" ax="0" ay="1" az="0" tx="0.40000283718109131" ty="0.95999956130981445" tz="0.40000000596046448"/>
+        <Part refID="4" designID="47753" materialID="140" angle="90" ax="0" ay="1" az="0" tx="1.2000030279159546" ty="0.31999969482421875" tz="-0.40000304579734802"/>
+        <Part refID="5" designID="43723" materialID="140" angle="90" ax="0" ay="-1" az="0" tx="-0.39999735355377197" ty="0" tz="-2.8000006675720215"/>
+        <Part refID="6" designID="43722" materialID="140" angle="90" ax="0" ay="-1" az="0" tx="0.40000283718109131" ty="0" tz="-2.8000006675720215"/>
+        <Part refID="7" designID="50746" materialID="140" angle="90" ax="0" ay="-1" az="0" tx="-1.1999979019165039" ty="0.6399996280670166" tz="0.40000000596046448"/>
+        <Part refID="8" designID="3023" materialID="140" angle="90" ax="0" ay="1" az="0" tx="-1.1999979019165039" ty="0.31999969482421875" tz="1.199999213218689"/>
+        <Part refID="9" designID="3070" materialID="140" angle="180" ax="0" ay="1" az="0" tx="-1.1999979019165039" ty="0.6399996280670166" tz="1.199999213218689">
+        </Part>
+        <Part refID="10" designID="3023" materialID="140" angle="180" ax="0" ay="1" az="0" tx="-1.1999979019165039" ty="0" tz="1.199999213218689"/>
+        <Part refID="11" designID="50746" materialID="140" angle="90" ax="0" ay="1" az="0" tx="1.2000026702880859" ty="0.6399996280670166" tz="0.40000000596046448"/>
+        <Part refID="12" designID="3023" materialID="140" angle="90" ax="0" ay="1" az="0" tx="1.2000026702880859" ty="0.31999969482421875" tz="1.199999213218689"/>
+        <Part refID="13" designID="3070" materialID="140" angle="180" ax="0" ay="1" az="0" tx="1.2000026702880859" ty="0.6399996280670166" tz="1.199999213218689">
+        </Part>
+        <Part refID="14" designID="3023" materialID="140" angle="180" ax="0" ay="1" az="0" tx="2.0000028610229492" ty="0" tz="1.199999213218689"/>
+        <Part refID="15" designID="49668" materialID="140" angle="0" ax="0" ay="1" az="0" tx="2.0000028610229492" ty="0" tz="2.0000004768371582"/>
+        <Part refID="16" designID="85984" materialID="140" angle="0" ax="0" ay="1" az="0" tx="2.0000028610229492" ty="0.31999999284744263" tz="2.0000004768371582"/>
+        <Part refID="17" designID="49668" materialID="140" angle="0" ax="0" ay="1" az="0" tx="-1.9999971389770508" ty="0" tz="2.0000004768371582"/>
+        <Part refID="18" designID="85984" materialID="140" angle="180" ax="0" ay="1" az="0" tx="-1.9999971389770508" ty="0.31999999284744263" tz="1.2000006437301636"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

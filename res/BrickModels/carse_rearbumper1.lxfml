@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_Sentinel_RearBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="40.653110504150391" angle="58.518875122070313" ax="-0.69280433654785156" ay="0.67226254940032959" az="0.26093128323554993" tx="20.090753555297852" ty="27.603008270263672" tz="22.560491561889648"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="50746" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-2" ty="0.32000097632408142" tz="0.3999999463558197"/>
+        <Part refID="1" designID="3666" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-2.0000011920928955" ty="0" tz="0.39999991655349731"/>
+        <Part refID="2" designID="3070" materialID="154" angle="180" ax="0" ay="1" az="0" tx="-1.1999999284744263" ty="0.31999942660331726" tz="0.3999992311000824">
+          <SubMaterial surfaceID="1" materialID="154"/>
+        </Part>
+        <Part refID="3" designID="3069" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-0.40022337436676025" ty="0.64000004529953003" tz="0.39999973773956299">
+        </Part>
+        <Part refID="4" designID="3022" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.39999964833259583" ty="0.32000026106834412" tz="-0.40000042319297791"/>
+        <Part refID="5" designID="50746" materialID="194" angle="90" ax="0" ay="1" az="0" tx="2" ty="0.31999999284744263" tz="-0.40000000596046448"/>
+        <Part refID="6" designID="3666" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-2.0000004768371582" ty="0" tz="-0.40000006556510925"/>
+        <Part refID="7" designID="50746" materialID="194" angle="90" ax="0" ay="-1" az="0" tx="-1.9999996423721313" ty="0.3200010359287262" tz="-0.40000000596046448"/>
+        <Part refID="8" designID="3070" materialID="199" angle="180" ax="0" ay="1" az="0" tx="-1.2000004053115845" ty="0.31999948620796204" tz="-0.40000075101852417">
+        </Part>
+        <Part refID="9" designID="3069" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40022310614585876" ty="0.6400001049041748" tz="-0.40000000596046448">
+        </Part>
+        <Part refID="10" designID="3070" materialID="154" angle="180" ax="0" ay="1" az="0" tx="1.200000524520874" ty="0.3200000524520874" tz="0.3999999463558197">
+          <SubMaterial surfaceID="1" materialID="154"/>
+        </Part>
+        <Part refID="11" designID="3070" materialID="199" angle="180" ax="0" ay="1" az="0" tx="1.200000524520874" ty="0.32000011205673218" tz="-0.40000009536743164">
+        </Part>
+        <Part refID="12" designID="50746" materialID="24" angle="90" ax="0" ay="1" az="0" tx="1.9999995231628418" ty="0.32000088691711426" tz="0.3999999463558197"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

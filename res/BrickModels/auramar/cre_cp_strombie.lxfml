@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3626_mini_head_0" designID="3626" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.9100000858306885" tz="0.0099999997764825821"/>
+        <Part refID="1" name="m2524_knapsack_0" designID="2524" materialID="26" angle="180" ax="0" ay="1" az="0" tx="0" ty="2.8399999141693115" tz="0.0099999997764825821"/>
+        <Part refID="2" name="m6132_beard_for_mini_figure_0" designID="6132" materialID="26" angle="180" ax="0" ay="0" az="1" tx="0" ty="3.9800000190734863" tz="0.0099999997764825821"/>
+        <Part refID="3" name="m3817_mini_leg_left_0" designID="3817" materialID="26" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0" tz="0"/>
+        <Part refID="4" name="m6266_skeleton__leg_0" designID="6266" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="1.1200000047683716" tz="0"/>
+        <Part refID="5" name="m3815_mini_hip_0" designID="3815" materialID="26" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="1.6000000238418579" tz="0"/>
+        <Part refID="6" name="m3814_mini_upper_part_0" designID="3814" materialID="26" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="1.6000000238418579" tz="0"/>
+        <Part refID="7" name="m3818_mini_arm__right_0" designID="3818" materialID="26" assemblyID="76382" assemblyRefID="1" angle="72.103507995605469" ax="0.98897331953048706" ay="-0.086524017155170441" az="-0.12018945068120956" tx="-0.62945818901062012" ty="2.6349351406097412" tz="0.019583219662308693"/>
+        <Part refID="8" name="m3820_mini_hand_0" designID="3820" materialID="26" assemblyID="76382" assemblyRefID="1" angle="72.103507995605469" ax="0.98897331953048706" ay="-0.086524017155170441" az="-0.12018945068120956" tx="-0.9643024206161499" ty="1.9452816247940063" tz="-0.031714785844087601"/>
+        <Part refID="9" name="m6141_0" designID="6141" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="3.7599999904632568" tz="0"/>
+        <Part refID="10" name="m6266_skeleton__leg_1" designID="6266" materialID="26" angle="10.499999046325684" ax="0" ay="0" az="1" tx="0.78478610515594482" ty="2.5970487594604492" tz="0"/>
+        <Part refID="11" name="m6141_1" designID="6141" materialID="26" angle="10.499999046325684" ax="0" ay="0" az="1" tx="1.0472052097320557" ty="1.181161642074585" tz="0"/>
+        <Part refID="12" name="m3062_round_brick_1x1_0" designID="3062" materialID="26" angle="10.499999046325684" ax="0" ay="0" az="1" tx="1.2221512794494629" ty="0.23723693192005157" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

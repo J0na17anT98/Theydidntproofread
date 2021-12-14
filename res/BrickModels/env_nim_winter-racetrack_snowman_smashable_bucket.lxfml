@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.5"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="27.582275390625" angle="76.906883239746094" ax="-0.15579341351985931" ay="0.98031586408615112" az="0.12128186970949173" tx="27.801973342895508" ty="14.12062931060791" tz="8.2749509811401367"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="67.037513732910156" ax="0.31942406296730042" ay="0.26134970784187317" az="-0.91085928678512573" tx="0.76139450073242188" ty="5.3454699516296387" tz="2.7695276737213135">
+        <Part refID="0" name="m71861_0" designID="71861" materialID="106" angle="134.99995422363281" ax="0" ay="-0.99999994039535522" az="0" tx="0.80707722902297974" ty="1.7200039625167847" tz="0.79291993379592896"/>
+        <Part refID="1" name="m70973_0" designID="70973" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0.39999943971633911" ty="0" tz="1.1999995708465576"/>
+      </Group>
+    </Model>
+    <Model name="Group1">
+      <Group refID="1" name="Group1" angle="10.555362701416016" ax="0.53668081760406494" ay="0.83984249830245972" az="0.081475801765918732" tx="2.5721859931945801" ty="11.000710487365723" tz="2.4238262176513672">
+        <Part refID="2" name="m4032_0" designID="4032" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000057220458984" ty="0.31999993324279785" tz="-0.39999997615814209"/>
+        <Part refID="3" name="m6143_0" designID="6143" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000057220458984" ty="0.63999992609024048" tz="-0.40000045299530029"/>
+        <Part refID="4" name="m4150_0" designID="4150" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000057220458984" ty="1.5999999046325684" tz="-0.39999997615814209"/>
+        <Part refID="5" name="m60474_0" designID="60474" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.2000007629394531" ty="0" tz="-0.39999997615814209"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

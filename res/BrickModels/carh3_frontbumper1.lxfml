@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.5"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3795_0" designID="3795" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.9999994039535522" ty="0" tz="0.40000000596046448"/>
+        <Part refID="1" name="m50746_1" designID="50746" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.9999992847442627" ty="0.96000003814697266" tz="0"/>
+        <Part refID="2" name="m3794_1" designID="3794" materialID="221" angle="90" ax="0" ay="-1" az="0" tx="-1.9999991655349731" ty="0.63999933004379272" tz="-0.40000021457672119"/>
+        <Part refID="3" name="m3023_1" designID="3023" materialID="221" angle="90" ax="0" ay="-1" az="0" tx="-1.9999991655349731" ty="0.31999966502189636" tz="-0.40000021457672119"/>
+        <Part refID="4" name="m50943_0" designID="50943" materialID="221" angle="180" ax="0" ay="1" az="0" tx="1.2000011205673218" ty="0.32000014185905457" tz="-0.39999902248382568"/>
+        <Part refID="5" name="m50943_1" designID="50943" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.1999994516372681" ty="0.32000017166137695" tz="0.40000009536743164"/>
+        <Part refID="6" name="m50746_0" designID="50746" materialID="1" angle="89.999977111816406" ax="0" ay="1" az="0" tx="2.0000016689300537" ty="0.96000003814697266" tz="0"/>
+        <Part refID="7" name="m3794_0" designID="3794" materialID="221" angle="90" ax="0" ay="-1" az="0" tx="2.0000011920928955" ty="0.63999980688095093" tz="-0.39999997615814209"/>
+        <Part refID="8" name="m3023_0" designID="3023" materialID="221" angle="90" ax="0" ay="-1" az="0" tx="2.0000011920928955" ty="0.32000014185905457" tz="-0.39999997615814209"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

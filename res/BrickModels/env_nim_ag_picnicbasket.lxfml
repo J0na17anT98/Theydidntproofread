@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="8.6151580810546875" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="5.0025091171264648" ty="5.5207924842834473" tz="5.8025088310241699"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m71861_handle_for_bucket_0" designID="71861" materialID="139" angle="90" ax="0" ay="-1" az="0" tx="-0.40000000596046448" ty="1.6699999570846558" tz="0.40000000596046448"/>
+        <Part refID="1" name="m30109_basket_0" designID="30109" materialID="139" angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

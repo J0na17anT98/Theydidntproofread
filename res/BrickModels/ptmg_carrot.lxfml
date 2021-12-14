@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="26.387443542480469" angle="17.930648803710938" ax="-0.99943536520004272" ay="0.033189017325639725" az="0.005233079195022583" tx="-0.96752679347991943" ty="11.848531723022461" tz="23.057701110839844"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="carrot">
+      <Group refID="0" name="carrot" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m6143_brick__16_w__cross_0" designID="6143" materialID="106" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="3.2094533443450928" tz="0.40000000596046448"/>
+        <Part refID="1" name="m3942_nose_cone_2x2x2_0" designID="3942" materialID="106" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="2.2494535446166992" tz="0.40000000596046448"/>
+        <Part refID="2" name="m30367_final_brick_2x2_0" designID="30367" materialID="106" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.1294536590576172" tz="-0.40000000596046448"/>
+        <Part refID="3" name="m6255_leaves_3_elements_0" designID="6255" materialID="28" angle="180" ax="0" ay="1" az="0" tx="0" ty="6.0894532203674316" tz="0"/>
+        <Part refID="4" name="m6143_brick__16_w__cross_1" designID="6143" materialID="106" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="4.1694536209106445" tz="0.40000000596046448"/>
+        <Part refID="5" name="m6143_brick__16_w__cross_2" designID="6143" materialID="106" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="5.1294536590576172" tz="0.40000000596046448"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="24.024791717529297" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="15.065789222717285" ty="12.191108703613281" tz="15.065790176391602"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m62462_tube_w_double_4_85_44" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="2.1800000667572021" tz="-2.4000000953674316"/>
+        <Part refID="1" name="m62462_tube_w_double_4_85_43" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="2.1800000667572021" tz="-2.4000000953674316"/>
+        <Part refID="2" name="m62462_tube_w_double_4_85_42" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.79999983310699463" ty="1.4900000095367432" tz="-2.4000000953674316"/>
+        <Part refID="3" name="m62462_tube_w_double_4_85_41" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.4900000095367432" tz="-2.4000000953674316"/>
+        <Part refID="4" name="m62462_tube_w_double_4_85_40" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.80000019073486328" ty="1.4900000095367432" tz="-2.4000000953674316"/>
+        <Part refID="5" name="m62462_tube_w_double_4_85_39" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="1.1999998092651367" ty="0.79999995231628418" tz="-2.4000000953674316"/>
+        <Part refID="6" name="m62462_tube_w_double_4_85_38" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="0.79999995231628418" tz="-2.4000000953674316"/>
+        <Part refID="7" name="m62462_tube_w_double_4_85_37" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="0.79999995231628418" tz="-2.4000000953674316"/>
+        <Part refID="8" name="m62462_tube_w_double_4_85_36" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-1.2000002861022949" ty="0.79999995231628418" tz="-2.4000000953674316"/>
+        <Part refID="9" name="m62462_tube_w_double_4_85_35" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="2.1800000667572021" tz="-0.80000001192092896"/>
+        <Part refID="10" name="m62462_tube_w_double_4_85_34" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="2.1800000667572021" tz="-0.80000001192092896"/>
+        <Part refID="11" name="m62462_tube_w_double_4_85_33" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.79999983310699463" ty="1.4900000095367432" tz="-0.80000001192092896"/>
+        <Part refID="12" name="m62462_tube_w_double_4_85_32" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.4900000095367432" tz="-0.80000001192092896"/>
+        <Part refID="13" name="m62462_tube_w_double_4_85_31" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.80000019073486328" ty="1.4900000095367432" tz="-0.80000001192092896"/>
+        <Part refID="14" name="m62462_tube_w_double_4_85_30" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="1.1999998092651367" ty="0.79999995231628418" tz="-0.80000001192092896"/>
+        <Part refID="15" name="m62462_tube_w_double_4_85_29" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="0.79999995231628418" tz="-0.80000001192092896"/>
+        <Part refID="16" name="m62462_tube_w_double_4_85_28" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="0.79999995231628418" tz="-0.80000001192092896"/>
+        <Part refID="17" name="m62462_tube_w_double_4_85_27" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-1.2000002861022949" ty="0.79999995231628418" tz="-0.80000001192092896"/>
+        <Part refID="18" name="m62462_tube_w_double_4_85_26" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="2.1800000667572021" tz="0.80000001192092896"/>
+        <Part refID="19" name="m62462_tube_w_double_4_85_25" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="2.1800000667572021" tz="0.80000001192092896"/>
+        <Part refID="20" name="m62462_tube_w_double_4_85_24" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.79999983310699463" ty="1.4900000095367432" tz="0.80000001192092896"/>
+        <Part refID="21" name="m62462_tube_w_double_4_85_23" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.4900000095367432" tz="0.80000001192092896"/>
+        <Part refID="22" name="m62462_tube_w_double_4_85_22" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.80000019073486328" ty="1.4900000095367432" tz="0.80000001192092896"/>
+        <Part refID="23" name="m62462_tube_w_double_4_85_21" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="1.1999998092651367" ty="0.79999995231628418" tz="0.80000001192092896"/>
+        <Part refID="24" name="m62462_tube_w_double_4_85_20" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="0.79999995231628418" tz="0.80000001192092896"/>
+        <Part refID="25" name="m62462_tube_w_double_4_85_19" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="0.79999995231628418" tz="0.80000001192092896"/>
+        <Part refID="26" name="m62462_tube_w_double_4_85_18" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-1.2000002861022949" ty="0.79999995231628418" tz="0.80000001192092896"/>
+        <Part refID="27" name="m62462_tube_w_double_4_85_17" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="2.1800000667572021" tz="2.4000000953674316"/>
+        <Part refID="28" name="m62462_tube_w_double_4_85_16" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="2.1800000667572021" tz="2.4000000953674316"/>
+        <Part refID="29" name="m62462_tube_w_double_4_85_15" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.79999983310699463" ty="1.4900000095367432" tz="2.4000000953674316"/>
+        <Part refID="30" name="m62462_tube_w_double_4_85_14" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.4900000095367432" tz="2.4000000953674316"/>
+        <Part refID="31" name="m62462_tube_w_double_4_85_13" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.80000019073486328" ty="1.4900000095367432" tz="2.4000000953674316"/>
+        <Part refID="32" name="m62462_tube_w_double_4_85_12" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="1.1999998092651367" ty="0.79999995231628418" tz="2.4000000953674316"/>
+        <Part refID="33" name="m62462_tube_w_double_4_85_11" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="0.79999995231628418" tz="2.4000000953674316"/>
+        <Part refID="34" name="m62462_tube_w_double_4_85_10" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="0.79999995231628418" tz="2.4000000953674316"/>
+        <Part refID="35" name="m62462_tube_w_double_4_85_9" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-1.2000002861022949" ty="0.79999995231628418" tz="2.4000000953674316"/>
+        <Part refID="36" name="m62462_tube_w_double_4_85_8" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="2.1800000667572021" tz="4"/>
+        <Part refID="37" name="m62462_tube_w_double_4_85_7" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="2.1800000667572021" tz="4"/>
+        <Part refID="38" name="m62462_tube_w_double_4_85_6" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.79999983310699463" ty="1.4900000095367432" tz="4"/>
+        <Part refID="39" name="m62462_tube_w_double_4_85_5" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0" ty="1.4900000095367432" tz="4"/>
+        <Part refID="40" name="m62462_tube_w_double_4_85_4" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.80000019073486328" ty="1.4900000095367432" tz="4"/>
+        <Part refID="41" name="m62462_tube_w_double_4_85_3" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="1.1999998092651367" ty="0.79999995231628418" tz="4"/>
+        <Part refID="42" name="m62462_tube_w_double_4_85_2" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="0.39999979734420776" ty="0.79999995231628418" tz="4"/>
+        <Part refID="43" name="m62462_tube_w_double_4_85_1" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-0.40000021457672119" ty="0.79999995231628418" tz="4"/>
+        <Part refID="44" name="m62462_tube_w_double_4_85_0" designID="62462" materialID="0" angle="180" ax="0" ay="0" az="1" tx="-1.2000002861022949" ty="0.79999995231628418" tz="4"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

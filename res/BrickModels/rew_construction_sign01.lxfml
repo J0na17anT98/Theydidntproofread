@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Universe" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="238"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="3068">
+      <Part refID="0" designID="3068" materials="106,0" decoration="0">
+        <Bone refID="0" transformation="0.7071070671081543,0.68460345268249512,-0.1769682765007019,0,0.2502710223197937,0.96817582845687866,0.70710653066635132,-0.6846039891242981,0.17696841061115265,-0.015000224113464355,0.57296758890151978,0.72088289260864258">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="3024">
+      <Part refID="1" designID="3024" materials="26">
+        <Bone refID="1" transformation="1,0,0,0,0.25027099251747131,0.96817576885223389,0,-0.96817582845687866,0.2502710223197937,-0.015000104904174805,1.0405638217926025,0.26949167251586914">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="6019">
+      <Part refID="2" designID="6019" materials="26">
+        <Bone refID="2" transformation="1,0,0,0,0.25027099251747131,0.96817576885223389,0,-0.96817582845687866,0.2502710223197937,-0.015000104904174805,0.96047717332839966,-0.040324568748474121">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="48336">
+      <Part refID="3" designID="48336" materials="26">
+        <Bone refID="3" transformation="1,0,0,0,1,0,0,0,1,-0.40000003576278687,0,-0.39999997615814209">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="0.7071070671081543,0.68460345268249512,-0.1769682765007019,0,0.2502710223197937,0.96817582845687866,0.70710653066635132,-0.6846039891242981,0.17696841061115265,-0.81500023603439331,0.57296758890151978,-0.87911713123321533" boneRefs="0,1,2"/>
+      <Rigid refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.2000000476837158,0,-2" boneRefs="3"/>
+      <Joint type="hinge">
+        <RigidRef rigidRef="1" a="1,0,0" z="0,0,1" t="0.97499996423721313,0.24799995124340057,0.80000001192092896"/>
+        <RigidRef rigidRef="0" a="0.7071070671081543,0,0.70710659027099609" z="-0.17696824669837952,0.96817582845687866,0.17696838080883026" t="0.25150534510612488,-0.39200112223625183,0.58288097381591797"/>
+      </Joint>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_Community_04_Red_FrontBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="372.1"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="69.282295227050781" angle="64.644790649414063" ax="-0.44206950068473816" ay="0.86382603645324707" az="0.24161787331104279" tx="49.851516723632812" ty="35.945236206054687" tz="31.981285095214844"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="4286" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-0.39999961853027344" ty="0.32000088691711426" tz="-0.40000006556510925"/>
+        <Part refID="1" designID="3795" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="0.40000012516975403"/>
+        <Part refID="2" designID="50950" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-0.40000021457672119" ty="0.64000028371810913" tz="0.40000119805335999"/>
+        <Part refID="3" designID="3023" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000033378601074" ty="0.32000041007995605" tz="0.40000131726264954"/>
+        <Part refID="4" designID="50950" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0.39999988675117493" ty="0.64000040292739868" tz="0.40000033378601074"/>
+        <Part refID="5" designID="4286" materialID="1" angle="90" ax="0" ay="1" az="0" tx="0.40000015497207642" ty="0.31999993324279785" tz="-0.39999982714653015"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

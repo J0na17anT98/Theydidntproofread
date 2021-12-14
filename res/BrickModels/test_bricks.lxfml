@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3001" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="-0.95999997854232788" tz="0.40000000596046448"/>
+        <Part refID="1" designID="3001" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="-0.95999997854232788" tz="-1.2000000476837158"/>
+        <Part refID="2" designID="3001" materialID="28" angle="90" ax="0" ay="-1" az="0" tx="-1.1999999284744263" ty="0" tz="-2"/>
+        <Part refID="3" designID="3001" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="0.40000006556510925" ty="0" tz="-2"/>
+        <Part refID="4" designID="3001" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0.95999997854232788" tz="0.40000000596046448"/>
+        <Part refID="5" designID="3001" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0.39999997615814209" ty="0.95999997854232788" tz="-1.2000000476837158"/>
+        <Part refID="6" designID="3001" materialID="28" angle="90" ax="0" ay="-1" az="0" tx="-1.1999999284744263" ty="1.9200001955032349" tz="-2"/>
+        <Part refID="7" designID="3001" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="0.40000006556510925" ty="1.9200001955032349" tz="-2"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

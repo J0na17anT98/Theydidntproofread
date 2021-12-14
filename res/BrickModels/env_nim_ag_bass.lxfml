@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="14.456612586975098" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="8.9856472015380859" ty="9.6299505233764648" tz="9.0656471252441406"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Guitar">
+      <Group refID="0" name="Guitar" angle="90" ax="0" ay="0" az="1" tx="0.56000000238418579" ty="1.7100000381469727" tz="0">
+        <Part refID="0" name="m2412_radiator_grille_1x2_0" designID="2412" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.80000001192092896" ty="0.95999997854232788" tz="0"/>
+        <Part refID="1" name="m3957_stick_aerial_0" designID="3957" materialID="26" angle="90" ax="0" ay="0" az="1" tx="4.1599998474121094" ty="0.56000000238418579" tz="0"/>
+        <Part refID="2" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="26" angle="90" ax="0" ay="0" az="-1" tx="0.40000000596046448" ty="0.56000000238418579" tz="0"/>
+        <Part refID="3" name="m50746_roof_tile_1_x_1_x_2_3__pc_4" designID="50746" materialID="140" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="0" ty="0.56000000238418579" tz="0.40000000596046448"/>
+        <Part refID="4" name="m50746_roof_tile_1_x_1_x_2_3__pc_3" designID="50746" materialID="140" angle="120" ax="-0.57735025882720947" ay="-0.57735025882720947" az="0.57735025882720947" tx="0" ty="0.56000000238418579" tz="-0.40000000596046448"/>
+        <Part refID="5" name="m50746_roof_tile_1_x_1_x_2_3__pc_2" designID="50746" materialID="140" angle="90" ax="0" ay="0" az="1" tx="-1.0399999618530273" ty="0.56000000238418579" tz="-0.40000000596046448"/>
+        <Part refID="6" name="m50746_roof_tile_1_x_1_x_2_3__pc_0" designID="50746" materialID="140" angle="180" ax="0.70710676908493042" ay="-0.7071068286895752" az="0" tx="-1.0399999618530273" ty="0.56000000238418579" tz="0.40000000596046448"/>
+        <Part refID="7" name="m3023_plate_1x2_3" designID="3023" materialID="140" angle="120" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="-0.72000002861022949" ty="0.56000000238418579" tz="0.40000000596046448"/>
+        <Part refID="8" name="m3023_plate_1x2_0" designID="3023" materialID="140" angle="120" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="-0.40000000596046448" ty="0.56000000238418579" tz="0.40000000596046448"/>
+        <Part refID="9" name="m4733_brick_1x1_w__4_knobs_0" designID="4733" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

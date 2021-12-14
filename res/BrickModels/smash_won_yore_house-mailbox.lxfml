@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="13.292350769042969" angle="143.3642578125" ax="-0.095934636890888214" ay="-0.95605641603469849" az="-0.27704265713691711" tx="-7.5011439323425293" ty="8.9957952499389648" tz="-8.7592363357543945"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3022_plate_2x2_0" designID="3022" materialID="199" angle="89.7174072265625" ax="0" ay="1" az="0" tx="0.38203033804893494" ty="1.9937458038330078" tz="0.38641610741615295"/>
+        <Part refID="1" name="m3062_round_brick_1x1_0" designID="3062" materialID="194" angle="89.7174072265625" ax="0" ay="1" az="0" tx="-0.015991589054465294" ty="0.073745861649513245" tz="-0.015551847405731678"/>
+        <Part refID="2" name="m3062_round_brick_1x1_7" designID="3062" materialID="194" angle="89.7174072265625" ax="0" ay="1" az="0" tx="-0.015991589054465294" ty="1.0337458848953247" tz="-0.015551847405731678"/>
+        <Part refID="3" name="m3069_flat_tile_1x2_0" designID="3069" materialID="21" angle="106.06222534179687" ax="0.75039786100387573" ay="0.46553093194961548" az="0.46923765540122986" tx="-0.020529069006443024" ty="2.8761465549468994" tz="0.90443700551986694"/>
+        <Part refID="4" name="m30165_brick_2x2_w__bow_and_knobs_0" designID="30165" materialID="24" angle="89.7174072265625" ax="0" ay="1" az="0" tx="0.38203033804893494" ty="2.3137459754943848" tz="0.38641610741615295"/>
+        <Part refID="5" name="m42446_mini_fig__back_palte_w__knob_0" designID="42446" materialID="199" angle="0.28254860639572144" ax="0" ay="-0.99999994039535522" az="0" tx="-0.017964405938982964" ty="3.2737460136413574" tz="0.38444328308105469"/>
+        <Part refID="6" name="m42446_mini_fig__back_palte_w__knob_1" designID="42446" materialID="199" angle="179.71745300292969" ax="0" ay="1" az="0" tx="-0.014018770307302475" ty="3.2737460136413574" tz="-0.41554698348045349"/>
+        <Part refID="7" name="m50746_roof_tile_1_x_1_x_2_3_0" designID="50746" materialID="24" angle="180" ax="0" ay="0.70710903406143188" az="-0.70710468292236328" tx="-0.011449174955487251" ty="2.8737459182739258" tz="-0.93654060363769531"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

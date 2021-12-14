@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m6269_cup_without_wreath_4" designID="6269" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.31999999284744263" tz="0.40000000596046448"/>
+        <Part refID="1" name="m6269_cup_without_wreath_3" designID="6269" materialID="194" angle="180" ax="0" ay="1" az="0" tx="-0.80000001192092896" ty="0.31999999284744263" tz="0.40000000596046448"/>
+        <Part refID="2" name="m6269_cup_without_wreath_2" designID="6269" materialID="194" angle="180" ax="0" ay="1" az="0" tx="-0.80000001192092896" ty="0.31999999284744263" tz="-0.40000000596046448"/>
+        <Part refID="3" name="m6269_cup_without_wreath_1" designID="6269" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="-0.40000000596046448"/>
+        <Part refID="4" name="m6269_cup_without_wreath_0" designID="6269" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.31999999284744263" tz="-0.40000000596046448"/>
+        <Part refID="5" name="m30150_box_3x4_0" designID="30150" materialID="192" angle="180" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="0" tz="-0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

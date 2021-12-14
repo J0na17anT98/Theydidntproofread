@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="9.8201742172241211" angle="69.744140625" ax="-0.29612955451011658" ay="-0.93543630838394165" az="-0.19304442405700684" tx="-8.2510147094726563" ty="5.5894041061401367" tz="3.4999661445617676"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Cat_March_9_2009">
+      <Group refID="0" name="Cat_March_9_2009" angle="0" ax="0" ay="1" az="0" tx="-4" ty="0" tz="0">
+        <Part refID="0" name="m2540_plate_1x2_w__stick_8" designID="2540" materialID="106" angle="11.199991226196289" ax="1" ay="0" az="0" tx="3.5999999046325684" ty="1.1156449317932129" tz="0.0061786770820617676"/>
+        <Part refID="1" name="m2540_plate_1x2_w__stick_9" designID="2540" materialID="1" angle="180" ax="0" ay="0.9952273964881897" az="0.097582899034023285" tx="4.4000000953674316" ty="0.80173927545547485" tz="-0.055976316332817078"/>
+        <Part refID="2" name="m49668_plate_1x1_w_tooth_0" designID="49668" materialID="106" angle="119.99996185302734" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4.4000000953674316" ty="2.2044918537139893" tz="0.84120440483093262"/>
+        <Part refID="3" name="m4733_brick_1x1_w__4_knobs_2" designID="4733" materialID="106" angle="180" ax="1" ay="0" az="0" tx="4" ty="2.7647860050201416" tz="0.84120440483093262"/>
+        <Part refID="4" name="m49668_plate_1x1_w_tooth_1" designID="49668" materialID="106" angle="119.99996185302734" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="3.5999999046325684" ty="2.2044918537139893" tz="0.84120440483093262"/>
+        <Part refID="5" name="m3023_plate_1x2_1" designID="3023" materialID="1" angle="90" ax="1" ay="0" az="0" tx="3.5999999046325684" ty="2.2044918537139893" tz="1.2412043809890747"/>
+        <Part refID="6" name="m4085_plate_1x1_w__holder_17" designID="4085" materialID="106" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735031843185425" tx="3.5278065204620361" ty="0.4007473886013031" tz="0.83842825889587402"/>
+        <Part refID="7" name="m4085_plate_1x1_w__holder_18" designID="4085" materialID="106" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735031843185425" tx="3.5278065204620361" ty="0.39915275573730469" tz="-0.79176539182662964"/>
+        <Part refID="8" name="m4085_plate_1x1_w__holder_19" designID="4085" materialID="106" angle="119.99996185302734" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4.4721932411193848" ty="0.4007473886013031" tz="0.83842825889587402"/>
+        <Part refID="9" name="m4085_plate_1x1_w__holder_20" designID="4085" materialID="106" angle="119.99996185302734" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4.4721932411193848" ty="0.39915275573730469" tz="-0.79176539182662964"/>
+        <Part refID="10" name="m6141_plate_1x1_round_0" designID="6141" materialID="1" angle="152.35755920410156" ax="1" ay="0" az="0" tx="4" ty="2.8848781585693359" tz="-1.663190484046936"/>
+        <Part refID="11" name="m3062_round_brick_1x1_0" designID="3062" materialID="106" angle="152.35755920410156" ax="1" ay="0" az="0" tx="4" ty="2.6009173393249512" tz="-1.5144714117050171"/>
+        <Part refID="12" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="199" angle="160.621337890625" ax="0.68922919034957886" ay="0.16503827273845673" az="0.70549660921096802" tx="4" ty="1.7607583999633789" tz="-1.0545014142990112"/>
+        <Part refID="13" name="m2555_plate_1x1_w__up_right_holder_95" designID="2555" materialID="199" angle="180" ax="0.70710676908493042" ay="0" az="0.7071068286895752" tx="4" ty="1.8065462112426758" tz="0.84120440483093262"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

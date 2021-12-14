@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="car_comm_19_FrontBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="385"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="69.281951904296875" angle="49.717521667480469" ax="-0.72183960676193237" ay="0.65632873773574829" az="0.21949969232082367" tx="30.808996200561523" ty="41.679023742675781" tz="45.9744873046875"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="2555" materialID="23" angle="90" ax="0" ay="-1" az="0" tx="0.40000039339065552" ty="0.64000165462493896" tz="0.40000051259994507"/>
+        <Part refID="1" designID="51739" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0.32000076770782471" tz="-0.39999997615814209"/>
+        <Part refID="2" designID="2555" materialID="23" angle="90" ax="0" ay="-1" az="0" tx="-0.39999985694885254" ty="0.64000165462493896" tz="0.39999997615814209"/>
+        <Part refID="3" designID="3069" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-0.40022289752960205" ty="0.64000165462493896" tz="-0.39999991655349731">
+        </Part>
+        <Part refID="4" designID="51739" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="-0.39999997615814209"/>
+        <Part refID="5" designID="30374" materialID="199" angle="120" ax="-0.57735013961791992" ay="-0.57735025882720947" az="0.57735031843185425" tx="-1.6000005006790161" ty="1.2080010175704956" tz="0.40000006556510925"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

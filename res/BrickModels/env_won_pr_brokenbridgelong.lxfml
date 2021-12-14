@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="34.647968292236328" angle="42.341022491455078" ax="-0.85196405649185181" ay="0.49723309278488159" az="0.16406242549419403" tx="-1.6594252586364746" ty="17.419454574584961" tz="24.653282165527344"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4162_0" designID="4162" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-14.800000190734863" ty="-0.31999999284744263" tz="-2.4000000953674316"/>
+        <Part refID="1" name="m4162_1" designID="4162" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-14.800000190734863" ty="-0.31999999284744263" tz="-1.6000000238418579"/>
+        <Part refID="2" name="m4162_2" designID="4162" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-14.800000190734863" ty="-0.31999999284744263" tz="-0.80000001192092896"/>
+        <Part refID="3" name="m4162_3" designID="4162" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-14.800000190734863" ty="-0.31999999284744263" tz="0"/>
+        <Part refID="4" name="m3710_3" designID="3710" materialID="199" angle="90" ax="0" ay="1" az="0" tx="-14" ty="-0.63999998569488525" tz="0"/>
+        <Part refID="5" name="m43888_0" designID="43888" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-14" ty="-6.4000000953674316" tz="0"/>
+        <Part refID="6" name="m43888_1" designID="43888" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-14" ty="-6.4000000953674316" tz="-2.4000000953674316"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m44237_0" designID="44237" materialID="26" angle="180" ax="0" ay="1" az="0" tx="2" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="1" name="m61409_0" designID="61409" materialID="268" angle="89.999992370605469" ax="0" ay="-1" az="0" tx="-1.2000008821487427" ty="1.280002236366272" tz="-0.40000006556510925"/>
+        <Part refID="2" name="m6231_1" designID="6231" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0.40000137686729431" ty="1.2800023555755615" tz="-0.40000000596046448"/>
+        <Part refID="3" name="m61409_1" designID="61409" materialID="268" angle="90.000007629394531" ax="0" ay="1" az="0" tx="1.2000044584274292" ty="1.2800024747848511" tz="-0.40000012516975403"/>
+        <Part refID="4" name="m4286_0" designID="4286" materialID="26" angle="90.000007629394531" ax="0" ay="1" az="0" tx="0.4000052809715271" ty="1.2800024747848511" tz="0.40000006556510925"/>
+        <Part refID="5" name="m3795_0" designID="3795" materialID="26" angle="180" ax="0" ay="1" az="0" tx="1.9999998807907104" ty="0.96000099182128906" tz="-0.40000015497207642"/>
+        <Part refID="6" name="m4286_1" designID="4286" materialID="26" angle="89.999992370605469" ax="0" ay="-1" az="0" tx="-0.3999977707862854" ty="1.2800024747848511" tz="0.40000051259994507"/>
+        <Part refID="7" name="m6231_0" designID="6231" materialID="26" angle="90.000007629394531" ax="0" ay="1" az="0" tx="-0.39999786019325256" ty="1.2800023555755615" tz="-0.39999967813491821"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

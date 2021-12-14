@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_Community_RacingSecond_FrontPanel">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="372.1"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="98.238151550292969" angle="51.030170440673828" ax="-0.34849351644515991" ay="0.92460769414901733" az="0.15379507839679718" tx="68.665740966796875" ty="32.690105438232422" tz="62.645359039306641"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="30363" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.39999830722808838" ty="0.31999951601028442" tz="-0.39998883008956909"/>
+        <Part refID="1" designID="43719" materialID="23" angle="90" ax="0" ay="-1" az="0" tx="-1.1999988555908203" ty="0" tz="-0.39999264478683472"/>
+        <Part refID="2" designID="50746" materialID="212" angle="0" ax="0" ay="1" az="0" tx="0.40000045299530029" ty="1.2800010442733765" tz="-1.1999914646148682"/>
+        <Part refID="3" designID="3023" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.39999938011169434" ty="0.96000105142593384" tz="-1.1999914646148682"/>
+        <Part refID="4" designID="50746" materialID="212" angle="0" ax="0" ay="1" az="0" tx="-0.39999938011169434" ty="1.2800010442733765" tz="-1.1999952793121338"/>
+        <Part refID="5" designID="3023" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.39999938011169434" ty="0.64000123739242554" tz="-1.1999914646148682"/>
+        <Part refID="6" designID="3710" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.1999996900558472" ty="0.32000118494033813" tz="-1.1999914646148682"/>
+        <Part refID="7" designID="50746" materialID="1" angle="90" ax="0" ay="1" az="0" tx="1.2000008821487427" ty="0.64000123739242554" tz="-1.1999952793121338"/>
+        <Part refID="8" designID="2420" materialID="23" angle="90" ax="0" ay="1" az="0" tx="0.4000018835067749" ty="0" tz="-0.39999604225158691"/>
+        <Part refID="9" designID="50746" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.1999987363815308" ty="0.64000123739242554" tz="-1.1999914646148682"/>
+        <Part refID="10" designID="2420" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.1999977827072144" ty="0" tz="-1.1999952793121338"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="CCOP" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="228"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="4488">
+      <Part refID="0" designID="4488" materials="192">
+        <Bone refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0.40149515867233276,4.2399997711181641,0.45904833078384399">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="3003">
+      <Part refID="1" designID="3003" materials="192,0,0" decoration="0,0">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,-1.1985042095184326,4.8799996376037598,0.45904737710952759">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="3023">
+      <Part refID="2" designID="3023" materials="192">
+        <Bone refID="2" transformation="0,0,-1,0,1,0,1,0,0,-1.1985043287277222,4.5599994659423828,0.4590488076210022">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="3700">
+      <Part refID="3" designID="3700" materials="192">
+        <Bone refID="3" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0.40149515867233276,4.8799996376037598,0.45904737710952759">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="3299">
+      <Part refID="4" designID="3299" materials="26">
+        <Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,-1.1985042095184326,5.8399996757507324,0.45904737710952759">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="5" designID="4589">
+      <Part refID="5" designID="4589" materials="106">
+        <Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,-0.39850506186485291,3.5999999046325684,0.05904865637421608">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="6" designID="43898">
+      <Part refID="6" designID="43898" materials="106">
+        <Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,-0.39850503206253052,0.31999999284744263,0.059048682451248169">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="7" designID="3957">
+      <Part refID="7" designID="3957" materials="106">
+        <Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,-0.39850503206253052,0.63999968767166138,0.059048682451248169">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0.40149515867233276,4.2538967132568359,0.45904833078384399" boneRefs="0,1,2,3,4,5"/>
+      <Rigid refID="1" transformation="1,0,0,0,1,0,0,0,1,-0.39850503206253052,0.33389681577682495,0.059048682451248169" boneRefs="6,7"/>
+      <Joint type="hinge">
+        <RigidRef rigidRef="1" a="0,-0.99999994039535522,0" z="1,0,0" t="0,0.81999969482421875,0"/>
+        <RigidRef rigidRef="0" a="0,-1,0" z="0,0,1" t="0.39999967813491821,-3.1000003814697266,-0.80000019073486328"/>
+      </Joint>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3062_0" designID="3062" materialID="28" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" name="m30176_0" designID="30176" materialID="28" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.95999997854232788" tz="0"/>
+        <Part refID="2" name="m30176_1" designID="30176" materialID="28" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.9199999570846558" tz="0"/>
+        <Part refID="3" name="m30176_2" designID="30176" materialID="28" angle="134.99996948242187" ax="0" ay="0.99999994039535522" az="0" tx="0" ty="2.8799998760223389" tz="0"/>
+        <Part refID="4" name="m3062_1" designID="3062" materialID="28" angle="44.999984741210937" ax="0" ay="0.99999994039535522" az="0" tx="0" ty="3.8399999141693115" tz="0"/>
+        <Part refID="5" name="m4589_0" designID="4589" materialID="28" angle="44.999984741210937" ax="0" ay="0.99999994039535522" az="0" tx="0" ty="4.7999997138977051" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

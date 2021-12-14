@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Rebuildable_BugSprayCan">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="385"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="45.354488372802734" angle="46.630043029785156" ax="-0.46842801570892334" ay="0.86602967977523804" az="0.17483630776405334" tx="27.390775680541992" ty="19.546951293945313" tz="31.614351272583008"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="6141" materialID="199" angle="90" ax="-1" ay="0" az="0" tx="0" ty="3.4222912788391113" tz="0.7200005054473877"/>
+        <Part refID="1" designID="4070" materialID="26" angle="180" ax="0" ay="1" az="0" tx="0" ty="2.8622910976409912" tz="0"/>
+        <Part refID="2" designID="4740" materialID="154" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.5422911643981934" tz="0"/>
+        <Part refID="3" designID="3070" materialID="26" angle="90" ax="-1" ay="0" az="0" tx="0" ty="3.4222912788391113" tz="-0.23999953269958496">
+        </Part>
+        <Part refID="4" designID="55298" materialID="21" angle="180" ax="1" ay="0" az="0" tx="0" ty="2.7999968528747559" tz="0"/>
+        <Part refID="5" designID="4032" materialID="154" angle="180" ax="1" ay="0" az="0" tx="-0.39999997615814209" ty="2.5599968433380127" tz="-0.39999961853027344"/>
+        <Part refID="6" designID="6143" materialID="26" angle="180" ax="1" ay="0" az="0" tx="-0.40000021457672119" ty="2.2399969100952148" tz="-0.39999985694885254"/>
+        <Part refID="7" designID="6143" materialID="26" angle="180" ax="1" ay="0" az="0" tx="-0.40000021457672119" ty="1.2799969911575317" tz="-0.39999985694885254"/>
+        <Part refID="8" designID="4150" materialID="154" angle="180" ax="1" ay="0" az="0" tx="-0.40000021457672119" ty="0.31999683380126953" tz="-0.39999985694885254">
+        </Part>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

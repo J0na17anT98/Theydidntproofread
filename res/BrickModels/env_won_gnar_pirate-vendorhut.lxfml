@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3754_0" designID="3754" materialID="192" angle="90" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="0" tz="2"/>
+        <Part refID="1" name="m3754_1" designID="3754" materialID="192" angle="90" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="0" tz="2"/>
+        <Part refID="2" name="m6112_brick_1x12_0" designID="6112" materialID="192" angle="180" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="0" tz="2.7999999523162842"/>
+        <Part refID="3" name="m6112_brick_1x12_1" designID="6112" materialID="192" angle="180" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="0" tz="3.5999999046325684"/>
+        <Part refID="4" name="m3300_ridged_tile_2x2_25__0" designID="3300" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="5" name="m3298_roof_tile_2x3_25__0" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-5.1999998092651367" ty="5.7600002288818359" tz="2"/>
+        <Part refID="6" name="m3298_roof_tile_2x3_25__1" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-3.5999999046325684" ty="5.7600002288818359" tz="2"/>
+        <Part refID="7" name="m3298_roof_tile_2x3_25__2" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-2" ty="5.7600002288818359" tz="2"/>
+        <Part refID="8" name="m3298_roof_tile_2x3_25__3" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="5.7600002288818359" tz="2"/>
+        <Part refID="9" name="m3298_roof_tile_2x3_25__4" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="5.7600002288818359" tz="2"/>
+        <Part refID="10" name="m3298_roof_tile_2x3_25__5" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="2.7999999523162842" ty="5.7600002288818359" tz="2"/>
+        <Part refID="11" name="m3298_roof_tile_2x3_25__6" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="5.7600002288818359" tz="2"/>
+        <Part refID="12" name="m3298_roof_tile_2x3_25__7" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-5.1999998092651367" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="13" name="m3298_roof_tile_2x3_25__8" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-3.5999999046325684" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="14" name="m3298_roof_tile_2x3_25__9" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-2" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="15" name="m3298_roof_tile_2x3_25__10" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="16" name="m3298_roof_tile_2x3_25__11" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="17" name="m3298_roof_tile_2x3_25__12" designID="3298" materialID="21" angle="0" ax="0" ay="1" az="0" tx="2.7999999523162842" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="18" name="m3298_roof_tile_2x3_25__13" designID="3298" materialID="1" angle="0" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="6.7199997901916504" tz="0.40000000596046448"/>
+        <Part refID="19" name="m3298_roof_tile_2x3_25__14" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="20" name="m3298_roof_tile_2x3_25__15" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="21" name="m3298_roof_tile_2x3_25__16" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="22" name="m3298_roof_tile_2x3_25__17" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="23" name="m3298_roof_tile_2x3_25__18" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="2" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="24" name="m3298_roof_tile_2x3_25__19" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="3.5999999046325684" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="25" name="m3298_roof_tile_2x3_25__20" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="5.1999998092651367" ty="6.7199997901916504" tz="-0.40000000596046448"/>
+        <Part refID="26" name="m3298_roof_tile_2x3_25__21" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="27" name="m3298_roof_tile_2x3_25__22" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="28" name="m3298_roof_tile_2x3_25__23" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="29" name="m3298_roof_tile_2x3_25__24" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="30" name="m3298_roof_tile_2x3_25__25" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="2" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="31" name="m3298_roof_tile_2x3_25__26" designID="3298" materialID="21" angle="180" ax="0" ay="1" az="0" tx="3.5999999046325684" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="32" name="m3298_roof_tile_2x3_25__27" designID="3298" materialID="1" angle="180" ax="0" ay="1" az="0" tx="5.1999998092651367" ty="5.7600002288818359" tz="-2"/>
+        <Part refID="33" name="m3300_ridged_tile_2x2_25__1" designID="3300" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="34" name="m3300_ridged_tile_2x2_25__2" designID="3300" materialID="1" angle="180" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="35" name="m3300_ridged_tile_2x2_25__3" designID="3300" materialID="21" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="36" name="m3300_ridged_tile_2x2_25__4" designID="3300" materialID="1" angle="180" ax="0" ay="1" az="0" tx="2" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="37" name="m3300_ridged_tile_2x2_25__5" designID="3300" materialID="21" angle="180" ax="0" ay="1" az="0" tx="3.5999999046325684" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="38" name="m3300_ridged_tile_2x2_25__6" designID="3300" materialID="1" angle="180" ax="0" ay="1" az="0" tx="5.1999998092651367" ty="7.679999828338623" tz="-0.40000000596046448"/>
+        <Part refID="39" name="m3001_brick_2x4_0" designID="3001" materialID="1" angle="90" ax="0" ay="1" az="0" tx="5.1999998092651367" ty="5.7600002288818359" tz="1.2000000476837158"/>
+        <Part refID="40" name="m3001_brick_2x4_1" designID="3001" materialID="1" angle="90" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="5.7600002288818359" tz="1.2000000476837158"/>
+        <Part refID="41" name="m3068_flat_tile_2x2_6" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="42" name="m3068_flat_tile_2x2_7" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="2.7999999523162842" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="43" name="m3068_flat_tile_2x2_2" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="44" name="m3068_flat_tile_2x2_3" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="45" name="m3068_flat_tile_2x2_4" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="-2" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="46" name="m3068_flat_tile_2x2_5" designID="3068" materialID="192" angle="180" ax="0" ay="1" az="0" tx="-3.5999999046325684" ty="0.95999997854232788" tz="2.7999999523162842"/>
+        <Part refID="47" name="m3009_brick_1x6_0" designID="3009" materialID="192" angle="90" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="4.8000001907348633" tz="2"/>
+        <Part refID="48" name="m3009_brick_1x6_1" designID="3009" materialID="192" angle="90" ax="0" ay="1" az="0" tx="4.4000000953674316" ty="4.8000001907348633" tz="2"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

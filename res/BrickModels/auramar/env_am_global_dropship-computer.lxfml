@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Env_am_global_dropship-computer">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.5"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="24.284442901611328" angle="17.234237670898437" ax="-0.98212164640426636" ay="-0.18619632720947266" az="-0.027712011709809303" tx="-0.89797729253768921" ty="7.7320647239685059" tz="19.75971794128418"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3622" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.6120001077651978" ty="0" tz="-0.39999967813491821"/>
+        <Part refID="1" designID="4081" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-1.5879999399185181" ty="0.96000128984451294" tz="-0.39999926090240479"/>
+        <Part refID="2" designID="4081" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-0.012000014074146748" ty="0.96000093221664429" tz="-0.39999964833259583"/>
+        <Part refID="3" designID="2431" materialID="208" angle="87.792953491210938" ax="1" ay="0" az="0" tx="-2.0000002384185791" ty="2.0181734561920166" tz="-0.83909857273101807">
+        </Part>
+        <Part refID="4" designID="3022" materialID="26" angle="87.792953491210938" ax="1" ay="0" az="0" tx="-0.39999938011169434" ty="2.0058498382568359" tz="-1.1588612794876099"/>
+        <Part refID="5" designID="2431" materialID="208" angle="87.792953491210938" ax="1" ay="0" az="0" tx="-1.9999995231628418" ty="2.8175797462463379" tz="-0.86990737915039063">
+        </Part>
+        <Part refID="6" designID="3022" materialID="26" angle="87.792953491210938" ax="1" ay="0" az="0" tx="-2.0000002384185791" ty="2.0058498382568359" tz="-1.1588612794876099"/>
+        <Part refID="7" designID="2540" materialID="26" angle="87.792953491210938" ax="1" ay="0" az="0" tx="-1.1999998092651367" ty="1.9935264587402344" tz="-1.4786237478256226"/>
+        <Part refID="8" designID="3038" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.6119998693466187" ty="0" tz="0.40000030398368835"/>
+        <Part refID="9" designID="63864" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.6119999885559082" ty="0.96000093221664429" tz="0.40000030398368835"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

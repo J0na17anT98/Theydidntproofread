@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="lego_camera" fieldOfView="50" distance="30.195001602172852" angle="49.570613861083984" ax="-0.29664742946624756" ay="0.94615203142166138" az="0.12960207462310791" tx="22.399965286254883" ty="14.534655570983887" tz="20.939132690429688"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="DuckTarget2D">
+      <Group refID="0" name="DuckTarget2D" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3660_roof_tile_2x2_45_inv__0" designID="3660" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" name="m3747_roof_tile_2x3_25__inv__0" designID="3747" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="-2.4000000953674316"/>
+        <Part refID="2" name="m3660_roof_tile_2x2_45_inv__4" designID="3660" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.95999997854232788" tz="-4"/>
+        <Part refID="3" name="m44237_brick_2x6_0" designID="44237" materialID="24" angle="90" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0.95999997854232788" tz="0.80000001192092896"/>
+        <Part refID="4" name="m3039_roof_tile_2x2_45__0" designID="3039" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.9199999570846558" tz="0"/>
+        <Part refID="5" name="m3039_roof_tile_2x2_45__4" designID="3039" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="1.9199999570846558" tz="-0.80000001192092896"/>
+        <Part refID="6" name="m30363_roof_tile_2x4x1__18__0" designID="30363" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.9199999570846558" tz="-4.8000001907348633"/>
+        <Part refID="7" name="m50746_roof_tile_1_x_1_x_2_3__pc_0" designID="50746" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.880000114440918" tz="-4.8000001907348633"/>
+        <Part refID="8" name="m50746_roof_tile_1_x_1_x_2_3__pc_1" designID="50746" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="2.880000114440918" tz="-4.8000001907348633"/>
+        <Part refID="9" name="m3660_roof_tile_2x2_45_inv__5" designID="3660" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.880000114440918" tz="0"/>
+        <Part refID="10" name="m3660_roof_tile_2x2_45_inv__6" designID="3660" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="2.880000114440918" tz="-0.80000001192092896"/>
+        <Part refID="11" name="m3068_flat_tile_2x2_0" designID="3068" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0" ty="3.8399999141693115" tz="1.6000000238418579"/>
+        <Part refID="12" name="m3021_plate_2x3_0" designID="3021" materialID="24" angle="90" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="3.8399999141693115" tz="0"/>
+        <Part refID="13" name="m3039_roof_tile_2x2_45__5" designID="3039" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0" ty="4.1599998474121094" tz="0"/>
+        <Part refID="14" name="m3039_roof_tile_2x2_45__6" designID="3039" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="4.1599998474121094" tz="-0.80000001192092896"/>
+        <Part refID="15" name="m3003_brick_2x2_0" designID="3003" materialID="24" angle="90" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="-0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

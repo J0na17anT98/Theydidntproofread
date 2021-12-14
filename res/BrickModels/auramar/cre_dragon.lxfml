@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m59220_neck__left_0" designID="59220" materialID="26" assemblyID="59225" assemblyRefID="0" angle="180" ax="0" ay="1" az="0" tx="0" ty="5.7114863395690918" tz="2.7999999523162842"/>
+        <Part refID="1" name="m41141_0" designID="41141" materialID="26" assemblyID="59225" assemblyRefID="0" angle="180" ax="0.70710676908493042" ay="-0.7071068286895752" az="0" tx="0" ty="5.7114863395690918" tz="2.7999999523162842"/>
+        <Part refID="2" name="m41140_figure_snap__female_0" designID="41140" materialID="26" assemblyID="59225" assemblyRefID="0" angle="180" ax="0" ay="0.70710676908493042" az="-0.7071068286895752" tx="0" ty="7.3157200813293457" tz="8.7816781997680664"/>
+        <Part refID="3" name="m60108_dragon_s_head_top_0" designID="60108" materialID="26" assemblyID="59226" assemblyRefID="1" angle="180" ax="0" ay="1" az="0" tx="0" ty="7.3114862442016602" tz="7.7839784622192383"/>
+        <Part refID="4" name="m59222_dragon_s_head__left_0" designID="59222" materialID="26" assemblyID="59226" assemblyRefID="1" angle="180" ax="0" ay="1" az="0" tx="0" ty="7.3114862442016602" tz="7.7839784622192383"/>
+        <Part refID="5" name="m41141_figure_snap__male_0" designID="41141" materialID="26" assemblyID="59226" assemblyRefID="1" angle="180" ax="0.70710676908493042" ay="0.7071068286895752" az="0" tx="0" ty="7.3114862442016602" tz="7.7839784622192383"/>
+        <Part refID="6" name="m53451_horn_w__shaft___3_2_2" designID="53451" materialID="26" angle="114.55216979980469" ax="-0.54179942607879639" ay="0.64257806539535522" az="-0.54179942607879639" tx="-0.70182007551193237" ty="8.6129217147827148" tz="9.5241165161132812"/>
+        <Part refID="7" name="m53451_horn_w__shaft___3_2_1" designID="53451" materialID="26" angle="114.55216979980469" ax="-0.54179942607879639" ay="0.64257806539535522" az="-0.54179942607879639" tx="0.70204579830169678" ty="8.6129217147827148" tz="9.5241165161132812"/>
+        <Part refID="8" name="m53451_horn_w__shaft___3_2_0" designID="53451" materialID="26" angle="114.55216979980469" ax="-0.54179942607879639" ay="0.64257806539535522" az="-0.54179942607879639" tx="0" ty="8.690241813659668" tz="9.519866943359375"/>
+        <Part refID="9" name="m40379_tip_of_the_tail__6_47_1" designID="40379" materialID="26" angle="90.444580078125" ax="0.08774854987859726" ay="-0.08774854987859726" az="0.99227035045623779" tx="-1.2000000476837158" ty="8.3337306976318359" tz="9.1606779098510742"/>
+        <Part refID="10" name="m40379_tip_of_the_tail__6_47_0" designID="40379" materialID="26" angle="90.444580078125" ax="0.08774854987859726" ay="-0.08774854987859726" az="0.99227035045623779" tx="1.2000000476837158" ty="8.3337306976318359" tz="9.1606779098510742"/>
+        <Part refID="11" name="m59227_dragon_s_head__jaw_2" designID="59227" materialID="26" angle="180" ax="0" ay="0.9807853102684021" az="0.19509035348892212" tx="0" ty="6.8925552368164062" tz="9.6500015258789063"/>/
+        <Part refID="12" name="m59214_animal_body_lower_part_0" designID="59214" materialID="26" assemblyID="59224" assemblyRefID="2" angle="90" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="6.7199997901916504" tz="2.4000000953674316"/>
+        <Part refID="13" name="m41140_figure_snap__female_5" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="90" ax="1" ay="0" az="0" tx="2.9400000130408444E-005" ty="5.6943817138671875" tz="-4.7866477966308594"/>
+        <Part refID="14" name="m41140_figure_snap__female_4" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="180" ax="0" ay="0.70710676908493042" az="-0.7071068286895752" tx="2.9400000130408444E-005" ty="5.7100343704223633" tz="3.9954094886779785"/>
+        <Part refID="15" name="m41140_figure_snap__female_3" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="-0.57735025882720947" tx="-1.7648290395736694" ty="5.6888585090637207" tz="2.0002138614654541"/>
+        <Part refID="16" name="m41140_figure_snap__female_2" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="-0.57735025882720947" tx="-1.5909998416900635" ty="5.6888585090637207" tz="-1.1925398111343384"/>
+        <Part refID="17" name="m41140_figure_snap__female_1" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="120" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="1.5992070436477661" ty="5.6888585090637207" tz="-1.1925398111343384"/>
+        <Part refID="18" name="m41140_figure_snap__female_6" designID="41140" materialID="26" assemblyID="59224" assemblyRefID="2" angle="120" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="1.7961653470993042" ty="5.6888585090637207" tz="2.0002138614654541"/>
+        <Part refID="19" name="m60111_new_connector__male_1" designID="60111" materialID="26" assemblyID="60368" assemblyRefID="3" angle="90" ax="0" ay="1" az="0" tx="-0.73836243152618408" ty="5.6889128684997559" tz="2"/>
+        <Part refID="20" name="m59216_foreleg_right_0" designID="59216" materialID="26" assemblyID="60368" assemblyRefID="3" angle="90" ax="0" ay="-1" az="0" tx="-0.73847478628158569" ty="5.6649003028869629" tz="2.0003769397735596"/>
+        <Part refID="21" name="m60111_new_connector__male_0" designID="60111" materialID="26" assemblyID="60368" assemblyRefID="3" angle="90" ax="0" ay="-1" az="0" tx="0.75528979301452637" ty="5.6889128684997559" tz="2"/>
+        <Part refID="22" name="m59217_foreleg__left_0" designID="59217" materialID="26" assemblyID="60368" assemblyRefID="3" angle="90" ax="0" ay="-1" az="0" tx="0.75528979301452637" ty="5.6889128684997559" tz="2"/>
+        <Part refID="23" name="m60111_new_connector__male_2" designID="60111" materialID="26" assemblyID="60369" assemblyRefID="4" angle="90" ax="0" ay="1" az="0" tx="-0.77622532844543457" ty="5.6889810562133789" tz="-1.1925332546234131"/>
+        <Part refID="24" name="m59218_hind_leg__right_0" designID="59218" materialID="26" assemblyID="60369" assemblyRefID="4" angle="90" ax="0" ay="-1" az="0" tx="-0.77622532844543457" ty="5.6889810562133789" tz="-1.1925332546234131"/>
+        <Part refID="25" name="m60111_new_connector__male_3" designID="60111" materialID="26" assemblyID="60369" assemblyRefID="4" angle="90" ax="0" ay="-1" az="0" tx="0.76076912879943848" ty="5.6889810562133789" tz="-1.1925332546234131"/>
+        <Part refID="26" name="m59219_hind_leg__left_0" designID="59219" materialID="26" assemblyID="60369" assemblyRefID="4" angle="90" ax="0" ay="-1" az="0" tx="0.76076912879943848" ty="5.6889810562133789" tz="-1.1925332546234131"/>
+        <Part refID="27" name="m30383_plate_1x2_w_stub_along_upper_p_3" designID="30383" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="6.7199997901916504" tz="1.6000000238418579"/>
+        <Part refID="28" name="m30383_plate_1x2_w_stub_along_upper_p_2" designID="30383" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="6.7199997901916504" tz="2.4000000953674316"/>
+        <Part refID="29" name="m30383_plate_1x2_w_stub_along_upper_p_1" designID="30383" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="6.7199997901916504" tz="2.4000000953674316"/>
+        <Part refID="30" name="m30383_plate_1x2_w_stub_along_upper_p_0" designID="30383" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="6.7199997901916504" tz="1.6000000238418579"/>
+        <Part refID="31" name="m3048_end_ridged_tile_1x2_45__1" designID="3048" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="-0.40000000596046448" ty="7.0399999618530273" tz="1.6000000238418579"/>
+        <Part refID="32" name="m3048_end_ridged_tile_1x2_45__0" designID="3048" materialID="26" angle="90" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="7.0399999618530273" tz="2.4000000953674316"/>
+        <Part refID="33" name="m30553_fric_fork_w__cross_hole_0" designID="30553" materialID="26" angle="0" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="7.2811322212219238" tz="1.6000000238418579"/>
+        <Part refID="34" name="m6562_connector_peg_cross_axle_0" designID="6562" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="1.6000000238418579" ty="7.2817869186401367" tz="1.6000000238418579"/>
+        <Part refID="35" name="m30553_fric_fork_w__cross_hole_1" designID="30553" materialID="26" angle="0" ax="0" ay="1" az="0" tx="1.2000000476837158" ty="7.2811322212219238" tz="2.4000000953674316"/>
+        <Part refID="36" name="m6562_connector_peg_cross_axle_1" designID="6562" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="1.6000000238418579" ty="7.2817869186401367" tz="2.4000000953674316"/>
+        <Part refID="37" name="m51342__wing_w__holes___4_84_3" designID="51342" materialID="26" angle="90" ax="1" ay="0" az="0" tx="2.4000000953674316" ty="7.2817869186401367" tz="2.4000000953674316"/>
+        <Part refID="38" name="m30553_fric_fork_w__cross_hole_2" designID="30553" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-1.2014937400817871" ty="7.2811322212219238" tz="1.6000000238418579"/>
+        <Part refID="39" name="m6562_connector_peg_cross_axle_2" designID="6562" materialID="26" angle="90" ax="0" ay="1" az="0" tx="-1.6014937162399292" ty="7.2817869186401367" tz="1.6000000238418579"/>
+        <Part refID="40" name="m30553_fric_fork_w__cross_hole_3" designID="30553" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-1.2014937400817871" ty="7.2811322212219238" tz="2.4000000953674316"/>
+        <Part refID="41" name="m6562_connector_peg_cross_axle_3" designID="6562" materialID="26" angle="90" ax="0" ay="1" az="0" tx="-1.6014937162399292" ty="7.2817869186401367" tz="2.4000000953674316"/>
+        <Part refID="42" name="m51342__wing_w__holes___4_84_0" designID="51342" materialID="26" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="-2.4000000953674316" ty="7.2817869186401367" tz="2.4000000953674316"/>
+        <Part refID="43" name="m51874_tail_end_w__shaft__3_2_2" designID="51874" materialID="26" angle="120.12122344970703" ax="-0.57805383205413818" ay="-0.57594060897827148" az="0.57805383205413818" tx="-0.0056709139607846737" ty="0.98617303371429443" tz="-14.768293380737305"/>
+        <Part refID="44" name="m40378_neck_tail_link___7_84__6_47__0" designID="40378" materialID="26" angle="98.424568176269531" ax="-0.35747137665748596" ay="0.35747137665748596" az="0.86280268430709839" tx="0.00033201990299858153" ty="3.8558015823364258" tz="-10.194135665893555"/>
+        <Part refID="45" name="m40394_friction_bush_for_assembly_0" designID="40394" materialID="26" assemblyID="40395" assemblyRefID="5" angle="90" ax="0" ay="0" az="-1" tx="0" ty="5.6902308464050293" tz="-3.5999999046325684"/>
+        <Part refID="46" name="m40376_neck_neck_link_8m__left_0" designID="40376" materialID="26" assemblyID="40395" assemblyRefID="5" angle="90" ax="0" ay="0" az="-1" tx="0" ty="5.6902308464050293" tz="-4.559999942779541"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

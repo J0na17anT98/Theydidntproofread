@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="46.353717803955078" angle="21.921955108642578" ax="-0.98125392198562622" ay="0.18933059275150299" az="0.035980947315692902" tx="-2.7331893444061279" ty="17.689315795898438" tz="44.540561676025391"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="falseCarrot">
+      <Group refID="1" name="falseCarrot" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="6" name="m4032_plate_2x2_round_1" designID="4032" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0" tz="-2"/>
+        <Part refID="7" name="m30367_final_brick_2x2_0" designID="30367" materialID="24" angle="0" ax="0" ay="1" az="0" tx="6" ty="0" tz="2.7999999523162842"/>
+        <Part refID="8" name="m6233_rocket_step_3x3x2_w__cross_0" designID="6233" materialID="106" angle="0" ax="0" ay="1" az="0" tx="-6.4000000953674316" ty="0" tz="-2.4000000953674316"/>
+        <Part refID="9" name="m4740_satellite_dish__16_0" designID="4740" materialID="106" angle="0" ax="0" ay="1" az="0" tx="4.8000001907348633" ty="0" tz="2.4000000953674316"/>
+        <Part refID="10" name="m4032_plate_2x2_round_0" designID="4032" materialID="106" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0" tz="2.7999999523162842"/>
+        <Part refID="11" name="m4727_flower__stalk_0" designID="4727" materialID="28" angle="0" ax="0" ay="1" az="0" tx="-4.4000000953674316" ty="0" tz="2.4000000953674316"/>
+        <Part refID="12" name="m6255_leaves_3_elements_0" designID="6255" materialID="106" angle="0" ax="0" ay="1" az="0" tx="3.2000000476837158" ty="0" tz="2.4000000953674316"/>
+        <Part refID="13" name="m30176_bamboo_leaves_3x3_0" designID="30176" materialID="28" angle="0" ax="0" ay="1" az="0" tx="-6" ty="0" tz="2.4000000953674316"/>
+        <Part refID="14" name="m3741_stalk_0" designID="3741" materialID="28" angle="0" ax="0" ay="1" az="0" tx="-6" ty="0" tz="0"/>
+        <Part refID="15" name="m6143_brick__16_w__cross_0" designID="6143" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-4.8000001907348633" ty="0" tz="0"/>
+        <Part refID="16" name="m3942_nose_cone_2x2x2_0" designID="3942" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0" tz="0"/>
+        <Part refID="17" name="m30361_round_brick_2x2x2_0" designID="30361" materialID="106" angle="0" ax="0" ay="1" az="0" tx="6.4000000953674316" ty="0" tz="0"/>
+        <Part refID="18" name="m4589_0" designID="59900" materialID="106" angle="0" ax="0" ay="1" az="0" tx="4.8000001907348633" ty="0" tz="0"/>
+        <Part refID="19" name="m30151_glass_case_0" designID="30151" materialID="106" angle="0" ax="0" ay="1" az="0" tx="2.7999999523162842" ty="0" tz="0"/>
+        <Part refID="20" name="m6143_brick__16_w__cross_0" designID="6143" materialID="28" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="3.2094533443450928" tz="0.40000000596046448"/>
+        <Part refID="21" name="m3942_nose_cone_2x2x2_0" designID="3942" materialID="28" angle="180" ax="0" ay="0" az="1" tx="0.40000000596046448" ty="2.2494535446166992" tz="0.40000000596046448"/>
+        <Part refID="22" name="m30367_final_brick_2x2_0" designID="30367" materialID="28" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.1294536590576172" tz="-0.40000000596046448"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

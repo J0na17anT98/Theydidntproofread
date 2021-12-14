@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="2" versionMinor="4"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="48"/>
+  </Meta>
+  <Scene>
+    <Model name="WORKING">
+      <Group refID="0" name="WORKING" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+      </Group>
+      <Group refID="1" name="REAR_BUMPER_01" angle="90" ax="-1" ay="0" az="0" tx="-7.1999983787536621" ty="13.736604690551758" tz="-5.1770224571228027">
+        <Part refID="0" name="m3795_5" designID="3795" materialID="21" angle="0" ax="0" ay="1" az="0" tx="5.1999988555908203" ty="-0.37702178955078125" tz="-11.59999942779541"/>
+        <Part refID="1" name="m4589_2" designID="4589" materialID="194" angle="0" ax="0" ay="1" az="0" tx="5.9999990463256836" ty="-0.057021796703338623" tz="-12.399999618530273"/>
+        <Part refID="2" name="m4589_3" designID="4589" materialID="194" angle="0" ax="0" ay="1" az="0" tx="6.7999992370605469" ty="-0.057021796703338623" tz="-12.399999618530273"/>
+        <Part refID="3" name="m4589_4" designID="4589" materialID="194" angle="0" ax="0" ay="1" az="0" tx="7.5999984741210938" ty="-0.057021796703338623" tz="-12.399999618530273"/>
+        <Part refID="4" name="m4589_5" designID="4589" materialID="194" angle="0" ax="0" ay="1" az="0" tx="8.399998664855957" ty="-0.057021796703338623" tz="-12.399999618530273"/>
+        <Part refID="5" name="m2420_8" designID="2420" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="9.1999988555908203" ty="-0.057021796703338623" tz="-12.399999618530273"/>
+        <Part refID="6" name="m2420_9" designID="2420" materialID="21" angle="180" ax="0" ay="1" az="0" tx="6" ty="-0.057021796703338623" tz="-11.59999942779541"/>
+        <Part refID="7" name="m3023_8" designID="3023" materialID="21" angle="0" ax="0" ay="1" az="0" tx="6.7999992370605469" ty="-0.057021796703338623" tz="-11.59999942779541"/>
+        <Part refID="8" name="m50746_44" designID="50746" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="5.1999998092651367" ty="0.262978196144104" tz="-12.399999618530273"/>
+        <Part refID="9" name="m50746_45" designID="50746" materialID="21" angle="89.999992370605469" ax="0" ay="1" az="0" tx="9.1999998092651367" ty="0.262978196144104" tz="-12.399999618530273"/>
+        <Part refID="10" name="m50746_46" designID="50746" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="5.1999998092651367" ty="0.262978196144104" tz="-11.59999942779541"/>
+        <Part refID="11" name="m50746_47" designID="50746" materialID="21" angle="89.999992370605469" ax="0" ay="1" az="0" tx="9.1999998092651367" ty="0.262978196144104" tz="-11.59999942779541"/>
+        <Part refID="12" name="m48336_3" designID="48336" materialID="21" angle="0" ax="0" ay="1" az="0" tx="5.9999990463256836" ty="0.262978196144104" tz="-11.59999942779541"/>
+        <Part refID="13" name="m2431_5" designID="2431" materialID="21" angle="0" ax="0" ay="1" az="0" tx="5.9999980926513672" ty="0.58297818899154663" tz="-11.59999942779541"/>
+        <Part refID="14" name="m48336_4" designID="48336" materialID="21" angle="0" ax="0" ay="1" az="0" tx="7.5999984741210938" ty="0.262978196144104" tz="-11.59999942779541"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="2.5366048812866211" tz="-4.8000001907348633"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="7.1999993324279785" ty="-0.37702178955078125" tz="-11.199999809265137"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="lego_camera" fieldOfView="50" distance="13.044758796691895" angle="42.319992065429688" ax="-0.63454580307006836" ay="0.75057691335678101" az="0.18435260653495789" tx="8.2856826782226563" ty="7.3417110443115234" tz="8.5380868911743164"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="LargeBarricade">
+      <Group refID="13" name="LargeBarricade" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.940000057220459" tz="0">
+        <Part refID="17" name="m48336_plate_1x2_w__stick_3_18_1" designID="48336" materialID="26" angle="0" ax="0" ay="1" az="0" tx="4.8000001907348633" ty="0" tz="0"/>
+        <Part refID="18" name="m48336_plate_1x2_w__stick_3_18_0" designID="48336" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="19" name="m4162_flat_tile_1x8_0" designID="4162" materialID="119" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="0"/>
+        <Part refID="20" name="m3710_plate_1x4_0" designID="3710" materialID="26" angle="0" ax="0" ay="1" az="0" tx="1.6000000238418579" ty="0" tz="0"/>
+      </Group>
+      <Group refID="14" name="group4" angle="92.18121337890625" ax="-0.1914803683757782" ay="-0.96263724565505981" az="0.19148042798042297" tx="5.1999993324279785" ty="1.1399999856948853" tz="0.24999997019767761">
+        <Part refID="21" name="m48729_stick__3_2_w__holder_0" designID="48729" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.2000000476837158" tz="0"/>
+      </Group>
+      <Group refID="15" name="group3" angle="92.18121337890625" ax="0.19148045778274536" ay="-0.96263718605041504" az="-0.19148044288158417" tx="5.5999994277954102" ty="1.1399999856948853" tz="0.24999997019767761">
+        <Part refID="22" name="m48729_stick__3_2_w__holder_0" designID="48729" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.2000000476837158" tz="0"/>
+      </Group>
+      <Group refID="16" name="group2" angle="92.18121337890625" ax="0.19148045778274536" ay="-0.96263718605041504" az="-0.19148044288158417" tx="0.39999997615814209" ty="1.1399999856948853" tz="0.24999997019767761">
+        <Part refID="23" name="m48729_stick__3_2_w__holder_0" designID="48729" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.2000000476837158" tz="0"/>
+      </Group>
+      <Group refID="17" name="group1" angle="92.18121337890625" ax="-0.1914803683757782" ay="-0.96263724565505981" az="0.19148042798042297" tx="0" ty="1.1399999856948853" tz="0.24999997019767761">
+        <Part refID="24" name="m48729_stick__3_2_w__holder_0" designID="48729" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.2000000476837158" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="5.1999998092651367" ty="0.25" tz="0.80000001192092896"/>
+        <GroupRef groupRef="14" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="5.5999999046325684" ty="0.25" tz="0.80000001192092896"/>
+        <GroupRef groupRef="15" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="0.25" tz="0.80000001192092896"/>
+        <GroupRef groupRef="16" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0.25" tz="0.80000001192092896"/>
+        <GroupRef groupRef="17" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

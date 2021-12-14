@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="20.519243240356445" angle="60.4161376953125" ax="-0.38268455862998962" ay="0.90176832675933838" az="0.20091389119625092" tx="15.552620887756348" ty="11.650289535522461" tz="9.1596221923828125"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3795_plate_2x6_0" designID="3795" materialID="1" angle="90" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="0.93000000715255737" tz="1.2100000381469727"/>
+        <Part refID="1" name="m4211_chassis_4x5_0" designID="4211" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.1399999856948853" ty="1.25" tz="-1.9900000095367432"/>
+        <Part refID="2" name="m3839_mini_handle_0" designID="3839" materialID="1" angle="180" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="1.25" tz="-2.7899999618530273"/>
+        <Part refID="3" name="m3937_rocker_bearing_1x2_0" designID="3937" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.1399999856948853" ty="1.8899999856948853" tz="-0.38999998569488525"/>
+        <Part refID="4" name="m3937_rocker_bearing_1x2_1" designID="3937" materialID="1" angle="90" ax="0" ay="1" az="0" tx="1.2599999904632568" ty="1.8899999856948853" tz="0.40999999642372131"/>
+        <Part refID="5" name="m3005_brick_1x1_0" designID="3005" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.1399999856948853" ty="1.5700000524520874" tz="1.2100000381469727"/>
+        <Part refID="6" name="m3005_brick_1x1_1" designID="3005" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="1.2599999904632568" ty="1.5700000524520874" tz="1.2100000381469727"/>
+        <Part refID="7" name="m3004_brick_1x2_0" designID="3004" materialID="1" angle="180" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="1.5700000524520874" tz="1.2100000381469727"/>
+        <Part refID="8" name="m3010_brick_1x4_0" designID="3010" materialID="1" angle="180" ax="0" ay="1" az="0" tx="1.2599999904632568" ty="1.5700000524520874" tz="-1.190000057220459"/>
+        <Part refID="9" name="m4599_tap_4_9_6_4_0" designID="4599" materialID="21" angle="180" ax="0" ay="1" az="0" tx="1.2599999904632568" ty="1.5700000524520874" tz="-1.9900000095367432"/>
+        <Part refID="10" name="m4599_tap_4_9_6_4_1" designID="4599" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-1.1399999856948853" ty="1.5700000524520874" tz="-1.9900000095367432"/>
+        <Part refID="11" name="m3069_flat_tile_1x2_0" designID="3069" materialID="23" angle="180" ax="0" ay="1" az="0" tx="1.2599999904632568" ty="2.5299999713897705" tz="1.2100000381469727"/>
+        <Part refID="12" name="m3069_flat_tile_1x2_1" designID="3069" materialID="23" angle="180" ax="0" ay="1" az="0" tx="-0.34000000357627869" ty="2.5299999713897705" tz="1.2100000381469727"/>
+        <Part refID="13" name="m3069_flat_tile_1x2_2" designID="3069" materialID="23" angle="180" ax="0" ay="1" az="0" tx="-0.34000000357627869" ty="2.5299999713897705" tz="-1.190000057220459"/>
+        <Part refID="14" name="m3069_flat_tile_1x2_3" designID="3069" materialID="23" angle="180" ax="0" ay="1" az="0" tx="1.2599999904632568" ty="2.5299999713897705" tz="-1.190000057220459"/>
+        <Part refID="15" name="m3938_plate_1x2__rocking__0" designID="3938" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.34000000357627869" ty="0.52999997138977051" tz="-1.9900000095367432"/>
+        <Part refID="16" name="m3937_rocker_bearing_1x2_2" designID="3937" materialID="1" angle="180" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="-0.029999999329447746" tz="-1.9900000095367432"/>
+        <Part refID="17" name="m4600_bearing_element_2x2__double_0" designID="4600" materialID="26" angle="180" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="0.61000001430511475" tz="-0.38999998569488525"/>
+        <Part refID="18" name="m4624_rim_narrow_w__hole_8_0" designID="4624" materialID="21" angle="90" ax="0" ay="1" az="0" tx="-0.85000002384185791" ty="0.70999997854232788" tz="0.0099999997764825821"/>
+        <Part refID="19" name="m3641_tyre_high_narrow_15_x_6_0" designID="3641" materialID="26" angle="90" ax="0" ay="1" az="0" tx="-0.85000002384185791" ty="0.70999997854232788" tz="0.0099999997764825821"/>
+        <Part refID="20" name="m3641_tyre_high_narrow_15_x_6_1" designID="3641" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="0.97000002861022949" ty="0.70999997854232788" tz="0.0099999997764825821"/>
+        <Part refID="21" name="m4624_rim_narrow_w__hole_8_1" designID="4624" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="0.97000002861022949" ty="0.70999997854232788" tz="0.0099999997764825821"/>
+        <Part refID="22" name="m3957_stick_aerial_0" designID="3957" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="1.5700000524520874" tz="-2.7899999618530273"/>
+        <Part refID="23" name="m3960_round_plate_32x6_4_0" designID="3960" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0.46000000834465027" ty="5.0900001525878906" tz="-2.7899999618530273"/>
+      </Group>
+      <Group refID="1" name="group1" angle="0" ax="0" ay="1" az="0" tx="0.059999998658895493" ty="0.93000000715255737" tz="1.2100000381469727">
+        <Part refID="24" name="m3068_flat_tile_2x2_0" designID="3068" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="-1.2000000476837158" ty="1.9199999570846558" tz="-1.6000000238418579"/>
+        <Part refID="25" name="m3938_plate_1x2__rocking__1" designID="3938" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="-1.2000000476837158" ty="1.5199999809265137" tz="-1.6000000238418579"/>
+      </Group>
+      <Group refID="2" name="group2" angle="0" ax="0" ay="1" az="0" tx="0.059999998658895493" ty="0.93000000715255737" tz="1.2100000381469727">
+        <Part refID="26" name="m3068_flat_tile_2x2_0" designID="3068" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="0.40000000596046448" ty="1.9199999570846558" tz="-1.6000000238418579"/>
+        <Part refID="27" name="m3938_plate_1x2__rocking__0" designID="3938" materialID="1" angle="90" ax="0" ay="-1" az="0" tx="1.2000000476837158" ty="1.5199999809265137" tz="-1.6000000238418579"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.1400001049041748" ty="2.4500000476837158" tz="-0.38999998569488525"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.2000000476837158" ty="1.5199999809265137" tz="-1.6000000238418579"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.2599999904632568" ty="2.4500000476837158" tz="-0.38999998569488525"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.2000000476837158" ty="1.5199999809265137" tz="-1.6000000238418579"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

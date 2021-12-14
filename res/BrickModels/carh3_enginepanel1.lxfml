@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Scene>
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="0.80000001192092896">
+        <Part refID="0" name="m44675_0" designID="44675" materialID="221" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999921798706055" tz="1.1999974250793457"/>
+        <Part refID="1" name="m47755_0" designID="47755" materialID="221" angle="90" ax="0" ay="1" az="0" tx="0.80000191926956177" ty="0" tz="1.1999974250793457"/>
+        <Part refID="2" name="m3069_0" designID="3069" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-0.00022155046463012695" ty="0.95999956130981445" tz="-1.2000031471252441"/>
+        <Part refID="3" name="m3623_0" designID="3623" materialID="221" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.31999921798706055" tz="-0.40000295639038086"/>
+        <Part refID="4" name="m3070_0" designID="3070" materialID="221" angle="0" ax="0" ay="1" az="0" tx="0.40000170469284058" ty="0.95999908447265625" tz="-0.40000295639038086"/>
+        <Part refID="5" name="m3794_0" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.6399991512298584" tz="-0.40000295639038086"/>
+        <Part refID="6" name="m3623_1" designID="3623" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.5999982357025146" ty="0" tz="-0.40000295639038086"/>
+        <Part refID="7" name="m3794_1" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-0.3999982476234436" ty="0" tz="-1.2000021934509277"/>
+        <Part refID="8" name="m50746_0" designID="50746" materialID="221" angle="0" ax="0" ay="1" az="0" tx="0.40000182390213013" ty="0.95999908447265625" tz="-2.000002384185791"/>
+        <Part refID="9" name="m3794_2" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.6399991512298584" tz="-2.000002384185791"/>
+        <Part refID="10" name="m3070_1" designID="3070" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.9999978542327881" ty="0.95999908447265625" tz="-0.40000295639038086"/>
+        <Part refID="11" name="m3794_3" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-2.3999979496002197" ty="0.6399991512298584" tz="-0.40000295639038086"/>
+        <Part refID="12" name="m3623_2" designID="3623" materialID="221" angle="90" ax="0" ay="1" az="0" tx="-1.5999982357025146" ty="0.31999921798706055" tz="-0.40000295639038086"/>
+        <Part refID="13" name="m44675_1" designID="44675" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-2.3999979496002197" ty="0.31999921798706055" tz="1.1999974250793457"/>
+        <Part refID="14" name="m47755_1" designID="47755" materialID="221" angle="90" ax="0" ay="1" az="0" tx="-1.5999979972839355" ty="0" tz="1.1999974250793457"/>
+        <Part refID="15" name="m3069_1" designID="3069" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-2.4002211093902588" ty="0.95999956130981445" tz="-1.2000031471252441"/>
+        <Part refID="16" name="m3794_4" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.9999983310699463" ty="0" tz="-1.2000021934509277"/>
+        <Part refID="17" name="m3794_5" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-0.3999982476234436" ty="0" tz="-2.000002384185791"/>
+        <Part refID="18" name="m50746_1" designID="50746" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.9999983310699463" ty="0.95999908447265625" tz="-2.000002384185791"/>
+        <Part refID="19" name="m3794_6" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-2.3999984264373779" ty="0.6399991512298584" tz="-2.000002384185791"/>
+        <Part refID="20" name="m3794_7" designID="3794" materialID="221" angle="0" ax="0" ay="1" az="0" tx="-1.9999983310699463" ty="0" tz="-2.000002384185791"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

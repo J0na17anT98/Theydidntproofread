@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3020_0" designID="3020" materialID="28" angle="0" ax="0" ay="1" az="0" tx="-1.1999998092651367" ty="0" tz="0.94000011682510376"/>
+        <Part refID="1" name="m44302_0" designID="44302" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="-1.1999998092651367" ty="0.3200002908706665" tz="0.14000019431114197"/>
+        <Part refID="2" name="m44302_1" designID="44302" materialID="199" angle="90" ax="0" ay="-1" az="0" tx="1.2000002861022949" ty="0.3200002908706665" tz="0.14000019431114197"/>
+        <Part refID="3" name="m6636_0" designID="6636" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-1.9999997615814209" ty="0.64000028371810913" tz="0.93999987840652466"/>
+        <Part refID="4" name="m3666_0" designID="3666" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-1.9999997615814209" ty="0.64000034332275391" tz="0.13999995589256287"/>
+        <Part refID="5" name="m44301_0" designID="44301" materialID="194" angle="112.78473663330078" ax="0.52834570407867432" ay="0.66458898782730103" az="0.52836751937866211" tx="1.200005054473877" ty="1.2914328575134277" tz="-1.0819684267044067"/>
+        <Part refID="6" name="m6636_1" designID="6636" materialID="192" angle="76.964385986328125" ax="1" ay="0" az="1.5165831428021193E-005" tx="-2.0000042915344238" ty="1.3634977340698242" tz="-0.77023214101791382"/>
+        <Part refID="7" name="m44301_1" designID="44301" materialID="194" angle="112.77651977539062" ax="0.5282859206199646" ay="0.66470378637313843" az="0.52828305959701538" tx="-1.2000017166137695" ty="1.2912704944610596" tz="-1.0819588899612427"/>
+        <Part refID="8" name="m6636_2" designID="6636" materialID="192" angle="76.962203979492187" ax="1" ay="-1.0929368727374822E-005" az="3.5892680898541585E-005" tx="-2.0000095367431641" ty="2.1428670883178711" tz="-0.95069617033004761"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

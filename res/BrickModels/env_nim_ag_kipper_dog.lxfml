@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp1" fieldOfView="35" distance="9.537999153137207" angle="60.759967803955078" ax="-0.50400400161743164" ay="0.82830345630645752" az="0.24473118782043457" tx="6.2919020652770996" ty="6.4766526222229004" tz="5.3669586181640625"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Terrier_Old">
+      <Group refID="0" name="Terrier_Old" angle="0" ax="0" ay="1" az="0" tx="-4" ty="0" tz="0">
+        <Part refID="0" name="m2555_plate_1x1_w__up_right_holder_4" designID="2555" materialID="194" angle="180" ax="0.70710676908493042" ay="0" az="0.7071068286895752" tx="4" ty="1.7744137048721313" tz="0.83551383018493652"/>
+        <Part refID="1" name="m4733_brick_1x1_w__4_knobs_1" designID="4733" materialID="199" angle="90" ax="-1" ay="0" az="0" tx="4" ty="2.1746461391448975" tz="1.3909265995025635"/>
+        <Part refID="2" name="m3024_plate_1x1_1" designID="3024" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="4" ty="2.1746461391448975" tz="1.7103003263473511"/>
+        <Part refID="3" name="m3024_plate_1x1_2" designID="3024" materialID="26" angle="90" ax="-1" ay="0" az="0" tx="4" ty="2.1746461391448975" tz="2.0314390659332275"/>
+        <Part refID="4" name="m2555_plate_1x1_w__up_right_holder_5" designID="2555" materialID="199" angle="0" ax="0" ay="1" az="0" tx="4.0003266334533691" ty="2.5739772319793701" tz="0.83375561237335205"/>
+        <Part refID="5" name="m2540_plate_1x2_w__stick_6" designID="2540" materialID="194" angle="180" ax="0" ay="0.9952273964881897" az="0.097582899034023285" tx="4.4000000953674316" ty="0.80173927545547485" tz="-0.055976316332817078"/>
+        <Part refID="6" name="m2540_plate_1x2_w__stick_7" designID="2540" materialID="199" angle="11.199991226196289" ax="1" ay="0" az="0" tx="3.5999999046325684" ty="1.1156449317932129" tz="0.0061786770820617676"/>
+        <Part refID="7" name="m4081_lamp_holder_55" designID="4081" materialID="199" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="4.8000001907348633" ty="0.39812466502189636" tz="-1.0356688499450684"/>
+        <Part refID="8" name="m4081_lamp_holder_56" designID="4081" materialID="199" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="3.2000000476837158" ty="0.39812466502189636" tz="-1.0356688499450684"/>
+        <Part refID="9" name="m4081_lamp_holder_57" designID="4081" materialID="199" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="4.8000001907348633" ty="0.39395222067832947" tz="0.58995181322097778"/>
+        <Part refID="10" name="m4081_lamp_holder_58" designID="4081" materialID="199" angle="180" ax="0" ay="0.70710676908493042" az="0.7071068286895752" tx="3.2000000476837158" ty="0.39395222067832947" tz="0.58995181322097778"/>
+        <Part refID="11" name="m2555_plate_1x1_w__up_right_holder_96" designID="2555" materialID="194" angle="180" ax="0.70710676908493042" ay="0" az="0.7071068286895752" tx="4" ty="1.7744137048721313" tz="-0.80000001192092896"/>
+        <Part refID="12" name="m4274_connector_peg_w__knob_0" designID="4274" materialID="194" angle="119.99998474121094" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="4" ty="2.5589413642883301" tz="-0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

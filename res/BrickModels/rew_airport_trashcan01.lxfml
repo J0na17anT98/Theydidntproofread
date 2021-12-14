@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Universe" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="434"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="4740">
+      <Part refID="0" designID="4740" materials="194">
+        <Bone refID="0" transformation="1,0,0,0,1,0,0,0,1,0,2.2427811622619629,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="6141">
+      <Part refID="1" designID="6141" materials="26">
+        <Bone refID="1" transformation="1,0,0,0,1,0,0,0,1,0,1.9227815866470337,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="30361">
+      <Part refID="2" designID="30361" materials="26,0" decoration="0">
+        <Bone refID="2" transformation="0,0,1,0,0.99999994039535522,0,-1,0,0,0,0.002780999755486846,0">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="1,0,0,0,1,0,0,0,1,0,2.2427811622619629,0" boneRefs="0,1,2"/>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Pallet">
+      <Group refID="0" name="Pallet" angle="90" ax="0" ay="-1" az="0" tx="10" ty="0" tz="0">
+        <Part refID="0" name="m3020_plate_2x4_1" designID="3020" materialID="5" angle="90" ax="0" ay="1" az="0" tx="2.4000000953674316" ty="0.31999999284744263" tz="0"/>
+        <Part refID="1" name="m3020_plate_2x4_0" designID="3020" materialID="5" angle="90" ax="0" ay="1" az="0" tx="2.4000000953674316" ty="0" tz="0"/>
+        <Part refID="2" name="m3710_plate_1x4_3" designID="3710" materialID="5" angle="90" ax="0" ay="1" az="0" tx="4" ty="0" tz="0"/>
+        <Part refID="3" name="m3710_plate_1x4_2" designID="3710" materialID="5" angle="90" ax="0" ay="1" az="0" tx="4" ty="0.31999999284744263" tz="0"/>
+        <Part refID="4" name="m6636_flat_tile_1x6_3" designID="6636" materialID="5" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.63999998569488525" tz="-2.4000000953674316"/>
+        <Part refID="5" name="m6636_flat_tile_1x6_2" designID="6636" materialID="5" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.63999998569488525" tz="-1.6000000238418579"/>
+        <Part refID="6" name="m6636_flat_tile_1x6_1" designID="6636" materialID="5" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.63999998569488525" tz="-0.80000001192092896"/>
+        <Part refID="7" name="m3710_plate_1x4_1" designID="3710" materialID="5" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="0"/>
+        <Part refID="8" name="m6636_flat_tile_1x6_0" designID="6636" materialID="5" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.63999998569488525" tz="0"/>
+        <Part refID="9" name="m3710_plate_1x4_0" designID="3710" materialID="5" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

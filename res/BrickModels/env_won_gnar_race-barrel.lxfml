@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="env_won_gnar_race-barrel">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="51.468162536621094" angle="57.603019714355469" ax="-0.16457931697368622" ay="0.98235064744949341" az="0.088886924088001251" tx="42.300647735595703" ty="11.236757278442383" tz="27.72551155090332"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="4032" materialID="217" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0.31999999284744263" tz="0.40000000596046448"/>
+        <Part refID="1" designID="4424" materialID="217" angle="0" ax="0" ay="1" az="0" tx="-0.40000003576278687" ty="0" tz="0.40000009536743164"/>
+        <Part refID="2" designID="6143" materialID="217" angle="0" ax="0" ay="1" az="0" tx="-0.39999985694885254" ty="0.63999998569488525" tz="0.40000009536743164"/>
+        <Part refID="3" designID="32062" materialID="21" angle="119.99998474121094" ax="0.57735031843185425" ay="-0.57735013961791992" az="0.57735025882720947" tx="0" ty="1.0399999618530273" tz="0"/>
+        <Part refID="4" designID="6143" materialID="217" angle="180" ax="1" ay="0" az="0" tx="-0.40000000596046448" ty="2.9600000381469727" tz="-0.40000006556510925"/>
+        <Part refID="5" designID="4032" materialID="217" angle="180" ax="1" ay="0" az="0" tx="-0.40000000596046448" ty="3.2800002098083496" tz="-0.40000006556510925"/>
+        <Part refID="6" designID="4424" materialID="217" angle="180" ax="1" ay="0" az="0" tx="-0.40000000596046448" ty="3.6000003814697266" tz="-0.40000006556510925"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

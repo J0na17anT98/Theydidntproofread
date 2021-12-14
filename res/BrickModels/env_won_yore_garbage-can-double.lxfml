@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="13.439679145812988" angle="170.02194213867187" ax="-0.018492072820663452" ay="-0.97812402248382568" az="-0.20719923079013824" tx="-1.6531163454055786" ty="6.7284860610961914" tz="-12.586344718933105"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="group1">
+      <Group refID="0" name="group1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="1.2000000476837158" tz="0">
+        <Part refID="0" name="m3040_roof_tile_1x2_45__0" designID="3040" materialID="37" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="-0.80000001192092896"/>
+        <Part refID="1" name="m3665_roof_tile_1x2_inv__0" designID="3665" materialID="37" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.95999997854232788" tz="-0.80000001192092896"/>
+        <Part refID="2" name="m4081_lamp_holder_0" designID="4081" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="3" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="194" angle="119.99998474121094" ax="-0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="-0.15999999642372131" ty="0.25" tz="0.80000001192092896"/>
+        <Part refID="4" name="m2555_plate_1x1_w__up_right_holder_1" designID="2555" materialID="194" angle="119.99998474121094" ax="-0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="0.15999999642372131" ty="0.25" tz="0.80000001192092896"/>
+        <Part refID="5" name="m3024_plate_1x1_0" designID="3024" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.80000001192092896"/>
+        <Part refID="6" name="m2439_dustbin_0" designID="2439" materialID="199" angle="90" ax="1" ay="0" az="0" tx="1.5299999713897705" ty="-0.15000000596046448" tz="-0.80000001192092896"/>
+        <Part refID="7" name="m2439_dustbin_1" designID="2439" materialID="199" angle="90" ax="1" ay="0" az="0" tx="-2.3299999237060547" ty="-0.15000000596046448" tz="-0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

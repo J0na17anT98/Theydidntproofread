@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3666_plate_1x6_0" designID="3666" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.31999999284744263" tz="0.80000001192092896"/>
+        <Part refID="1" name="m50950_brick_w_bow_1_3_0" designID="50950" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="-2" ty="0.95999997854232788" tz="-0.80000001192092896"/>
+        <Part refID="2" name="m3068_flat_tile_2x2_0" designID="3068" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="-1.2000000476837158" ty="0.63999998569488525" tz="0"/>
+        <Part refID="3" name="m3068_flat_tile_2x2_1" designID="3068" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="0.40000000596046448" ty="0.63999998569488525" tz="0"/>
+        <Part refID="4" name="m50950_brick_w_bow_1_3_1" designID="50950" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="2" ty="0.95999997854232788" tz="-0.80000001192092896"/>
+        <Part refID="5" name="m3024_plate_1x1_0" designID="3024" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.63999998569488525" tz="-0.80000001192092896"/>
+        <Part refID="6" name="m3024_plate_1x1_7" designID="3024" materialID="21" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.63999998569488525" tz="-0.80000001192092896"/>
+        <Part refID="7" name="m3795_plate_2x6_0" designID="3795" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.31999999284744263" tz="0"/>
+        <Part refID="8" name="m6191_brick_1x4x1_1_3_0" designID="6191" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="1.2799999713897705" tz="-0.80000001192092896"/>
+        <Part refID="9" name="m3710_plate_1x4_0" designID="3710" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0.63999998569488525" tz="-0.80000001192092896"/>
+        <Part refID="10" name="m3710_plate_1x4_5" designID="3710" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0.95999997854232788" tz="-0.80000001192092896"/>
+        <Part refID="11" name="m6141_plate_1x1_round_0" designID="6141" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="0.80000001192092896"/>
+        <Part refID="12" name="m6141_plate_1x1_round_1" designID="6141" materialID="192" angle="0" ax="0" ay="1" az="0" tx="2" ty="0" tz="0.80000001192092896"/>
+        <Part refID="13" name="m6141_plate_1x1_round_2" designID="6141" materialID="192" angle="0" ax="0" ay="1" az="0" tx="2" ty="0" tz="-0.80000001192092896"/>
+        <Part refID="14" name="m6141_plate_1x1_round_3" designID="6141" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="-0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

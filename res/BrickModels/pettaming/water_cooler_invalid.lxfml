@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3022" materialID="116" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="-0.31999999284744263" tz="0.40000000596046448"/>
+        <Part refID="1" designID="3023" materialID="116" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="2" designID="2412" materialID="5" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0" tz="0.40000000596046448"/>
+        <Part refID="3" designID="3023" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0.31999999284744263" tz="-0.40000000596046448"/>
+        <Part refID="4" designID="4070" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="0.64000004529953003" tz="-0.40000000596046448"/>
+        <Part refID="5" designID="4070" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0.64000004529953003" tz="-0.40000000596046448"/>
+        <Part refID="6" designID="3022" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="1.5999999046325684" tz="0.40000000596046448"/>
+        <Part refID="7" designID="6143" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="1.9200000762939453" tz="0.40000000596046448"/>
+        <Part refID="8" designID="6143" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="2.8799998760223389" tz="0.40000000596046448"/>
+        <Part refID="9" designID="4599" materialID="21" angle="90" ax="1" ay="0" az="0" tx="0.3999999463558197" ty="1.1999999284744263" tz="-0.16000008583068848"/>
+        <Part refID="10" designID="4599" materialID="5" angle="90" ax="1" ay="0" az="0" tx="-0.40000006556510925" ty="1.1999999284744263" tz="-0.16000008583068848"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

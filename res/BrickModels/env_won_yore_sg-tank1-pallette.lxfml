@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Pallet_w_Barrels">
+      <Group refID="0" name="Pallet_w_Barrels" angle="180" ax="0" ay="1" az="0" tx="26.746145248413086" ty="0" tz="-14.353039741516113">
+        <Part refID="0" name="m3710_plate_1x4_31" designID="3710" materialID="5" angle="0" ax="0" ay="1" az="0" tx="19.146142959594727" ty="0" tz="-14.353041648864746"/>
+        <Part refID="1" name="m3020_plate_2x4_5" designID="3020" materialID="5" angle="180" ax="0" ay="1" az="0" tx="21.546142578125" ty="0.31999999284744263" tz="-16.753042221069336"/>
+        <Part refID="2" name="m6143_brick_Ã_16_w__cross_6" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="0.95999997854232788" tz="-14.351065635681152"/>
+        <Part refID="3" name="m6143_brick_Ã_16_w__cross_5" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="0.95999997854232788" tz="-17.551065444946289"/>
+        <Part refID="4" name="m6143_brick_Ã_16_w__cross_4" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="0.95999997854232788" tz="-17.551065444946289"/>
+        <Part refID="5" name="m6143_brick_Ã_16_w__cross_3" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="0.95999997854232788" tz="-14.351065635681152"/>
+        <Part refID="6" name="m4032_plate_2x2_round_20" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="1.9199999570846558" tz="-14.351065635681152"/>
+        <Part refID="7" name="m4032_plate_2x2_round_19" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.2400000095367432" tz="-14.351065635681152"/>
+        <Part refID="8" name="m4032_plate_2x2_round_18" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.559999942779541" tz="-14.351065635681152"/>
+        <Part refID="9" name="m4032_plate_2x2_round_17" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="1.9199999570846558" tz="-17.551065444946289"/>
+        <Part refID="10" name="m4032_plate_2x2_round_16" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.2400000095367432" tz="-17.551065444946289"/>
+        <Part refID="11" name="m4032_plate_2x2_round_15" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.559999942779541" tz="-17.551065444946289"/>
+        <Part refID="12" name="m4032_plate_2x2_round_14" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="1.9199999570846558" tz="-17.551065444946289"/>
+        <Part refID="13" name="m4032_plate_2x2_round_13" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.2400000095367432" tz="-17.551065444946289"/>
+        <Part refID="14" name="m4032_plate_2x2_round_12" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.559999942779541" tz="-17.551065444946289"/>
+        <Part refID="15" name="m4032_plate_2x2_round_11" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="1.9199999570846558" tz="-14.351065635681152"/>
+        <Part refID="16" name="m4032_plate_2x2_round_6" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.2400000095367432" tz="-14.351065635681152"/>
+        <Part refID="17" name="m4032_plate_2x2_round_2" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.559999942779541" tz="-14.351065635681152"/>
+        <Part refID="18" name="m3710_plate_1x4_27" designID="3710" materialID="5" angle="0" ax="0" ay="1" az="0" tx="19.143203735351562" ty="0.31999999284744263" tz="-18.351066589355469"/>
+        <Part refID="19" name="m3710_plate_1x4_24" designID="3710" materialID="5" angle="0" ax="0" ay="1" az="0" tx="19.143203735351562" ty="0.31999999284744263" tz="-14.351065635681152"/>
+        <Part refID="20" name="m3032_plate_4x6_2" designID="3032" materialID="5" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="0.63999998569488525" tz="-14.351065635681152"/>
+        <Part refID="21" name="m6143_brick_Ã_16_w__cross_7" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="0.95999997854232788" tz="-15.951066017150879"/>
+        <Part refID="22" name="m4032_plate_2x2_round_21" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="1.9199999570846558" tz="-15.951066017150879"/>
+        <Part refID="23" name="m4032_plate_2x2_round_22" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.2400000095367432" tz="-15.951066017150879"/>
+        <Part refID="24" name="m4032_plate_2x2_round_23" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="19.943202972412109" ty="2.559999942779541" tz="-15.951066017150879"/>
+        <Part refID="25" name="m6143_brick_Ã_16_w__cross_8" designID="6143" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="0.95999997854232788" tz="-15.951066017150879"/>
+        <Part refID="26" name="m4032_plate_2x2_round_24" designID="4032" materialID="28" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="1.9199999570846558" tz="-15.951066017150879"/>
+        <Part refID="27" name="m4032_plate_2x2_round_25" designID="4032" materialID="21" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.2400000095367432" tz="-15.951066017150879"/>
+        <Part refID="28" name="m4032_plate_2x2_round_26" designID="4032" materialID="1" angle="90" ax="0" ay="1" az="0" tx="21.543203353881836" ty="2.559999942779541" tz="-15.951066017150879"/>
+        <Part refID="29" name="m3710_plate_1x4_30" designID="3710" materialID="5" angle="0" ax="0" ay="1" az="0" tx="19.146142959594727" ty="0" tz="-18.35304069519043"/>
+        <Part refID="30" name="m3020_plate_2x4_4" designID="3020" materialID="5" angle="180" ax="0" ay="1" az="0" tx="21.546142578125" ty="0" tz="-16.753042221069336"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

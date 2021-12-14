@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3710_0" designID="3710" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.2000000476837158" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="1" name="m3020_0" designID="3020" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.199999213218689" ty="0.32000020146369934" tz="0.40000042319297791"/>
+        <Part refID="2" name="m3666_0" designID="3666" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.9999992847442627" ty="0" tz="0.40000030398368835"/>
+        <Part refID="3" name="m3020_1" designID="3020" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.199999213218689" ty="0.64000040292739868" tz="0.40000051259994507"/>
+        <Part refID="4" name="m47457_0" designID="47457" materialID="26" angle="89.999992370605469" ax="0" ay="-1" az="0" tx="-1.199998140335083" ty="0.96000051498413086" tz="-0.39999979734420776"/>
+        <Part refID="5" name="m47457_1" designID="47457" materialID="26" angle="89.999992370605469" ax="0" ay="1" az="0" tx="1.2000017166137695" ty="0.96000057458877563" tz="0.40000087022781372"/>
+        <Part refID="6" name="m3070_0" designID="3070" materialID="154" angle="0" ax="0" ay="1" az="0" tx="1.9999973773956299" ty="1.280001163482666" tz="-0.39999935030937195"/>
+        <Part refID="7" name="m6091_0" designID="6091" materialID="154" angle="180" ax="0" ay="1" az="0" tx="1.9999990463256836" ty="0.96000146865844727" tz="-0.39999932050704956"/>
+        <Part refID="8" name="m3005_0" designID="3005" materialID="26" angle="0" ax="0" ay="1" az="0" tx="1.9999990463256836" ty="0" tz="-0.39999929070472717"/>
+        <Part refID="9" name="m3070_1" designID="3070" materialID="154" angle="0" ax="0" ay="1" az="0" tx="-2.0000007152557373" ty="1.280001163482666" tz="-0.40000006556510925"/>
+        <Part refID="10" name="m6091_1" designID="6091" materialID="154" angle="180" ax="0" ay="1" az="0" tx="-2.0000009536743164" ty="0.96000146865844727" tz="-0.40000003576278687"/>
+        <Part refID="11" name="m3005_1" designID="3005" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-2.0000009536743164" ty="0" tz="-0.40000000596046448"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Universe" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="330"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="59233">
+      <Part refID="0" designID="59233" materials="126">
+        <Bone refID="0" transformation="0,1,0,-1,0,0,0,0,0.99999994039535522,0.020001411437988281,5.3280034065246582,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="2555">
+      <Part refID="1" designID="2555" materials="194">
+        <Bone refID="1" transformation="0,0,1,0,0.99999994039535522,0,-1,0,0,0,4.7600035667419434,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="64567">
+      <Part refID="2" designID="64567" materials="194">
+        <Bone refID="2" transformation="0,0,1,0,0.99999994039535522,0,-1,0,0,0,3.3400039672851562,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="30374">
+      <Part refID="3" designID="30374" materials="194">
+        <Bone refID="3" transformation="0,0,1,1,0,0,0,1,0,0,3.5200040340423584,0">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="87580">
+      <Part refID="4" designID="87580" materials="199">
+        <Bone refID="4" transformation="0,0,1,0,0.99999994039535522,0,-1,0,0,-0.39999866485595703,0,-0.39999985694885254">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="0,1,0,-1,0,0,0,0,0.99999994039535522,0.020001411437988281,5.3280034065246582,0" boneRefs="0"/>
+      <Rigid refID="1" transformation="0,0,1,0,0.99999994039535522,0,-1,0,0,0,4.7600035667419434,0" boneRefs="1,2,3,4"/>
+      <Joint type="hinge">
+        <RigidRef rigidRef="1" a="0,0,1" z="1,0,0" t="0,0.56800001859664917,0.15999999642372131"/>
+        <RigidRef rigidRef="0" a="0,1,0" z="0,0,1" t="0,0.18000140786170959,0"/>
+      </Joint>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="BattleTank">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="73"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="46.009513854980469" angle="73.211387634277344" ax="-0.42843914031982422" ay="0.86101800203323364" az="0.27402162551879883" tx="35.573604583740234" ty="26.625360488891602" tz="16.982013702392578"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="6541" materialID="199" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="1.9999995231628418" ty="0.39999866485595703" tz="-4.1064081192016602"/>
+        <Part refID="1" designID="3023" materialID="194" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="1.9999995231628418" ty="0.39999771118164063" tz="-3.1464080810546875"/>
+        <Part refID="2" designID="3023" materialID="194" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="0.57735025882720947" tx="1.9999995231628418" ty="0.39999771118164063" tz="-2.8264083862304687"/>
+        <Part refID="3" designID="3024" materialID="199" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="1.9999995231628418" ty="0.39999866485595703" tz="-2.5064077377319336"/>
+        <Part refID="4" designID="3024" materialID="199" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="1.9999995231628418" ty="0.39999866485595703" tz="-2.1864080429077148"/>
+        <Part refID="5" designID="50746" materialID="199" angle="180" ax="0" ay="0.7071068286895752" az="0.7071068286895752" tx="1.9999995231628418" ty="0.39999771118164063" tz="-1.8664083480834961"/>
+        <Part refID="8" designID="6632" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="1.1999993324279785" ty="0.39999866485595703" tz="-3.5264081954956055"/>
+        <Part refID="9" designID="32062" materialID="21" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="1.1999993324279785" ty="0.39999866485595703" tz="-3.5264081954956055"/>
+        <Part refID="10" designID="6632" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="2.4000000953674316" ty="0.39999771118164063" tz="-3.5264081954956055"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

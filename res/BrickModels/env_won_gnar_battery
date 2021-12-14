@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="carport_withrocks5_racing_assets_model">
+      <Group refID="0" name="carport_withrocks5_racing_assets_model" angle="0" ax="0" ay="1" az="0" tx="-8" ty="0" tz="12">
+      </Group>
+      <Group refID="1" name="carport_withrocks5_group1" angle="159.47210693359375" ax="0.003792974166572094" ay="-0.99999254941940308" az="-0.00072037609061226249" tx="-63.222362518310547" ty="30.747627258300781" tz="80.543258666992188">
+      </Group>
+      <Group refID="2" name="carport_withrocks5_group8" angle="159.47210693359375" ax="0.003792974166572094" ay="-0.99999254941940308" az="-0.00072037609061226249" tx="-63.346885681152344" ty="48.304203033447266" tz="80.591102600097656">
+      </Group>
+      <Group refID="3" name="carport_withrocks5_group13" angle="143.33897399902344" ax="0.0037880938034504652" ay="-0.9999920129776001" az="-0.0012910761870443821" tx="-68.090980529785156" ty="33.435520172119141" tz="82.368583679199219">
+      </Group>
+      <Group refID="4" name="carport_withrocks5_group14" angle="143.36140441894531" ax="-0.0007586765568703413" ay="-0.99999970197677612" az="0.00031712104100733995" tx="-67.303718566894531" ty="33.319240570068359" tz="83.441581726074219">
+      </Group>
+      <Group refID="5" name="carport_withrocks5_group15" angle="151.40074157714844" ax="-0.01322226133197546" ay="-0.99989408254623413" az="0.0060913856141269207" tx="-64.731559753417969" ty="33.147544860839844" tz="82.963897705078125">
+      </Group>
+      <Group refID="6" name="carport_withrocks5_group23" angle="97.019691467285156" ax="-0.0077258232049643993" ay="-0.99924397468566895" az="-0.038100603967905045" tx="-71.977058410644531" ty="33.996414184570313" tz="94.191574096679688">
+      </Group>
+      <Group refID="7" name="carport_withrocks5_group31" angle="135.65959167480469" ax="0.015659457072615623" ay="0.99984347820281982" az="0.0082363365218043327" tx="-49.887050628662109" ty="33.313331604003906" tz="96.023223876953125">
+      </Group>
+      <Group refID="8" name="group1" angle="88.250663757324219" ax="-0.00048410735325887799" ay="0.99997282028198242" az="0.0073611908592283726" tx="-104.69312286376953" ty="33.615409851074219" tz="27.214807510375977">
+        <Part refID="0" name="carport_withrocks5_racing_assets_m57606_square_8x14_mm_4" designID="57606" materialID="21" angle="90.906150817871094" ax="0.99966329336166382" ay="0.025372594594955444" az="-0.005429800134152174" tx="30.108932495117187" ty="-34.104331970214844" tz="103.9697265625">
+          <Decoration surfaceID="1" decorationID="59316"/>
+        </Part>
+        <Part refID="1" name="carport_withrocks5_racing_assets_m3069_flat_tile_1x2_1" designID="3069" materialID="21" angle="178.21249389648438" ax="0.0022610852029174566" ay="-0.99999153614044189" az="-0.0034473855048418045" tx="30.494132995605469" ty="-33.619792938232422" tz="103.56080627441406"/>
+        <Part refID="2" name="carport_withrocks5_racing_assets_m3004_brick_1x2_2" designID="3004" materialID="21" angle="178.21249389648438" ax="0.0022610852029174566" ay="-0.99999153614044189" az="-0.0034473855048418045" tx="30.498373031616211" ty="-34.579761505126953" tz="103.55412292480469"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-59.688468933105469" ty="34.552555084228516" tz="81.230674743652344"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.6023950576782227" ty="3.8710682392120361" tz="-10.315418243408203"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="20.822074890136719" tz="-15.031973838806152"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="3.2649917602539062" tz="-15.031973838806152"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5763566493988037" ty="-13.100604057312012" tz="-18.274494171142578"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5766687393188477" ty="1.7685092687606812" tz="-18.272420883178711"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5774857997894287" ty="1.6792547702789307" tz="-19.286899566650391"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5766687393188477" ty="1.7685092687606812" tz="-17.957439422607422"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.6634426116943359" ty="1.7529939413070679" tz="-18.570558547973633"/>
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="2.5766687393188477" ty="1.7685092687606812" tz="-17.957439422607422"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-1.8258335590362549" ty="0.75398373603820801" tz="-15.846381187438965"/>
+        <GroupRef groupRef="6" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.2246135026216507" ty="0.76286828517913818" tz="-16.530303955078125"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="6" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="4.4046788215637207" ty="0.7997589111328125" tz="-11.130495071411133"/>
+        <GroupRef groupRef="7" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="5.5553669929504395" ty="0.64593565464019775" tz="-10.870140075683594"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="7" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="30.296504974365234" ty="-33.976249694824219" tz="103.38854217529297"/>
+        <GroupRef groupRef="8" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="30.095746994018555" ty="-33.941635131835938" tz="103.57282257080078"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

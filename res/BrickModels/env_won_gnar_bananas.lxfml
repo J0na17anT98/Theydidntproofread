@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="2" versionMinor="4"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="48"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" name="LEGO_camera" fieldOfView="80" distance="73.444732666015625" angle="40.045631408691406" ax="-0.21608798205852509" ay="0.97336059808731079" az="0.076649300754070282" tx="45.474800109863281" ty="12.184664726257324" tz="57.474788665771484"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m33085_16" designID="33085" materialID="24" angle="148.24855041503906" ax="-0.67455458641052246" ay="0.73251926898956299" az="0.091605842113494873" tx="-0.47539690136909485" ty="1.2267816066741943" tz="0.40165436267852783"/>
+        <Part refID="1" name="m33085_17" designID="33085" materialID="24" angle="170.37956237792969" ax="0.70159399509429932" ay="-0.57036960124969482" az="-0.42713502049446106" tx="0.73613071441650391" ty="1.2409994602203369" tz="0.31847682595252991"/>
+        <Part refID="2" name="m33085_18" designID="33085" materialID="24" angle="166.18992614746094" ax="-0.69886356592178345" ay="0.67144227027893066" az="0.24648521840572357" tx="0.2324211597442627" ty="1.4236966371536255" tz="0.66673243045806885"/>
+        <Part refID="3" name="m33085_19" designID="33085" materialID="24" angle="138.31539916992187" ax="-0.69018983840942383" ay="0.70647889375686646" az="0.15660633146762848" tx="0.29827782511711121" ty="1.4017254114151001" tz="0.015590885654091835"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

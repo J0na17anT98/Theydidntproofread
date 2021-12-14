@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="mech_inventor_droid">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="385"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="69.282035827636719" angle="56.600257873535156" ax="-0.59028440713882446" ay="0.76927375793457031" az="0.24450384080410004" tx="39.999996185302734" ty="39.999992370605469" tz="39.999996185302734"/>
+    <Camera refID="1" fieldOfView="80" distance="49.999996185302734" angle="56.600257873535156" ax="-0.59028452634811401" ay="0.76927369832992554" az="0.24450385570526123" tx="28.631435394287109" ty="30.3521728515625" tz="28.562765121459961"/>
+    <Camera refID="2" fieldOfView="80" distance="50.000003814697266" angle="56.600257873535156" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450385570526123" tx="28.742441177368164" ty="31.004966735839844" tz="28.213666915893555"/>
+    <Camera refID="3" fieldOfView="80" distance="49.999996185302734" angle="56.600257873535156" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450385570526123" tx="27.54168701171875" ty="30.605262756347656" tz="28.620611190795898"/>
+    <Camera refID="4" fieldOfView="80" distance="50" angle="56.600269317626953" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450385570526123" tx="27.814731597900391" ty="29.766391754150391" tz="27.766912460327148"/>
+    <Camera refID="5" fieldOfView="80" distance="50.000003814697266" angle="56.600257873535156" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450385570526123" tx="27.816394805908203" ty="29.919120788574219" tz="29.184375762939453"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="2555" materialID="194" angle="75.012809753417969" ax="0" ay="0" az="1" tx="-0.65132182836532593" ty="1.8434121608734131" tz="-0.41500145196914673"/>
+        <Part refID="1" designID="4085" materialID="194" angle="111.75869750976562" ax="-0.52004319429397583" ay="0.67757660150527954" az="0.52004319429397583" tx="-0.34220710396766663" ty="1.7606590986251831" tz="-0.41500142216682434"/>
+        <Part refID="2" designID="64567" materialID="26" angle="75.012809753417969" ax="0" ay="0" az="1" tx="1.0294896364212036" ty="1.3934428691864014" tz="-0.41500139236450195"/>
+        <Part refID="3" designID="30031" materialID="194" angle="138.40489196777344" ax="-0.6541178822517395" ay="0.37981522083282471" az="0.6541178822517395" tx="-1.200000524520874" ty="1.9902987480163574" tz="-0.41000139713287354"/>
+        <Part refID="4" designID="57588" materialID="24" angle="106.06834411621094" ax="-0.37261974811553955" ay="0.66207784414291382" az="0.65023648738861084" tx="-1.6101818084716797" ty="1.4451097249984741" tz="0.79814809560775757"/>
+        <Part refID="5" designID="57588" materialID="24" angle="116.61670684814453" ax="-0.61072641611099243" ay="0.72323209047317505" az="0.32241061329841614" tx="-1.6750578880310059" ty="1.6372251510620117" tz="-1.0439203977584839"/>
+        <Part refID="6" designID="48729" materialID="199" angle="169.3304443359375" ax="-0.80356496572494507" ay="-0.59410566091537476" az="0.036357637494802475" tx="-1.4802106618881226" ty="0.84204411506652832" tz="0.28043448925018311"/>
+        <Part refID="7" designID="48729" materialID="199" angle="171.17620849609375" ax="0.80827987194061279" ay="0.58430188894271851" az="0.072628393769264221" tx="-1.5164644718170166" ty="0.84763669967651367" tz="-1.0414758920669556"/>
+        <Part refID="8" designID="4599" materialID="24" angle="128.99861145019531" ax="0.47699034214019775" ay="-0.62148213386535645" az="-0.621482253074646" tx="0.10077524185180664" ty="2.4679737091064453" tz="-1.2149913311004639"/>
+        <Part refID="9" designID="3899" materialID="24" angle="104.9871826171875" ax="0" ay="0" az="-1" tx="0.85561263561248779" ty="1.4399915933609009" tz="-0.41500136256217957"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+    <BuildingInstruction>
+      <Step name="Step1" cameraRefID="1">
+        <PartRef partRefID="9"/>
+        <PartRef partRefID="2"/>
+      </Step>
+      <Step name="Step2" cameraRefID="1">
+        <Step name="Step2Substep1" cameraRefID="2">
+          <PartRef partRefID="1"/>
+          <PartRef partRefID="8"/>
+        </Step>
+      </Step>
+      <Step name="Step3">
+        <Step name="Step3Substep1" cameraRefID="3">
+          <PartRef partRefID="3"/>
+          <PartRef partRefID="0"/>
+        </Step>
+      </Step>
+      <Step name="Step4">
+        <Step name="Step4Substep1" cameraRefID="4">
+          <PartRef partRefID="7"/>
+          <PartRef partRefID="5"/>
+        </Step>
+      </Step>
+      <Step name="Step5">
+        <Step name="Step5Substep1" cameraRefID="5">
+          <PartRef partRefID="6"/>
+          <PartRef partRefID="4"/>
+        </Step>
+      </Step>
+    </BuildingInstruction>
+  </BuildingInstructions>
+</LXFML>

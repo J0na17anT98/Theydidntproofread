@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Rocket2">
+      <Group refID="0" name="Rocket2" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4733_brick_1x1_w__4_knobs_0" designID="4733" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="0"/>
+        <Part refID="1" name="m4740_satellite_dish_16_0" designID="4740" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="1" name="group8" angle="98.421058654785156" ax="-0.35740673542022705" ay="-0.86285626888275146" az="0.35740673542022705" tx="0.56000000238418579" ty="0.87999999523162842" tz="0">
+        <Part refID="2" name="m55300_0" designID="55300" materialID="26" assemblyID="6246" assemblyRefID="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.5399999618530273" tz="0"/>
+        <Part refID="3" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.57999998331069946" tz="0"/>
+      </Group>
+      <Group refID="2" name="group7" angle="180" ax="0.38268351554870605" ay="0.92387956380844116" az="0" tx="0" ty="0.87999999523162842" tz="0.56000000238418579">
+        <Part refID="4" name="m55300_0" designID="55300" materialID="26" assemblyID="6246" assemblyRefID="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.5399999618530273" tz="0"/>
+        <Part refID="5" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.57999998331069946" tz="0"/>
+      </Group>
+      <Group refID="3" name="group6" angle="98.421058654785156" ax="0.35740673542022705" ay="0.86285626888275146" az="0.35740673542022705" tx="-0.56000000238418579" ty="0.87999999523162842" tz="0">
+        <Part refID="6" name="m55300_0" designID="55300" materialID="26" assemblyID="6246" assemblyRefID="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.5399999618530273" tz="0"/>
+        <Part refID="7" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.57999998331069946" tz="0"/>
+      </Group>
+      <Group refID="4" name="group5" angle="45" ax="0" ay="0" az="0.99999994039535522" tx="0" ty="0.87999999523162842" tz="-0.56000000238418579">
+        <Part refID="8" name="m55300_0" designID="55300" materialID="26" assemblyID="6246" assemblyRefID="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.5399999618530273" tz="0"/>
+        <Part refID="9" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.57999998331069946" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.56000000238418579" ty="0.87999999523162842" tz="0"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0.87999999523162842" tz="0.56000000238418579"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.56000000238418579" ty="0.87999999523162842" tz="0"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0.87999999523162842" tz="-0.56000000238418579"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

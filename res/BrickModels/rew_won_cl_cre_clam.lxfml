@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="cre_clam">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="45.144065856933594" angle="56.600269317626953" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450388550758362" tx="26.390237808227539" ty="26.5345458984375" tz="26.036930084228516"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="30218" materialID="226" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

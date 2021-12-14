@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_VentureLeague_FrontBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="46.523994445800781" angle="42.548389434814453" ax="-0.97475159168243408" ay="0.20876206457614899" az="0.079232342541217804" tx="5.9416494369506836" ty="31.251522064208984" tz="34.377304077148438"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3795" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-1.9999995231628418" ty="0" tz="0.40000000596046448"/>
+        <Part refID="1" designID="61409" materialID="194" angle="0" ax="0" ay="1" az="0" tx="1.2000017166137695" ty="0.32000032067298889" tz="-0.3999997079372406"/>
+        <Part refID="2" designID="6141" materialID="127" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.64000099897384644" tz="-0.3999999463558197"/>
+        <Part refID="3" designID="3024" materialID="192" angle="0" ax="0" ay="1" az="0" tx="-1.9999994039535522" ty="0.3200012743473053" tz="-0.40000000596046448"/>
+        <Part refID="4" designID="6141" materialID="127" angle="0" ax="0" ay="1" az="0" tx="2.0000028610229492" ty="0.64000195264816284" tz="-0.3999997079372406"/>
+        <Part refID="5" designID="3024" materialID="192" angle="0" ax="0" ay="1" az="0" tx="2.0000028610229492" ty="0.3200012743473053" tz="-0.39999976754188538"/>
+        <Part refID="6" designID="50746" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-1.9999995231628418" ty="0.32000112533569336" tz="0.40000006556510925"/>
+        <Part refID="7" designID="50746" materialID="194" angle="0" ax="0" ay="1" az="0" tx="2.000002384185791" ty="0.32000112533569336" tz="0.40000042319297791"/>
+        <Part refID="8" designID="3039" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-0.39999878406524658" ty="0.32000032067298889" tz="-0.3999997079372406">
+        </Part>
+        <Part refID="9" designID="61409" materialID="194" angle="0" ax="0" ay="1" az="0" tx="-1.1999990940093994" ty="0.32000032067298889" tz="-0.3999999463558197"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

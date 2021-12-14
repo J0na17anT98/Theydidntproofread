@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="14.829757690429687" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="10.499643325805664" ty="8.1323690414428711" tz="8.8996438980102539"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="group1">
+      <Group refID="0" name="group1" angle="0" ax="0" ay="1" az="0" tx="-11.199999809265137" ty="-12.479999542236328" tz="6.8000001907348633">
+        <Part refID="0" name="m3068_22" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="14.720000267028809" tz="-8.4000005722045898"/>
+        <Part refID="1" name="m3068_23" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="14.720000267028809" tz="-6.7999997138977051"/>
+        <Part refID="2" name="m3068_24" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="14.720000267028809" tz="-5.1999998092651367"/>
+        <Part refID="3" name="m3068_21" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="10.799999237060547" ty="14.720000267028809" tz="-8.4000005722045898"/>
+        <Part refID="4" name="m3068_26" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="10.799999237060547" ty="14.720000267028809" tz="-6.7999997138977051"/>
+        <Part refID="5" name="m3068_25" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="10.799999237060547" ty="14.720000267028809" tz="-5.1999998092651367"/>
+        <Part refID="6" name="m2877_7" designID="2877" materialID="26" angle="0" ax="0" ay="1" az="0" tx="10.800000190734863" ty="13.760000228881836" tz="-5.1999998092651367"/>
+        <Part refID="7" name="m2877_5" designID="2877" materialID="26" angle="0" ax="0" ay="1" az="0" tx="10.800000190734863" ty="12.800000190734863" tz="-5.1999998092651367"/>
+        <Part refID="8" name="m2877_6" designID="2877" materialID="26" angle="180" ax="0" ay="1" az="0" tx="11.59999942779541" ty="13.760000228881836" tz="-9.1999998092651367"/>
+        <Part refID="9" name="m2877_4" designID="2877" materialID="26" angle="180" ax="0" ay="1" az="0" tx="11.59999942779541" ty="12.800000190734863" tz="-9.1999998092651367"/>
+        <Part refID="10" name="m3009_28" designID="3009" materialID="194" angle="90" ax="0" ay="1" az="0" tx="10" ty="12.800000190734863" tz="-5.1999998092651367"/>
+        <Part refID="11" name="m3009_30" designID="3009" materialID="194" angle="90" ax="0" ay="1" az="0" tx="10" ty="13.760000228881836" tz="-5.1999998092651367"/>
+        <Part refID="12" name="m3009_29" designID="3009" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="13.760000228881836" tz="-5.1999998092651367"/>
+        <Part refID="13" name="m3710_7" designID="3710" materialID="194" angle="90" ax="0" ay="1" az="0" tx="13.199999809265137" ty="14.079999923706055" tz="-6"/>
+        <Part refID="14" name="m3068_19" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="13.999999046325684" ty="14.40000057220459" tz="-6"/>
+        <Part refID="15" name="m3068_20" designID="3068" materialID="194" angle="90" ax="0" ay="1" az="0" tx="13.999999046325684" ty="14.40000057220459" tz="-7.5999999046325684"/>
+        <Part refID="16" name="m6081_1" designID="6081" materialID="194" angle="90" ax="0" ay="-1" az="0" tx="14" ty="14.079999923706055" tz="-8.3999996185302734"/>
+        <Part refID="17" name="m3010_26" designID="3010" materialID="194" angle="90" ax="0" ay="1" az="0" tx="14.800000190734863" ty="12.479999542236328" tz="-6"/>
+        <Part refID="18" name="m3009_27" designID="3009" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="12.800000190734863" tz="-5.1999998092651367"/>
+        <Part refID="19" name="m3032_2" designID="3032" materialID="194" angle="90" ax="0" ay="1" az="0" tx="12.399999618530273" ty="12.480000495910645" tz="-5.1999998092651367"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="rew_won_cl_cre_snake">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="54.282638549804688" angle="33.640171051025391" ax="-0.99702632427215576" ay="-0.07378339022397995" az="-0.022238409146666527" tx="-2.594233512878418" ty="29.550651550292969" tz="45.881900787353516"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="30115" materialID="28" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.15999999642372131" tz="-1.5999996662139893"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

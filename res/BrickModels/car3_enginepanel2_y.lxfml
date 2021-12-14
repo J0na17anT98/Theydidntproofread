@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Car3_EnginePanel2_y">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.3"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="19.614786148071289" angle="56.600257873535156" ax="-0.59028446674346924" ay="0.76927375793457031" az="0.24450385570526123" tx="11.501518249511719" ty="12.12433910369873" tz="11.868040084838867"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="62360" materialID="102" angle="0" ax="0" ay="1" az="0" tx="-0.3997802734375" ty="1.2799664735794067" tz="-0.40000000596046448"/>
+        <Part refID="1" designID="3023" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-0.3997802734375" ty="0.95996630191802979" tz="-0.40000000596046448"/>
+        <Part refID="2" designID="3710" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-1.1997833251953125" ty="0.63996624946594238" tz="-0.40000000596046448"/>
+        <Part refID="3" designID="2420" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="1.2002182006835937" ty="0.31996631622314453" tz="-1.2000030279159546"/>
+        <Part refID="4" designID="50746" materialID="24" angle="180" ax="0" ay="1" az="0" tx="1.2002182006835937" ty="0.63996624946594238" tz="-1.1999973058700562"/>
+        <Part refID="5" designID="2420" materialID="24" angle="180" ax="0" ay="1" az="0" tx="-0.3997802734375" ty="0.31996631622314453" tz="-0.39999237656593323"/>
+        <Part refID="6" designID="50746" materialID="24" angle="180" ax="0" ay="1" az="0" tx="-1.1997833251953125" ty="0.63996624946594238" tz="-1.1999973058700562"/>
+        <Part refID="7" designID="3031" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-1.1997756958007813" ty="-3.3617019653320313E-005" tz="1.2000061273574829"/>
+        <Part refID="8" designID="50746" materialID="24" angle="180" ax="0" ay="1" az="0" tx="-0.3997802734375" ty="0.31996607780456543" tz="-1.1999934911727905"/>
+        <Part refID="9" designID="2431" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="1.2002182006835937" ty="0.31996619701385498" tz="0.40000000596046448">
+        </Part>
+        <Part refID="10" designID="47753" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.1997833251953125" ty="0.63996589183807373" tz="0.40000000596046448"/>
+        <Part refID="11" designID="3020" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-0.3997802734375" ty="0.3199658989906311" tz="0.40000000596046448"/>
+        <Part refID="12" designID="50746" materialID="24" angle="180" ax="0" ay="1" az="0" tx="0.4002227783203125" ty="0.31996619701385498" tz="-1.1999953985214233"/>
+        <Part refID="13" designID="2431" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.1997833251953125" ty="0.31996595859527588" tz="0.40000000596046448">
+        </Part>
+        <Part refID="14" designID="3710" materialID="24" angle="180" ax="0" ay="1" az="0" tx="1.2002182006835937" ty="-3.4093856811523438E-005" tz="1.9999977350234985"/>
+        <Part refID="15" designID="3666" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-1.9997787475585938" ty="-3.4093856811523438E-005" tz="2.7999951839447021"/>
+        <Part refID="16" designID="3069" materialID="24" angle="0" ax="0" ay="1" az="0" tx="1.2000045776367187" ty="0.95996582508087158" tz="-0.40000000596046448">
+        </Part>
+        <Part refID="17" designID="3069" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="2.0002288818359375" ty="0.95999997854232788" tz="-2.0002214908599854">
+        </Part>
+        <Part refID="18" designID="3023" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="2.0002288818359375" ty="0.6399991512298584" tz="-2.0000002384185791"/>
+        <Part refID="19" designID="3024" materialID="24" angle="0" ax="0" ay="1" az="0" tx="2.0002288818359375" ty="0.31999889016151428" tz="-2.0000002384185791"/>
+        <Part refID="20" designID="62361" materialID="24" angle="90" ax="0" ay="1" az="0" tx="2.0002288818359375" ty="0" tz="1.9999921321868896"/>
+        <Part refID="21" designID="61678" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="2.0002288818359375" ty="0.95999997854232788" tz="0.39999985694885254"/>
+        <Part refID="22" designID="3069" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.9997711181640625" ty="0.95999997854232788" tz="-2.0002195835113525">
+        </Part>
+        <Part refID="23" designID="3023" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.9997711181640625" ty="0.6399991512298584" tz="-1.9999983310699463"/>
+        <Part refID="24" designID="3024" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-1.9997711181640625" ty="0.31999889016151428" tz="-1.9999983310699463"/>
+        <Part refID="25" designID="62361" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.9997711181640625" ty="0" tz="-2.0000040531158447"/>
+        <Part refID="26" designID="61678" materialID="24" angle="90" ax="0" ay="-1" az="0" tx="-1.9997711181640625" ty="0.95999997854232788" tz="0.40000009536743164"/>
+        <Part refID="27" designID="3069" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.95996582508087158" tz="-0.40000000596046448">
+        </Part>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

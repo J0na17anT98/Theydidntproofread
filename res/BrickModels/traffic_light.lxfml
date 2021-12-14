@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m30256_standard_with_foot_2x2x5_0" designID="30256" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" name="m3957_stick_aerial_0" designID="3957" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="4.8000001907348633" tz="-0.40000000596046448"/>
+        <Part refID="2" name="m30259_triangular_sign_w__snap_0" designID="30259" materialID="24" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="3.5199999809265137" tz="-0.40000000596046448"/>
+      </Group>
+      <Group refID="1" name="group1" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="8" tz="-0.40000000596046448">
+        <Part refID="3" name="m4733_brick_1x1_w__4_knobs_1" designID="4733" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.95999997854232788" tz="0"/>
+        <Part refID="4" name="m4733_brick_1x1_w__4_knobs_2" designID="4733" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.9199999570846558" tz="0"/>
+        <Part refID="5" name="m6141_plate_1x1_round_0" designID="6141" materialID="28" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.56000000238418579" tz="0.40000000596046448"/>
+        <Part refID="6" name="m6141_plate_1x1_round_1" designID="6141" materialID="24" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.5199999809265137" tz="0.40000000596046448"/>
+        <Part refID="7" name="m6141_plate_1x1_round_2" designID="6141" materialID="21" angle="90" ax="1" ay="0" az="0" tx="0" ty="2.4800000190734863" tz="0.40000000596046448"/>
+        <Part refID="8" name="m50746_roof_tile_1_x_1_x_2_3__pc_0" designID="50746" materialID="26" angle="120" ax="0.57735025882720947" ay="0.57735025882720947" az="-0.57735025882720947" tx="0.40000000596046448" ty="2.4800000190734863" tz="0"/>
+        <Part refID="9" name="m50746_roof_tile_1_x_1_x_2_3__pc_1" designID="50746" materialID="26" angle="119.99998474121094" ax="0.57735025882720947" ay="-0.57735025882720947" az="0.57735025882720947" tx="-0.40000000596046448" ty="2.4800000190734863" tz="0"/>
+        <Part refID="10" name="m3068_flat_tile_2x2_0" designID="3068" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="2.880000114440918" tz="0.40000000596046448"/>
+        <Part refID="11" name="m4733_brick_1x1_w__4_knobs_0" designID="4733" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="8" tz="-0.40000000596046448"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="ene_Facehugger">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="1"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114.5"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="90.774269104003906" angle="90.624557495117187" ax="-0.15172941982746124" ay="-0.97699499130249023" az="-0.14986363053321838" tx="-88.142959594726563" ty="27.858072280883789" tz="1.4116963148117065"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="87747" materialID="191" angle="148.60028076171875" ax="0.67859834432601929" ay="-0.67859834432601929" az="-0.28108462691307068" tx="-0.70362943410873413" ty="0.79934436082839966" tz="-0.27423262596130371"/>
+        <Part refID="1" designID="30169" materialID="191" angle="180" ax="-0.70710664987564087" ay="0" az="0.70710694789886475" tx="-0.5778619647026062" ty="1.9993443489074707" tz="-0.40000006556510925"/>
+        <Part refID="2" designID="4733" materialID="24" angle="180" ax="0.92387962341308594" ay="0" az="0.38268351554870605" tx="-0.57786214351654053" ty="1.3593443632125854" tz="-0.40000003576278687"/>
+        <Part refID="3" designID="87747" materialID="191" angle="98.421051025390625" ax="0.35740676522254944" ay="-0.35740676522254944" az="-0.86285620927810669" tx="-0.45209461450576782" ty="0.79934436082839966" tz="-0.27423244714736938"/>
+        <Part refID="4" designID="87747" materialID="191" angle="98.421058654785156" ax="-0.35740667581558228" ay="0.35740667581558228" az="-0.86285626888275146" tx="-0.45209461450576782" ty="0.79934436082839966" tz="-0.52576732635498047"/>
+        <Part refID="5" designID="87747" materialID="191" angle="148.60028076171875" ax="-0.67859834432601929" ay="0.67859834432601929" az="-0.28108468651771545" tx="-0.70362943410873413" ty="0.79934436082839966" tz="-0.52576762437820435"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

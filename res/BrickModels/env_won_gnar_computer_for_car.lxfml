@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="carport_withrocks5_racing_assets_model">
+      <Group refID="0" name="carport_withrocks5_racing_assets_model" angle="0" ax="0" ay="1" az="0" tx="-8" ty="0" tz="12">
+      </Group>
+      <Group refID="1" name="carport_withrocks5_group1" angle="159.47210693359375" ax="0.0037929737009108067" ay="-0.99999254941940308" az="-0.00072037545032799244" tx="-63.222362518310547" ty="30.747629165649414" tz="80.543258666992188">
+      </Group>
+      <Group refID="2" name="carport_withrocks5_group8" angle="159.47210693359375" ax="0.0037929737009108067" ay="-0.99999254941940308" az="-0.00072037545032799244" tx="-63.346885681152344" ty="48.304206848144531" tz="80.591102600097656">
+      </Group>
+      <Group refID="3" name="carport_withrocks5_group9" angle="169.71035766601562" ax="0.011959347873926163" ay="0.99992853403091431" az="8.0632504250388592E-005" tx="-57.959968566894531" ty="34.487255096435547" tz="89.830802917480469">
+      </Group>
+      <Group refID="4" name="carport_withrocks5_group11" angle="155.99415588378906" ax="-0.011660225689411163" ay="-0.99992591142654419" az="0.0035121575929224491" tx="-66.168220520019531" ty="34.245326995849609" tz="86.629386901855469">
+      </Group>
+      <Group refID="5" name="carport_withrocks5_group12" angle="175.33065795898437" ax="-0.016344061121344566" ay="-0.99969595670700073" az="0.018463641405105591" tx="-59.818637847900391" ty="33.627704620361328" tz="86.173095703125">
+      </Group>
+      <Group refID="6" name="carport_withrocks5_group21" angle="133.27313232421875" ax="-0.021484546363353729" ay="-0.99961835145950317" az="-0.017367098480463028" tx="-71.776161193847656" ty="34.965114593505859" tz="83.689781188964844">
+      </Group>
+      <Group refID="7" name="group1" angle="91.048454284667969" ax="-0.0070219761691987514" ay="-0.99996525049209595" az="-0.0044774953275918961" tx="-17.469223022460937" ty="-0.016016025096178055" tz="-12.250934600830078">
+        <Part refID="0" name="carport_withrocks5_racing_assets_m3022_plate_2x2_0" designID="3022" materialID="21" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.612092018127441" ty="0.063516616821289063" tz="-17.470504760742187"/>
+        <Part refID="1" name="carport_withrocks5_racing_assets_m3023_plate_1x2_4" designID="3023" materialID="21" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.598326683044434" ty="0.38351660966873169" tz="-18.2703857421875"/>
+        <Part refID="2" name="carport_withrocks5_racing_assets_m3660_roof_tile_2x2_45_inv__0" designID="3660" materialID="199" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.598326683044434" ty="0.70351660251617432" tz="-18.2703857421875"/>
+        <Part refID="3" name="carport_withrocks5_racing_assets_m3069_flat_tile_1x2_0" designID="3069" materialID="1" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.612092971801758" ty="1.663516640663147" tz="-17.470504760742187"/>
+        <Part refID="4" name="carport_withrocks5_racing_assets_m3023_plate_1x2_11" designID="3023" materialID="199" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.598326683044434" ty="1.6635167598724365" tz="-18.2703857421875"/>
+        <Part refID="5" name="carport_withrocks5_racing_assets_m3023_plate_1x2_3" designID="3023" materialID="21" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.598326683044434" ty="1.9835166931152344" tz="-18.2703857421875"/>
+        <Part refID="6" name="carport_withrocks5_racing_assets_m3004_brick_1x2_0" designID="3004" materialID="21" angle="0.98595893383026123" ax="0" ay="1" az="0" tx="11.598326683044434" ty="2.3035166263580322" tz="-18.2703857421875"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-59.688468933105469" ty="34.552558898925781" tz="81.230674743652344"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.6023950576782227" ty="3.8710682392120361" tz="-10.315418243408203"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="20.822074890136719" tz="-15.031972885131836"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="3.2649917602539062" tz="-15.031973838806152"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="20.26194953918457" ty="-11.507816314697266" tz="-18.775823593139648"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="14.703860282897949" ty="1.7695165872573853" tz="-18.334524154663086"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.4972114562988281" ty="1.5899690389633179" tz="-19.82469367980957"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="12.00515079498291" ty="1.7525166273117065" tz="-17.877328872680664"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="11.209712982177734" ty="1.8822989463806152" tz="-15.013689041137695"/>
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="12.00515079498291" ty="1.7525166273117065" tz="-17.877328872680664"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.6488733291625977" ty="1.6362454891204834" tz="-17.966768264770508"/>
+        <GroupRef groupRef="6" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="12.00515079498291" ty="1.7525166273117065" tz="-17.877328872680664"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="6" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-110.98142242431641" ty="-30.983585357666016" tz="3.4298880100250244"/>
+        <GroupRef groupRef="7" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="12.00515079498291" ty="1.7525166273117065" tz="-17.877328872680664"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

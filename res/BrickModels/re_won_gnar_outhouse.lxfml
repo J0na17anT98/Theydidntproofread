@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML majorVersion="2" minorVersion="1">
+
+  <Models>
+    <Model angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" modelName="OUTHOUSE" rotPivW="1.00000000" rotPivX="-0.00000001" rotPivY="-0.32000000" rotPivZ="0.00000001" x="-2.39376234" y="0.31727418" z="2.36724042">
+      <Group angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" groupID="0" groupName="PortaPotty" groupRefID="60" objectUniqueID="0" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.40000000" y="0.00000000" z="-0.40000000">
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_0" brickRefID="0" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="-0.32000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3062" brickName="m3062_round_brick_1x1_1" brickRefID="1" materialID="38" objectUniqueID="12015" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="3.20000000" y="0.64000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3062" brickName="m3062_round_brick_1x1_0" brickRefID="2" materialID="38" objectUniqueID="12015" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.64000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="2453" brickName="m2453_brick_1x1x5_6" brickRefID="3" materialID="192" objectUniqueID="13317" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.32000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="2453" brickName="m2453_brick_1x1x5_5" brickRefID="4" materialID="192" objectUniqueID="13317" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="0.32000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="2453" brickName="m2453_brick_1x1x5_4" brickRefID="5" materialID="192" objectUniqueID="13317" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="0.32000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="2453" brickName="m2453_brick_1x1x5_0" brickRefID="6" materialID="192" objectUniqueID="13317" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.32000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="2341" brickName="m2341_doub__invert_roof_tile_1x3_45Â__0" brickRefID="7" materialID="194" objectUniqueID="10996" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="4.23126346" z="-3.20000000">
+          <SubBrick materialID="194" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3623" brickName="m3623_plate_1x3_0" brickRefID="8" materialID="194" objectUniqueID="13812" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.20000000" y="5.19000000" z="-3.20000000">
+          <SubBrick materialID="194" surfaceID="0"/>
+        </Brick>
+        <Group angle="67.50000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" groupID="0" groupName="Toilet_door" groupRefID="62" objectUniqueID="0" rotPivW="1.00000000" rotPivX="3.20000003" rotPivY="0.00000000" rotPivZ="0.00000060" x="-1.97541359" y="0.00000000" z="2.95641416">
+          <Brick angle="247.50000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="4183" brickName="m4183_glass_for_door_0" brickRefID="9" materialID="40" objectUniqueID="14272" rotPivW="1.00000000" rotPivX="2.40056701" rotPivY="2.24000001" rotPivZ="-0.59963161" x="0.43532046" y="0.64000000" z="3.04655265">
+            <SubBrick materialID="40" surfaceID="0"/>
+          </Brick>
+          <Brick angle="247.50000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="4182" brickName="m4182_door__right_1x4x5_0" brickRefID="10" materialID="38" objectUniqueID="12554" rotPivW="1.00000000" rotPivX="2.40000010" rotPivY="2.24000001" rotPivZ="-0.60000002" x="0.43588737" y="0.64000000" z="3.04692106">
+            <SubBrick materialID="38" surfaceID="0"/>
+          </Brick>
+        </Group>
+        <Brick angle="148.60028519" ax="-0.67859834" ay="-0.28108464" az="0.67859834" brickID="48729" brickName="m48729_stick_Ã__3_2_w__holder_0" brickRefID="11" materialID="199" objectUniqueID="11555" rotPivW="1.00000000" rotPivX="-0.00123575" rotPivY="1.19768370" rotPivZ="-0.00000000" x="1.47828587" y="2.00400318" z="-3.19958845">
+          <SubBrick materialID="199" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="1.00000000" ay="0.00000000" az="0.00000000" brickID="30374" brickName="m30374_light_sword_blade_0" brickRefID="12" materialID="24" objectUniqueID="13394" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="0.64000000" z="-3.20000000">
+          <SubBrick materialID="24" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="-0.70710678" ay="-0.00000000" az="-0.70710678" brickID="30340" brickName="m30340_lifebuoy_with_knob_0" brickRefID="13" materialID="1" objectUniqueID="8875" rotPivW="1.00000000" rotPivX="0.80000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.20000000" y="2.24000000" z="-2.40000000">
+          <SubBrick materialID="1" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="30237" brickName="m30237_brick_1x2_w__horizontal_holder_0" brickRefID="14" materialID="38" objectUniqueID="14922" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="0.64000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_13" brickRefID="15" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="3.20000000" y="4.48000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_12" brickRefID="16" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="3.20000000" y="3.52000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_11" brickRefID="17" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="3.20000000" y="2.56000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_10" brickRefID="18" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="3.20000000" y="1.60000000" z="-4.00000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_9" brickRefID="19" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.32000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_8" brickRefID="20" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="1.28000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_7" brickRefID="21" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="2.24000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_6" brickRefID="22" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="3.20000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_5" brickRefID="23" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="4.16000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_4" brickRefID="24" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="4.16000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_3" brickRefID="25" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="3.20000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_2" brickRefID="26" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="2.24000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_1" brickRefID="27" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="1.28000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30137" brickName="m30137_palisade_brick_1x4_0" brickRefID="28" materialID="38" objectUniqueID="11549" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="0.32000000" z="-0.80000000">
+          <SubBrick materialID="38" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="6141" brickName="m6141_round_plate_1x1_0" brickRefID="29" materialID="194" objectUniqueID="12068" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="3.91126346" z="-3.20000000">
+          <SubBrick materialID="194" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="4523" brickName="m4523_pannier_0" brickRefID="30" materialID="23" objectUniqueID="8868" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="1.80615185" z="-3.20000000">
+          <SubBrick materialID="23" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="4349" brickName="m4349_megaphone_0" brickRefID="31" materialID="199" objectUniqueID="9611" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="3.20000000" z="-3.20000000">
+          <SubBrick materialID="199" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3958" brickName="m3958_plate_6x6_0" brickRefID="32" materialID="192" objectUniqueID="9135" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.00000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3794" brickName="m3794_plate_1x2_w__1_knob_1" brickRefID="33" materialID="194" objectUniqueID="10437" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="0.32000000" z="-2.40000000">
+          <SubBrick materialID="194" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3794" brickName="m3794_plate_1x2_w__1_knob_0" brickRefID="34" materialID="194" objectUniqueID="10437" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="0.32000000" z="-3.20000000">
+          <SubBrick materialID="194" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3710" brickName="m3710_plate_1x4_5" brickRefID="35" materialID="192" objectUniqueID="11829" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="5.44000000" z="-3.20000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3710" brickName="m3710_plate_1x4_4" brickRefID="36" materialID="192" objectUniqueID="11829" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="-0.00000000" y="5.44000000" z="-3.20000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3710" brickName="m3710_plate_1x4_3" brickRefID="37" materialID="192" objectUniqueID="11829" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.32000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3710" brickName="m3710_plate_1x4_0" brickRefID="38" materialID="192" objectUniqueID="11829" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.32000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3666" brickName="m3666_plate_1x6_8" brickRefID="39" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="5.44000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="0.00000000" ax="0.00000000" ay="0.00000000" az="1.00000000" brickID="3666" brickName="m3666_plate_1x6_7" brickRefID="40" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="5.44000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_6" brickRefID="41" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="5.12000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_5" brickRefID="42" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="5.12000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_4" brickRefID="43" materialID="192" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="4.00000000" y="-0.32000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_0" brickRefID="44" materialID="192" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.40000000" y="5.76000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="270.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3937" brickName="m3937_rocker_bearing_1x2_5" brickRefID="45" materialID="192" objectUniqueID="12150" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="6.08000000" z="-0.80000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="270.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3937" brickName="m3937_rocker_bearing_1x2_4" brickRefID="46" materialID="192" objectUniqueID="12150" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="6.08000000" z="-2.40000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="270.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3937" brickName="m3937_rocker_bearing_1x2_3" brickRefID="47" materialID="192" objectUniqueID="12150" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="6.08000000" z="-4.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3937" brickName="m3937_rocker_bearing_1x2_2" brickRefID="48" materialID="192" objectUniqueID="12150" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.40000000" y="6.08000000" z="-3.20000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3937" brickName="m3937_rocker_bearing_1x2_0" brickRefID="49" materialID="192" objectUniqueID="12150" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.40000000" y="6.08000000" z="0.00000000">
+          <SubBrick materialID="192" surfaceID="0"/>
+        </Brick>
+      </Group>
+      <Group angle="22.50000000" ax="0.00000000" ay="0.00000000" az="-1.00000000" groupID="0" groupName="group1" groupRefID="0" objectUniqueID="0" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.80000000" y="6.64000000" z="-0.40000000">
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_0" brickRefID="50" materialID="26" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.40000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="6134" brickName="m6134_plate_2x2__rocking__0" brickRefID="51" materialID="26" objectUniqueID="11745" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="-0.56000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="6134" brickName="m6134_plate_2x2__rocking__2" brickRefID="52" materialID="26" objectUniqueID="11745" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="-0.56000000" z="-3.20000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_1" brickRefID="53" materialID="26" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="0.40000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_2" brickRefID="54" materialID="26" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.40000000" y="0.08000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3020" brickName="m3020_plate_2x4_0" brickRefID="55" materialID="26" objectUniqueID="8575" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.72000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3023" brickName="m3023_plate_1x2_0" brickRefID="56" materialID="26" objectUniqueID="8310" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.72000000" z="-4.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="30383" brickName="m30383_plate_1x2_w_stub_along_upper_p_0" brickRefID="57" materialID="26" objectUniqueID="12589" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.72000000" z="-3.20000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="180.00000000" ax="-0.55557023" ay="-0.83146961" az="0.00000000" brickID="30553" brickName="m30553_fric_fork_w__cross_hole_0" brickRefID="58" materialID="26" objectUniqueID="14251" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="1.28000000" z="-3.20000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+      </Group>
+      <Group angle="180.00000000" ax="-0.19509032" ay="0.98078528" az="0.00000000" groupID="0" groupName="group2" groupRefID="0" objectUniqueID="0" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="2.00000000" y="6.64000000" z="-4.40000000">
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="3666" brickName="m3666_plate_1x6_0" brickRefID="59" materialID="26" objectUniqueID="12234" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.40000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="6134" brickName="m6134_plate_2x2__rocking__0" brickRefID="60" materialID="26" objectUniqueID="11745" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="-0.56000000" z="0.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="1.00000000" az="0.00000000" brickID="6134" brickName="m6134_plate_2x2__rocking__2" brickRefID="61" materialID="26" objectUniqueID="11745" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="-0.56000000" z="-3.20000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_0" brickRefID="62" materialID="26" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.00000000" y="0.72000000" z="-4.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_3" brickRefID="63" materialID="26" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="0.80000000" y="0.40000000" z="-4.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+        <Brick angle="90.00000000" ax="0.00000000" ay="-1.00000000" az="0.00000000" brickID="3795" brickName="m3795_plate_2x6_4" brickRefID="64" materialID="26" objectUniqueID="8733" rotPivW="1.00000000" rotPivX="0.00000000" rotPivY="0.00000000" rotPivZ="0.00000000" x="1.60000000" y="0.08000000" z="-4.00000000">
+          <SubBrick materialID="26" surfaceID="0"/>
+        </Brick>
+      </Group>
+    </Model>
+  </Models>
+
+  <BuildingInstructions/>
+
+  <Prepacks/>
+
+</LXFML>

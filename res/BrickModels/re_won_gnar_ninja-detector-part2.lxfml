@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="14.039786338806152" angle="74.47650146484375" ax="-0.18379019200801849" ay="0.97351211309432983" az="0.13599757850170135" tx="12.242852210998535" ty="6.6598653793334961" tz="3.1859602928161621"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4095_0" designID="4095" materialID="27" angle="26" ax="0" ay="0" az="1" tx="0" ty="5.7639365196228027" tz="0"/>
+        <Part refID="1" name="m3062_round_brick_1x1_0" designID="3062" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0" ty="4.6239361763000488" tz="0"/>
+        <Part refID="2" name="m59900_nose_cone_small_1x1_0" designID="59900" materialID="21" angle="180" ax="1" ay="0" az="0" tx="0" ty="4.6239361763000488" tz="0"/>
+        <Part refID="3" name="m59900_nose_cone_small_1x1_1" designID="59900" materialID="27" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.0039362888783216476" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

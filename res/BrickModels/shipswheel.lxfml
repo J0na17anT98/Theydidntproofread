@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="shipsWheel">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="2" versionMinor="3"/>
+    <Brand name="Factory"/>
+    <BrickSet version="38.19"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="79.282119750976563" angle="39.982215881347656" ax="-0.88124680519104004" ay="-0.4500918984413147" az="-0.14429622888565063" tx="-20.572282791137695" ty="46.096744537353516" tz="61.135326385498047"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="-2.4000000953674316" ty="0" tz="0.40000000596046448">
+        <Part refID="0" designID="3039" materialID="26" itemNos="303926" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        </Part>
+        <Part refID="1" designID="3003" materialID="26" itemNos="300326" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.95999997854232788" tz="0"/>
+        <Part refID="2" designID="3039" materialID="26" itemNos="303926" angle="180" ax="0" ay="1" az="0" tx="0.80000007152557373" ty="0" tz="-0.80000001192092896">
+        </Part>
+        <Part refID="3" designID="3700" materialID="26" itemNos="370026" angle="90" ax="0" ay="-1" az="0" tx="0" ty="1.9199999570846558" tz="-0.80000007152557373"/>
+        <Part refID="4" designID="3004" materialID="26" itemNos="300426" angle="90" ax="0" ay="1" az="0" tx="0.79999983310699463" ty="1.9199999570846558" tz="0">
+        </Part>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

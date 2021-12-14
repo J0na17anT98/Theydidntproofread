@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="4.3268938064575195" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="2.7133667469024658" ty="2.7287015914916992" tz="2.7133667469024658"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Cone">
+      <Group refID="0" name="Cone" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4589_nose_cone_small_1x1_0" designID="4589" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="0"/>
+        <Part refID="1" name="m3024_plate_1x1_0" designID="3024" materialID="26" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

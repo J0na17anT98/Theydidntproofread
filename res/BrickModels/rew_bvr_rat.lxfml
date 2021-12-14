@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="5" versionMinor="0">
+  <Meta>
+    <Application name="CCOP" versionMajor="0" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="215"/>
+  </Meta>
+  <Bricks>
+    <Brick refID="0" designID="6141">
+      <Part refID="0" designID="6141" materials="26">
+        <Bone refID="0" transformation="0.99999994039535522,0,0,0,0,1,0,-1,0,0.40000009536743164,0.5599980354309082,1.440000057220459">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="1" designID="3024">
+      <Part refID="1" designID="3024" materials="312">
+        <Bone refID="1" transformation="0.99999994039535522,0,0,0,0,1,0,-1,0,0.40000024437904358,0.5599980354309082,1.119999885559082">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="2" designID="4085">
+      <Part refID="2" designID="4085" materials="312">
+        <Bone refID="2" transformation="-1,0,0,0,0,1.0000001192092896,0,1.0000001192092896,0,0.39999976754188538,0.5599980354309082,0.80000001192092896">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="3" designID="47905">
+      <Part refID="3" designID="47905" materials="192">
+        <Bone refID="3" transformation="0,0,-1,0,0.99999994039535522,0,1,0,0,0.40000024437904358,0,0.39999997615814209">
+        </Bone>
+      </Part>
+    </Brick>
+    <Brick refID="4" designID="55298">
+      <Part refID="4" designID="55298" materials="283">
+        <Bone refID="4" transformation="1,0,0,0,0,-1,0,1,0,0.40000024437904358,0.55999815464019775,0.062000274658203125">
+        </Bone>
+      </Part>
+    </Brick>
+  </Bricks>
+  <RigidSystems>
+    <RigidSystem>
+      <Rigid refID="0" transformation="0.99999994039535522,0,0,0,0,1,0,-1,0,0.40000009536743164,0.5599980354309082,-0.1600000262260437" boneRefs="0,1,2,3,4"/>
+    </RigidSystem>
+  </RigidSystems>
+  <GroupSystems>
+    <GroupSystem>
+    </GroupSystem>
+  </GroupSystems>
+</LXFML>

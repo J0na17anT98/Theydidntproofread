@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Cameras>
+    <Camera refID="0" name="persp" fieldOfView="35" distance="8.7701826095581055" angle="52.372730255126953" ax="-0.49798086285591125" ay="0.84229898452758789" az="0.20627042651176453" tx="5.4997239112854004" ty="4.6924281120300293" tz="5.4997239112854004"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4497_0" designID="4497" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0" tz="0.80000001192092896"/>
+        <Part refID="1" name="m3846_0" designID="3846" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.31999999284744263" tz="0"/>
+        <Part refID="2" name="m60747_0" designID="60747" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0" tz="-0.80000007152557373"/>
+        <Part refID="3" name="m3626_0" designID="3626" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.41999999284744263" tz="0.80000001192092896"/>
+        <Part refID="4" name="m3819_0" designID="3819" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.6999999523162842" ty="0.63999998569488525" tz="0.80000001192092896"/>
+        <Part refID="5" name="m3818_0" designID="3818" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.53999998569488525" tz="-0.80000007152557373"/>
+        <Part refID="6" name="m3820_0" designID="3820" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.8999999523162842" ty="0.95999997854232788" tz="-0.80000007152557373"/>
+        <Part refID="7" name="m3820_1" designID="3820" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.85999997854232788" tz="0"/>
+        <Part refID="8" name="m3816_0" designID="3816" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.5999999523162842" ty="0.63999998569488525" tz="0"/>
+        <Part refID="9" name="m3816_1" designID="3816" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.8999999523162842" ty="0.95999997854232788" tz="0.80000001192092896"/>
+	<Part refID="10" name="m3040_0" designID="3040" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.85999997854232788" tz="0.80000001192092896"/>
+	<Part refID="11" name="m3040_1" designID="3040" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.53999998569488525" tz="0"/>
+	<Part refID="12" name="m3039_0" designID="3039" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2" ty="0.85999997854232788" tz="0"/>
+	<Part refID="13" name="m3660_0" designID="3660" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.41999999284744263" tz="0"/>
+	<Part refID="14" name="m3665_0" designID="3665" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0" tz="0.81000001192092896"/>\
+	<Part refID="15" name="m6141_0" designID="6141" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.41999999284744263" tz="0"/>
+	<Part refID="16" name="m50746_0" designID="50746" materialID="148" angle="0" ax="0" ay="1" az="0" tx="-2.7999999523162842" ty="0.53999998569488525" tz="0.80000001192092896"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

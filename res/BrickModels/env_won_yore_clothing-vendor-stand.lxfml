@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="Rack">
+      <Group refID="0" name="Rack" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" name="m3024_plate_1x1_0" designID="3024" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0.31999999284744263" tz="0"/>
+        <Part refID="2" name="m3005_brick_1x1_0" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0.63999998569488525" tz="0"/>
+        <Part refID="3" name="m3005_brick_1x1_1" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="1.6000000238418579" tz="0"/>
+        <Part refID="4" name="m4070_angular_brick_1x1_0" designID="4070" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.559999942779541" tz="0"/>
+        <Part refID="5" name="m3005_brick_1x1_2" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="4.4800000190734863" tz="0"/>
+        <Part refID="6" name="m3005_brick_1x1_3" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="3.5199999809265137" tz="0"/>
+        <Part refID="7" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="0"/>
+        <Part refID="8" name="m4095_0" designID="4095" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="0.40000000596046448" ty="3.119999885559082" tz="0"/>
+        <Part refID="9" name="m3794_plate_1x2_w__1_knob_1" designID="3794" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-5.1999998092651367"/>
+        <Part refID="10" name="m3024_plate_1x1_1" designID="3024" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0.31999999284744263" tz="-5.1999998092651367"/>
+        <Part refID="11" name="m3005_brick_1x1_4" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="0.63999998569488525" tz="-5.1999998092651367"/>
+        <Part refID="12" name="m3005_brick_1x1_5" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="1.6000000238418579" tz="-5.1999998092651367"/>
+        <Part refID="13" name="m4070_angular_brick_1x1_1" designID="4070" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.559999942779541" tz="-5.1999998092651367"/>
+        <Part refID="14" name="m3005_brick_1x1_6" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="4.4800000190734863" tz="-5.1999998092651367"/>
+        <Part refID="15" name="m3005_brick_1x1_7" designID="3005" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="3.5199999809265137" tz="-5.1999998092651367"/>
+        <Part refID="16" name="m2555_plate_1x1_w__up_right_holder_1" designID="2555" materialID="194" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="-5.1999998092651367"/>
+        <Part refID="17" name="m4095_1" designID="4095" materialID="194" angle="90" ax="-1" ay="0" az="0" tx="0.40000000596046448" ty="6.0100002288818359" tz="0"/>
+      </Group>
+      <Group refID="1" name="Pants" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.5499999523162842" tz="-0.9100000262260437">
+        <Part refID="18" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="19" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="-0.31999999284744263" tz="0"/>
+      </Group>
+      <Group refID="2" name="a73200_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.41999983787536621" tz="-0.9100000262260437">
+        <Part refID="20" name="m3816_mini_leg_right_0" designID="3816" materialID="192" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="21" name="m3817_mini_leg_left_0" designID="3817" materialID="192" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="0"/>
+      </Group>
+      <Group refID="3" name="hip" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.0199999809265137" tz="-0.9100000262260437">
+        <Part refID="22" name="m3815_mini_hip_0" designID="3815" materialID="192" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="4" name="Pants1" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.5499999523162842" tz="-2.0499999523162842">
+        <Part refID="23" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="24" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="-0.31999999284744263" tz="0"/>
+      </Group>
+      <Group refID="5" name="a73200_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.41999983787536621" tz="-2.0499999523162842">
+        <Part refID="25" name="m3816_mini_leg_right_0" designID="3816" materialID="23" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="26" name="m3817_mini_leg_left_0" designID="3817" materialID="23" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="0"/>
+      </Group>
+      <Group refID="6" name="hip" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.0199999809265137" tz="-2.0499999523162842">
+        <Part refID="27" name="m3815_mini_hip_0" designID="3815" materialID="23" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="7" name="Pants2" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.5499999523162842" tz="-3.130000114440918">
+        <Part refID="28" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="29" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="-0.31999999284744263" tz="0"/>
+      </Group>
+      <Group refID="8" name="a73200_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.41999983787536621" tz="-3.130000114440918">
+        <Part refID="30" name="m3816_mini_leg_right_0" designID="3816" materialID="26" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="31" name="m3817_mini_leg_left_0" designID="3817" materialID="26" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="0"/>
+      </Group>
+      <Group refID="9" name="hip" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.0199999809265137" tz="-3.130000114440918">
+        <Part refID="32" name="m3815_mini_hip_0" designID="3815" materialID="26" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="10" name="Pants3" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="2.5499999523162842" tz="-4.2399997711181641">
+        <Part refID="33" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="34" name="m3794_plate_1x2_w__1_knob_0" designID="3794" materialID="1" angle="0" ax="0" ay="1" az="0" tx="-0.40000000596046448" ty="-0.31999999284744263" tz="0"/>
+      </Group>
+      <Group refID="11" name="a73200_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.41999983787536621" tz="-4.2399997711181641">
+        <Part refID="35" name="m3816_mini_leg_right_0" designID="3816" materialID="199" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="36" name="m3817_mini_leg_left_0" designID="3817" materialID="199" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0.80000001192092896" ty="0" tz="0"/>
+      </Group>
+      <Group refID="12" name="hip" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.0199999809265137" tz="-4.2399997711181641">
+        <Part refID="37" name="m3815_mini_hip_0" designID="3815" materialID="199" assemblyID="73200" assemblyRefID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="13" name="Shirt" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="-0.9100000262260437">
+        <Part refID="38" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="14" name="a76382_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="4" tz="-0.9100000262260437">
+        <Part refID="39" name="m3814_mini_upper_part_0" designID="3814" materialID="21" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="15" name="LeftArm" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.0299859046936035" ty="4.9000811576843262" tz="-0.9100000262260437">
+        <Part refID="40" name="m3819_mini_arm__left_0" designID="3819" materialID="21" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="16" name="LeftHand" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.3651394844055176" ty="4.2086725234985352" tz="-0.90974020957946777">
+        <Part refID="41" name="m3820_mini_hand_1" designID="3820" materialID="21" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="17" name="RightArm" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.22999955713748932" ty="4.9000024795532227" tz="-0.9100000262260437">
+        <Part refID="42" name="m3818_mini_arm__right_0" designID="3818" materialID="21" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="18" name="RightHand" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.56515318155288696" ty="4.2085938453674316" tz="-0.90974020957946777">
+        <Part refID="43" name="m3820_mini_hand_0" designID="3820" materialID="21" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="19" name="Shirt1" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="-2.0499999523162842">
+        <Part refID="44" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="20" name="a76382_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="4" tz="-2.0499999523162842">
+        <Part refID="45" name="m3814_mini_upper_part_0" designID="3814" materialID="28" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="21" name="LeftArm" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.0299859046936035" ty="4.9000811576843262" tz="-2.0499999523162842">
+        <Part refID="46" name="m3819_mini_arm__left_0" designID="3819" materialID="28" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="22" name="LeftHand" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.3651394844055176" ty="4.2086725234985352" tz="-2.0497400760650635">
+        <Part refID="47" name="m3820_mini_hand_1" designID="3820" materialID="28" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="23" name="RightArm" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.22999955713748932" ty="4.9000024795532227" tz="-2.0499999523162842">
+        <Part refID="48" name="m3818_mini_arm__right_0" designID="3818" materialID="28" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="24" name="RightHand" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.56515318155288696" ty="4.2085938453674316" tz="-2.0497400760650635">
+        <Part refID="49" name="m3820_mini_hand_0" designID="3820" materialID="28" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="25" name="Shirt2" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="-3.130000114440918">
+        <Part refID="50" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="26" name="a76382_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="4" tz="-3.130000114440918">
+        <Part refID="51" name="m3814_mini_upper_part_0" designID="3814" materialID="23" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="27" name="LeftArm" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.0299859046936035" ty="4.9000811576843262" tz="-3.130000114440918">
+        <Part refID="52" name="m3819_mini_arm__left_0" designID="3819" materialID="23" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="28" name="LeftHand" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.3651394844055176" ty="4.2086725234985352" tz="-3.1297402381896973">
+        <Part refID="53" name="m3820_mini_hand_1" designID="3820" materialID="23" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="29" name="RightArm" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.22999955713748932" ty="4.9000024795532227" tz="-3.130000114440918">
+        <Part refID="54" name="m3818_mini_arm__right_0" designID="3818" materialID="23" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="30" name="RightHand" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.56515318155288696" ty="4.2085938453674316" tz="-3.1297402381896973">
+        <Part refID="55" name="m3820_mini_hand_0" designID="3820" materialID="23" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="31" name="Shirt3" angle="0" ax="0" ay="1" az="0" tx="0.40000000596046448" ty="5.440000057220459" tz="-4.2399997711181641">
+        <Part refID="56" name="m2555_plate_1x1_w__up_right_holder_0" designID="2555" materialID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="32" name="a76382_0" angle="0" ax="0" ay="1" az="0" tx="0" ty="4" tz="-4.2399997711181641">
+        <Part refID="57" name="m3814_mini_upper_part_0" designID="3814" materialID="5" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="33" name="LeftArm" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.0299859046936035" ty="4.9000811576843262" tz="-4.2399997711181641">
+        <Part refID="58" name="m3819_mini_arm__left_0" designID="3819" materialID="5" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="34" name="LeftHand" angle="68.149848937988281" ax="0.98782670497894287" ay="0.086423635482788086" az="0.12934210896492004" tx="1.3651394844055176" ty="4.2086725234985352" tz="-4.2397398948669434">
+        <Part refID="59" name="m3820_mini_hand_1" designID="3820" materialID="5" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="35" name="RightArm" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.22999955713748932" ty="4.9000024795532227" tz="-4.2399997711181641">
+        <Part refID="60" name="m3818_mini_arm__right_0" designID="3818" materialID="5" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Group refID="36" name="RightHand" angle="68.149848937988281" ax="0.98782670497894287" ay="-0.086423635482788086" az="-0.12934210896492004" tx="-0.56515318155288696" ty="4.2085938453674316" tz="-4.2397398948669434">
+        <Part refID="61" name="m3820_mini_hand_0" designID="3820" materialID="5" assemblyID="76382" assemblyRefID="1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="2.5499999523162842" tz="-0.9100000262260437"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-2.130000114440918" tz="0"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="1.1199488639831543" tz="0"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="-0.48005113005638123" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="2.5499999523162842" tz="-2.0499999523162842"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-2.130000114440918" tz="0"/>
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="5" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="1.1199488639831543" tz="0"/>
+        <GroupRef groupRef="6" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="-0.48005113005638123" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="2.5499999523162842" tz="-3.130000114440918"/>
+        <GroupRef groupRef="7" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="7" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-2.130000114440918" tz="0"/>
+        <GroupRef groupRef="8" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="8" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="1.1199488639831543" tz="0"/>
+        <GroupRef groupRef="9" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="-0.48005113005638123" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.40000000596046448" ty="2.5499999523162842" tz="-4.2399997711181641"/>
+        <GroupRef groupRef="10" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="10" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-2.130000114440918" tz="0"/>
+        <GroupRef groupRef="11" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="11" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="1.1199488639831543" tz="0"/>
+        <GroupRef groupRef="12" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="-0.48005113005638123" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="4" tz="-0.9100000262260437"/>
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="13" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+        <GroupRef groupRef="14" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="14" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.0299859046936035" ty="0.9000813364982605" tz="0"/>
+        <GroupRef groupRef="15" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="15" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.20999997854232788" ty="-0.28260260820388794" tz="0.68294215202331543"/>
+        <GroupRef groupRef="16" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="14" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.22999955713748932" ty="0.90000253915786743" tz="0"/>
+        <GroupRef groupRef="17" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="17" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.21000000834465027" ty="-0.28260257840156555" tz="0.68294209241867065"/>
+        <GroupRef groupRef="18" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="4" tz="-2.0499999523162842"/>
+        <GroupRef groupRef="19" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="19" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+        <GroupRef groupRef="20" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="20" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.0299859046936035" ty="0.9000813364982605" tz="0"/>
+        <GroupRef groupRef="21" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="21" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.20999997854232788" ty="-0.28260260820388794" tz="0.68294215202331543"/>
+        <GroupRef groupRef="22" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="20" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.22999955713748932" ty="0.90000253915786743" tz="0"/>
+        <GroupRef groupRef="23" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="23" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.21000000834465027" ty="-0.28260257840156555" tz="0.68294209241867065"/>
+        <GroupRef groupRef="24" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="4" tz="-3.130000114440918"/>
+        <GroupRef groupRef="25" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="25" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+        <GroupRef groupRef="26" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="26" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.0299859046936035" ty="0.9000813364982605" tz="0"/>
+        <GroupRef groupRef="27" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="27" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.20999997854232788" ty="-0.28260260820388794" tz="0.68294215202331543"/>
+        <GroupRef groupRef="28" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="26" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.22999955713748932" ty="0.90000253915786743" tz="0"/>
+        <GroupRef groupRef="29" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="29" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.21000000834465027" ty="-0.28260257840156555" tz="0.68294209241867065"/>
+        <GroupRef groupRef="30" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="4" tz="-4.2399997711181641"/>
+        <GroupRef groupRef="31" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="31" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.40000000596046448" ty="-1.440000057220459" tz="0"/>
+        <GroupRef groupRef="32" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="32" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="1.0299859046936035" ty="0.9000813364982605" tz="0"/>
+        <GroupRef groupRef="33" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="33" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0.20999997854232788" ty="-0.28260260820388794" tz="0.68294215202331543"/>
+        <GroupRef groupRef="34" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="32" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.22999955713748932" ty="0.90000253915786743" tz="0"/>
+        <GroupRef groupRef="35" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="35" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-0.21000000834465027" ty="-0.28260257840156555" tz="0.68294209241867065"/>
+        <GroupRef groupRef="36" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="0" ty="0" tz="0"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

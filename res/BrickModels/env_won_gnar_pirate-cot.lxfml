@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m6005_brick_w__bow_1x1x2_0" designID="6005" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="-0.7071068286895752" tx="0.38999998569488525" ty="3.0745956897735596" tz="2.7899999618530273"/>
+        <Part refID="1" name="m6005_brick_w__bow_1x1x2_1" designID="6005" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="0.7071068286895752" tx="0.38999998569488525" ty="3.0745956897735596" tz="-2.809999942779541"/>
+        <Part refID="2" name="m2431_flat_tile_1x4_0" designID="2431" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="-0.7071068286895752" tx="0.38999998569488525" ty="1.4745956659317017" tz="1.190000057220459"/>
+        <Part refID="3" name="m3022_plate_2x2_0" designID="3022" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="-0.7071068286895752" tx="-0.40999999642372131" ty="1.7945955991744995" tz="0.38999998569488525"/>
+        <Part refID="4" name="m2431_flat_tile_1x4_1" designID="2431" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="-0.7071068286895752" tx="-0.40999999642372131" ty="1.4745956659317017" tz="1.190000057220459"/>
+        <Part refID="5" name="m6005_brick_w__bow_1x1x2_2" designID="6005" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="-0.7071068286895752" tx="-0.40999999642372131" ty="3.0745956897735596" tz="2.7899999618530273"/>
+        <Part refID="6" name="m6005_brick_w__bow_1x1x2_3" designID="6005" materialID="1" angle="180" ax="0.70710676908493042" ay="0" az="0.7071068286895752" tx="-0.40999999642372131" ty="3.0745956897735596" tz="-2.809999942779541"/>
+        <Part refID="7" name="m3839_mini_handle_0" designID="3839" materialID="199" angle="180" ax="1" ay="0" az="0" tx="-0.40999999642372131" ty="3.3945956230163574" tz="-2.809999942779541"/>
+        <Part refID="8" name="m3839_mini_handle_1" designID="3839" materialID="199" angle="180" ax="0" ay="0" az="1" tx="0.38999998569488525" ty="3.3945956230163574" tz="2.7899999618530273"/>
+        <Part refID="9" name="m6019_plate_1x1_w_holder_vertical_0" designID="6019" materialID="192" angle="107.97838592529297" ax="-0.48565274477005005" ay="-0.72683066129684448" az="-0.48565274477005005" tx="1.1105887889862061" ty="2.5128867626190186" tz="3.3499999046325684"/>
+        <Part refID="10" name="m2431_flat_tile_1x4_2" designID="2431" materialID="192" angle="67.5" ax="0" ay="0" az="-1" tx="1.4062303304672241" ty="2.635345458984375" tz="3.3499999046325684"/>
+        <Part refID="11" name="m6019_plate_1x1_w_holder_vertical_1" designID="6019" materialID="192" angle="107.97838592529297" ax="-0.48565274477005005" ay="0.72683066129684448" az="0.48565274477005005" tx="-1.1305887699127197" ty="2.5128867626190186" tz="3.3499999046325684"/>
+        <Part refID="12" name="m2431_flat_tile_1x4_3" designID="2431" materialID="192" angle="180" ax="-0.55557024478912354" ay="0.83146971464157104" az="0" tx="-1.4262303113937378" ty="2.635345458984375" tz="3.3499999046325684"/>
+        <Part refID="13" name="m6019_plate_1x1_w_holder_vertical_2" designID="6019" materialID="192" angle="107.97838592529297" ax="-0.48565274477005005" ay="-0.72683066129684448" az="-0.48565274477005005" tx="1.1105887889862061" ty="2.5128867626190186" tz="-3.369999885559082"/>
+        <Part refID="14" name="m2431_flat_tile_1x4_4" designID="2431" materialID="192" angle="67.5" ax="0" ay="0" az="-1" tx="1.4062303304672241" ty="2.635345458984375" tz="-3.369999885559082"/>
+        <Part refID="15" name="m6019_plate_1x1_w_holder_vertical_3" designID="6019" materialID="192" angle="107.97838592529297" ax="-0.48565274477005005" ay="0.72683066129684448" az="0.48565274477005005" tx="-1.1305887699127197" ty="2.5128867626190186" tz="-3.369999885559082"/>
+        <Part refID="16" name="m2431_flat_tile_1x4_5" designID="2431" materialID="192" angle="180" ax="-0.55557024478912354" ay="0.83146971464157104" az="0" tx="-1.4262303113937378" ty="2.635345458984375" tz="-3.369999885559082"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m50746_115" designID="50746" materialID="191" angle="90" ax="0" ay="1" az="0" tx="2" ty="0.32000541687011719" tz="-0.40000000596046448"/>
+        <Part refID="1" name="m50746_108" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="-1.1999969482421875" ty="0.63999968767166138" tz="0.39998778700828552"/>
+        <Part refID="2" name="m3666_11" designID="3666" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.9999961853027344" ty="0.31999999284744263" tz="0.39998587965965271"/>
+        <Part refID="3" name="m50746_109" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="0.40000152587890625" ty="0.63999968767166138" tz="0.39998778700828552"/>
+        <Part refID="4" name="m50746_110" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="-1.9999961853027344" ty="0.63999968767166138" tz="0.39998587965965271"/>
+        <Part refID="5" name="m50746_111" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="-0.39999008178710938" ty="0.63999968767166138" tz="0.39998778700828552"/>
+        <Part refID="6" name="m50746_112" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="1.1999969482421875" ty="0.63999968767166138" tz="0.39998778700828552"/>
+        <Part refID="7" name="m50746_113" designID="50746" materialID="23" angle="180" ax="0" ay="1" az="0" tx="2" ty="0.64000016450881958" tz="0.39998587965965271"/>
+        <Part refID="8" name="m3795_23" designID="3795" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.9999961853027344" ty="0" tz="0.39998587965965271"/>
+        <Part refID="9" name="m50746_114" designID="50746" materialID="191" angle="90" ax="0" ay="-1" az="0" tx="-1.9999961853027344" ty="0.32000625133514404" tz="-0.40000191330909729"/>
+        <Part refID="10" name="m2412_38" designID="2412" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.1999969482421875" ty="0.63999968767166138" tz="-0.40001145005226135"/>
+        <Part refID="11" name="m3710_37" designID="3710" materialID="23" angle="0" ax="0" ay="1" az="0" tx="-1.1999969482421875" ty="0.31999999284744263" tz="-0.40001335740089417"/>
+        <Part refID="12" name="m2412_39" designID="2412" materialID="26" angle="180" ax="0" ay="1" az="0" tx="1.1999969482421875" ty="0.63999998569488525" tz="-0.40001526474952698"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

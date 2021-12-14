@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene>
+    <Model name="carport_withrocks5_racing_assets_model">
+      <Group refID="0" name="carport_withrocks5_racing_assets_model" angle="0" ax="0" ay="1" az="0" tx="-8" ty="0" tz="12">
+      </Group>
+      <Group refID="1" name="carport_withrocks5_group1" angle="159.47210693359375" ax="0.003792974166572094" ay="-0.99999254941940308" az="-0.00072037609061226249" tx="-63.222362518310547" ty="30.747627258300781" tz="80.543258666992188">
+      </Group>
+      <Group refID="2" name="carport_withrocks5_group8" angle="159.47210693359375" ax="0.003792974166572094" ay="-0.99999254941940308" az="-0.00072037609061226249" tx="-63.346885681152344" ty="48.304203033447266" tz="80.591102600097656">
+      </Group>
+      <Group refID="3" name="carport_withrocks5_group9" angle="169.71035766601562" ax="0.011959350667893887" ay="0.99992853403091431" az="8.062726556090638E-005" tx="-57.959964752197266" ty="34.487251281738281" tz="89.830802917480469">
+      </Group>
+      <Group refID="4" name="group1" angle="177.612548828125" ax="0.0053912689909338951" ay="-0.99998515844345093" az="-0.00073761190287768841" tx="14.481692314147949" ty="0.17556586861610413" tz="-18.744024276733398">
+        <Part refID="0" name="carport_withrocks5_racing_assets_m55596_square_13x13_mm_12" designID="55596" materialID="1" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="14.236475944519043" ty="1.7635529041290283" tz="-17.284885406494141">
+          <Decoration surfaceID="1" decorationID="59334"/>
+        </Part>
+        <Part refID="1" name="carport_withrocks5_racing_assets_m55596_square_13x13_mm_13" designID="55596" materialID="21" angle="120" ax="0.57735025882720947" ay="-0.57735025882720947" az="-0.57735025882720947" tx="16.636476516723633" ty="1.7635529041290283" tz="-17.30345344543457">
+          <Decoration surfaceID="1" decorationID="59335"/>
+        </Part>
+        <Part refID="2" name="carport_withrocks5_racing_assets_m6636_flat_tile_1x6_1" designID="6636" materialID="21" angle="0" ax="0" ay="1" az="0" tx="13.433625221252441" ty="2.6235165596008301" tz="-17.460546493530273"/>
+        <Part refID="3" name="carport_withrocks5_racing_assets_m4533_cupboard__door_3x2_8" designID="4533" materialID="26" angle="0" ax="0" ay="1" az="0" tx="13.43647575378418" ty="0.70355284214019775" tz="-17.684886932373047"/>
+        <Part refID="4" name="carport_withrocks5_racing_assets_m4533_cupboard__door_3x2_9" designID="4533" materialID="26" angle="180" ax="0" ay="0" az="1" tx="17.426475524902344" ty="2.8335528373718262" tz="-17.684886932373047"/>
+        <Part refID="5" name="carport_withrocks5_racing_assets_m4532_cupboard_2x3x2_4" designID="4532" materialID="21" angle="0" ax="0" ay="1" az="0" tx="13.433625221252441" ty="0.70351660251617432" tz="-17.460546493530273"/>
+        <Part refID="6" name="carport_withrocks5_racing_assets_m4532_cupboard_2x3x2_5" designID="4532" materialID="21" angle="0" ax="0" ay="1" az="0" tx="15.833625793457031" ty="0.70351660251617432" tz="-17.460546493530273"/>
+        <Part refID="7" name="carport_withrocks5_racing_assets_m3795_plate_2x6_1" designID="3795" materialID="21" angle="0" ax="0" ay="1" az="0" tx="13.433625221252441" ty="0.38351660966873169" tz="-17.460546493530273"/>
+        <Part refID="8" name="carport_withrocks5_racing_assets_m3023_plate_1x2_28" designID="3023" materialID="194" angle="90" ax="0" ay="-1" az="0" tx="17.433626174926758" ty="0.063516616821289063" tz="-18.26054573059082"/>
+        <Part refID="9" name="carport_withrocks5_racing_assets_m3023_plate_1x2_29" designID="3023" materialID="194" angle="90" ax="0" ay="-1" az="0" tx="13.433625221252441" ty="0.063516616821289063" tz="-18.26054573059082"/>
+        <Part refID="10" name="carport_withrocks5_racing_assets_m2431_flat_tile_1x4_4" designID="2431" materialID="21" angle="0" ax="0" ay="1" az="0" tx="14.233625411987305" ty="2.6235165596008301" tz="-18.26054573059082"/>
+        <Part refID="11" name="carport_withrocks5_racing_assets_m2420_corner_plate_1x2x2_9" designID="2420" materialID="21" angle="90" ax="0" ay="1" az="0" tx="13.433626174926758" ty="2.6235165596008301" tz="-18.26054573059082"/>
+        <Part refID="12" name="carport_withrocks5_racing_assets_m2420_corner_plate_1x2x2_10" designID="2420" materialID="21" angle="0" ax="0" ay="1" az="0" tx="16.633625030517578" ty="2.6235165596008301" tz="-19.060546875"/>
+        <Part refID="13" name="carport_withrocks5_racing_assets_m3004_brick_1x2_7" designID="3004" materialID="21" angle="120.39659118652344" ax="-0.0055458014830946922" ay="0.99992144107818604" az="-0.011238900013267994" tx="15.875746726989746" ty="2.9765224456787109" tz="-17.466012954711914"/>
+        <Part refID="14" name="carport_withrocks5_racing_assets_m3069_flat_tile_1x2_2" designID="3069" materialID="21" angle="120.39659118652344" ax="-0.0055458014830946922" ay="0.99992144107818604" az="-0.011238900013267994" tx="15.877175331115723" ty="3.9362971782684326" tz="-17.486753463745117"/>
+        <Part refID="15" name="carport_withrocks5_racing_assets_m57606_square_8x14_mm_5" designID="57606" materialID="21" angle="103.30340576171875" ax="0.77353560924530029" ay="-0.4437708854675293" az="0.45244896411895752" tx="15.337603569030762" ty="3.4543869495391846" tz="-17.605031967163086">
+          <Decoration surfaceID="1" decorationID="59316"/>
+        </Part>
+      </Group>
+      <Joint type="ball">
+        <GroupRef groupRef="0" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-59.688468933105469" ty="34.552555084228516" tz="81.230674743652344"/>
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.6023950576782227" ty="3.8710682392120361" tz="-10.315418243408203"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="1" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="20.822074890136719" tz="-15.031973838806152"/>
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="8.644251823425293" ty="3.2649917602539062" tz="-15.031973838806152"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="2" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="20.261947631835938" ty="-11.507817268371582" tz="-18.77583122253418"/>
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="14.703860282897949" ty="1.7695165872573853" tz="-18.334524154663086"/>
+      </Joint>
+      <Joint type="ball">
+        <GroupRef groupRef="3" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="-41.586215972900391" ty="-31.162286758422852" tz="98.522216796875"/>
+        <GroupRef groupRef="4" ax="0" ay="1" az="0" zx="0" zy="0" zz="1" tx="15.433625221252441" ty="2.1662056446075439" tz="-18.362747192382812"/>
+      </Joint>
+    </Model>
+  </Scene>
+</LXFML>

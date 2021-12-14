@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="114"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m30094_0" designID="30094" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.40000051259994507" ty="-0.16425704956054688" tz="0.40000057220458984"/>
+        <Part refID="1" name="m4150_0" designID="4150" materialID="24" angle="0" ax="0" ay="1" az="0" tx="-0.40000051259994507" ty="0.15574294328689575" tz="0.40000057220458984"/>
+        <Part refID="2" name="m2335_0" designID="2335" materialID="199" angle="116.67327117919922" ax="-0.55661684274673462" ay="-0.55661684274673462" az="-0.61672961711883545" tx="-0.86000055074691772" ty="0.08374292403459549" tz="1.6000003814697266"/>
+        <Part refID="3" name="m2335_1" designID="2335" materialID="199" angle="123.44234466552734" ax="-0.59606647491455078" ay="0.59606647491455078" az="0.53796786069869995" tx="0.79906946420669556" ty="0.082743033766746521" tz="-1.5979995727539063"/>
+        <Part refID="4" name="m2335_2" designID="2335" materialID="199" angle="90.149986267089844" ax="-0.99738562107086182" ay="0.051097922027111053" az="-0.051097918301820755" tx="1.5989987850189209" ty="0.082742981612682343" tz="0.79514122009277344"/>
+        <Part refID="5" name="m2335_3" designID="2335" materialID="199" angle="175.85299682617187" ax="0.036203041672706604" ay="-0.70664322376251221" az="-0.70664322376251221" tx="-1.5990006923675537" ty="0.082742959260940552" tz="-0.76212882995605469"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

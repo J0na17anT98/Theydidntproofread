@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0" name="Racecar_VentureLeague_RearBumper">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Cameras>
+    <Camera refID="0" fieldOfView="80" distance="31.639610290527344" angle="40.565990447998047" ax="-0.98077505826950073" ay="0.18346136808395386" az="0.066499046981334686" tx="3.6021502017974854" ty="20.734916687011719" tz="24.172946929931641"/>
+  </Cameras>
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" designID="3795" materialID="192" angle="180" ax="0" ay="1" az="0" tx="2" ty="0" tz="-0.40000000596046448"/>
+        <Part refID="1" designID="3023" materialID="192" angle="89.999984741210937" ax="0" ay="1" az="0" tx="1.1999994516372681" ty="0.31999161839485168" tz="0.39999976754188538"/>
+        <Part refID="2" designID="3040" materialID="194" angle="180" ax="0" ay="1" az="0" tx="1.1999994516372681" ty="0.63999181985855103" tz="0.3999994695186615">
+        </Part>
+        <Part refID="3" designID="3040" materialID="194" angle="180" ax="0" ay="1" az="0" tx="1.9999997615814209" ty="0.31999152898788452" tz="0.39999988675117493">
+        </Part>
+        <Part refID="4" designID="3040" materialID="194" angle="180" ax="0" ay="1" az="0" tx="-2.0000014305114746" ty="0.31999200582504272" tz="0.39999917149543762">
+        </Part>
+        <Part refID="5" designID="3039" materialID="194" angle="180" ax="0" ay="1" az="0" tx="0.39999943971633911" ty="0.31999170780181885" tz="0.39999949932098389">
+        </Part>
+        <Part refID="6" designID="3040" materialID="194" angle="180" ax="0" ay="1" az="0" tx="-1.2000008821487427" ty="0.6399921178817749" tz="0.39999920129776001">
+        </Part>
+        <Part refID="7" designID="3023" materialID="192" angle="89.999984741210937" ax="0" ay="1" az="0" tx="-1.2000008821487427" ty="0.31999215483665466" tz="0.39999949932098389"/>
+      </Group>
+    </Model>
+  </Scene>
+  <BuildingInstructions>
+  </BuildingInstructions>
+</LXFML>

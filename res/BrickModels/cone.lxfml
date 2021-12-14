@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Scene cameraRefID="0">
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3022_plate_2x2_0" designID="3022" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+        <Part refID="1" name="m3942_nose_cone_2x2x2_0" designID="3942" materialID="106" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31999999284744263" tz="0"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

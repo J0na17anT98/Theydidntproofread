@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="3" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="73"/>
+  </Meta>
+  <Scene>
+    <Model name="Group">
+      <Group refID="0" name="Group" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m4216_0" designID="4216" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.1999998092651367" ty="0" tz="4.400001049041748"/>
+        <Part refID="1" name="m4216_1" designID="4216" materialID="21" angle="0" ax="0" ay="1" az="0" tx="-1.1999998092651367" ty="0.95999616384506226" tz="4.400001049041748"/>
+        <Part refID="2" name="m4445_0" designID="4445" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-2.7999997138977051" ty="1.9199961423873901" tz="3.6000008583068848"/>
+        <Part refID="3" name="m4216_2" designID="4216" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0.40000009536743164" ty="0.95999616384506226" tz="4.400001049041748"/>
+        <Part refID="4" name="m4216_3" designID="4216" materialID="21" angle="0" ax="0" ay="1" az="0" tx="0.40000009536743164" ty="0" tz="4.400001049041748"/>
+        <Part refID="5" name="m6182_0" designID="6182" materialID="21" angle="90" ax="0" ay="-1" az="0" tx="2.0000002384185791" ty="0" tz="2.0000014305114746"/>
+        <Part refID="6" name="m3010_0" designID="3010" materialID="21" angle="90" ax="0" ay="1" az="0" tx="-2" ty="0.95999616384506226" tz="4.400001049041748"/>
+        <Part refID="7" name="m3010_1" designID="3010" materialID="21" angle="90" ax="0" ay="1" az="0" tx="-2" ty="0" tz="4.400001049041748"/>
+        <Part refID="8" name="m4445_1" designID="4445" materialID="199" angle="180" ax="0" ay="1" az="0" tx="2.8000001907348633" ty="1.9199999570846558" tz="2.8000006675720215"/>
+        <Part refID="9" name="m4216_4" designID="4216" materialID="21" angle="180" ax="0" ay="1" az="0" tx="1.2000002861022949" ty="0.95999616384506226" tz="2.0000004768371582"/>
+        <Part refID="10" name="m4216_5" designID="4216" materialID="21" angle="180" ax="0" ay="1" az="0" tx="1.2000002861022949" ty="0" tz="2.0000004768371582"/>
+        <Part refID="11" name="m4216_6" designID="4216" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-0.39999961853027344" ty="0.95999616384506226" tz="2.0000004768371582"/>
+        <Part refID="12" name="m4216_7" designID="4216" materialID="21" angle="180" ax="0" ay="1" az="0" tx="-0.39999961853027344" ty="0" tz="2.0000004768371582"/>
+        <Part refID="13" name="m3041_0" designID="3041" materialID="199" angle="0" ax="0" ay="1" az="0" tx="-2.7999997138977051" ty="2.8799960613250732" tz="3.6000008583068848"/>
+	<Part refID="13" name="m3041_0" designID="3041" materialID="199" angle="0" ax="0" ay="1" az="0" tx="0.400000000000000" ty="2.8799960613250732" tz="3.6000008583068848"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>

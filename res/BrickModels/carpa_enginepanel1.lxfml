@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LXFML versionMajor="4" versionMinor="0">
+  <Meta>
+    <Application name="LEGO Digital Designer" versionMajor="4" versionMinor="0"/>
+    <Brand name="LEGOUniverse"/>
+    <BrickSet version="287"/>
+  </Meta>
+  <Scene>
+    <Model>
+      <Group refID="0" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0">
+        <Part refID="0" name="m3020_1" designID="3020" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="-0.40000000596046448" ty="0" tz="-1.2000000476837158"/>
+        <Part refID="1" name="m3023_1" designID="3023" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="1.2000000476837158" ty="0" tz="-1.199998140335083"/>
+        <Part refID="2" name="m3023_2" designID="3023" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="-1.2000000476837158" ty="0" tz="-1.199998140335083"/>
+        <Part refID="3" name="m41769_0" designID="41769" materialID="26" angle="89.999969482421875" ax="0" ay="1" az="0" tx="-0.39999294281005859" ty="0.29979079961776733" tz="2.8000028133392334"/>
+        <Part refID="4" name="m43719_0" designID="43719" materialID="26" angle="89.999969482421875" ax="0" ay="-1" az="0" tx="-1.1999944448471069" ty="-0.02020937018096447" tz="0.40000325441360474"/>
+        <Part refID="5" name="m41770_0" designID="41770" materialID="26" angle="89.999969482421875" ax="0" ay="1" az="0" tx="0.40000647306442261" ty="0.29979079961776733" tz="2.8000028133392334"/>
+        <Part refID="6" name="m47753_0" designID="47753" materialID="26" angle="89.999984741210937" ax="0" ay="-1" az="0" tx="-1.1999961137771606" ty="0.61979073286056519" tz="0.40000516176223755"/>
+        <Part refID="7" name="m3021_0" designID="3021" materialID="26" angle="89.999977111816406" ax="0" ay="-1" az="0" tx="-0.3999941349029541" ty="0.93979066610336304" tz="-1.199998140335083"/>
+        <Part refID="8" name="m3068_0" designID="3068" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.39999496936798096" ty="1.2597908973693848" tz="-0.39999788999557495"/>
+        <Part refID="9" name="m3710_0" designID="3710" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.1999953985214233" ty="0.61979073286056519" tz="-0.39999788999557495"/>
+        <Part refID="10" name="m3020_0" designID="3020" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.1999953985214233" ty="0.29979032278060913" tz="-0.39999788999557495"/>
+        <Part refID="11" name="m3023_0" designID="3023" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-0.39999496936798096" ty="0.61979073286056519" tz="-1.199998140335083"/>
+        <Part refID="12" name="m50746_0" designID="50746" materialID="26" angle="89.999977111816406" ax="0" ay="-1" az="0" tx="-1.1999953985214233" ty="0.93979066610336304" tz="-0.39999788999557495"/>
+        <Part refID="13" name="m50746_1" designID="50746" materialID="26" angle="89.999977111816406" ax="0" ay="1" az="0" tx="1.2000045776367187" ty="0.93979066610336304" tz="-0.39999788999557495"/>
+        <Part refID="14" name="m3024_0" designID="3024" materialID="154" angle="0" ax="0" ay="1" az="0" tx="2.0000064373016357" ty="-0.020172653719782829" tz="2.800006628036499"/>
+        <Part refID="15" name="m61678_0" designID="61678" materialID="154" angle="90" ax="0" ay="-1" az="0" tx="2.0000069141387939" ty="0.93982714414596558" tz="0.40000611543655396"/>
+        <Part refID="16" name="m62361_0" designID="62361" materialID="26" angle="90" ax="0" ay="1" az="0" tx="2.0000069141387939" ty="-0.020175991579890251" tz="2.0000030994415283"/>
+        <Part refID="17" name="m3024_1" designID="3024" materialID="26" angle="0" ax="0" ay="1" az="0" tx="2.000007152557373" ty="0.29982441663742065" tz="-1.9999964237213135"/>
+        <Part refID="18" name="m2420_0" designID="2420" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="2.000007152557373" ty="0.61982434988021851" tz="-1.9999964237213135"/>
+        <Part refID="19" name="m63864_0" designID="63864" materialID="154" angle="90" ax="0" ay="-1" az="0" tx="2.0000064373016357" ty="0.93982452154159546" tz="-1.9999964237213135"/>
+        <Part refID="20" name="m50746_2" designID="50746" materialID="26" angle="89.999992370605469" ax="0" ay="1" az="0" tx="1.2000072002410889" ty="0.93982428312301636" tz="-1.1999962329864502"/>
+        <Part refID="21" name="m3024_2" designID="3024" materialID="154" angle="0" ax="0" ay="1" az="0" tx="-1.9999969005584717" ty="-0.020174561068415642" tz="2.8000047206878662"/>
+        <Part refID="22" name="m61678_1" designID="61678" materialID="154" angle="90" ax="0" ay="-1" az="0" tx="-1.9999958276748657" ty="0.93982523679733276" tz="0.40000492334365845"/>
+        <Part refID="23" name="m3024_3" designID="3024" materialID="26" angle="0" ax="0" ay="1" az="0" tx="-1.9999958276748657" ty="0.29982393980026245" tz="-1.9999978542327881"/>
+        <Part refID="24" name="m62361_1" designID="62361" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="-1.9999958276748657" ty="-0.020177183672785759" tz="-1.9999973773956299"/>
+        <Part refID="25" name="m2420_1" designID="2420" materialID="26" angle="180" ax="0" ay="1" az="0" tx="-1.1999945640563965" ty="0.61982530355453491" tz="-1.199995756149292"/>
+        <Part refID="26" name="m63864_1" designID="63864" materialID="154" angle="90" ax="0" ay="-1" az="0" tx="-1.9999958276748657" ty="0.93982523679733276" tz="-1.9999954700469971"/>
+        <Part refID="27" name="m50746_3" designID="50746" materialID="26" angle="90" ax="0" ay="-1" az="0" tx="-1.1999945640563965" ty="0.93982523679733276" tz="-1.199995756149292"/>
+      </Group>
+    </Model>
+  </Scene>
+</LXFML>
